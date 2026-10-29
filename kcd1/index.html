@@ -67,7 +67,23 @@ h1,h2,h3,h4,h5{font-family:var(--head);font-weight:400;margin:0}
 .layout{display:flex;max-width:1360px;margin:0 auto}
 #sidebar{position:sticky;top:var(--hh);align-self:flex-start;width:280px;flex-shrink:0;max-height:calc(100vh - var(--hh));overflow:auto;padding:1.8rem 1rem 3rem 1.4rem;scrollbar-width:thin;scrollbar-color:#2a2a2e transparent}
 .navhead{font-family:var(--head);font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);margin-bottom:.6rem}
-.nimm{display:block;font-family:var(--head);font-size:1.05rem;color:var(--y);padding:.2rem 0 .6rem}
+.nimm{display:block;font-family:var(--head);font-size:1.05rem;color:var(--y);padding:.15rem 0 .35rem}
+.mainstory{padding:0;background:var(--card)}
+.mainstory>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:1rem;padding:1rem 1.3rem}
+.mainstory>summary .lbl{color:var(--main);font-size:.9rem}
+.mst{flex:1;font-family:var(--head);font-size:1.25rem}
+.msp{font-family:var(--head);color:var(--faint);font-variant-numeric:tabular-nums}
+.msnote{margin:0 1.3rem .6rem;color:var(--muted);font-size:.93rem;font-style:italic}
+.mslist{list-style:none;counter-reset:m;margin:0;padding:0 1.3rem 1rem;columns:2 300px;column-gap:2rem}
+.mslist li{counter-increment:m;break-inside:avoid;border-top:1px solid var(--line)}
+.mslist a{display:grid;grid-template-columns:2rem 1fr;padding:.45rem 0;color:var(--ink)}
+.mslist a::before{content:counter(m);grid-row:1/3;font-family:var(--head);color:var(--main);font-variant-numeric:tabular-nums}
+.mslist a:hover{text-decoration:none}.mslist a:hover .mn{color:var(--y)}
+.mn{font-family:var(--head);font-size:1.08rem;line-height:1.25}
+.mv{font-size:.82rem;color:var(--faint)}
+.mslist li.ok .mn{color:var(--faint);text-decoration:line-through}
+.mslist li.ok a::before{content:"✓";color:var(--act)}
+#mainonly.on{border-color:var(--main);color:var(--main)}
 #sidebar ol{list-style:none;margin:0;padding:0}
 .nact{display:block;font-family:var(--head);font-size:1.08rem;color:var(--ink);line-height:1.25;margin:1.1rem 0 .35rem}
 .nact span{display:block;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold)}
@@ -267,7 +283,7 @@ footer .crest{color:var(--y);font-size:1.2rem}
 <div class="prog"><div class="track"><i></i></div><span id="progtxt">0 / 268</span></div>
 </div>
 <div class="filters">
-<span class="grp">Type</span><label class="pill"><input type="checkbox" class="tf" value="MAIN" checked><span>Main</span></label><label class="pill"><input type="checkbox" class="tf" value="SIDE" checked><span>Side</span></label><label class="pill"><input type="checkbox" class="tf" value="DLC" checked><span>DLC</span></label><label class="pill"><input type="checkbox" class="tf" value="ACTIVITY" checked><span>Activity</span></label><label class="pill"><input type="checkbox" class="tf" value="OBJ" checked><span>Objective / RP</span></label>
+<span class="grp">Type</span><button class="btn" id="mainonly">Main only</button><label class="pill"><input type="checkbox" class="tf" value="MAIN" checked><span>Main</span></label><label class="pill"><input type="checkbox" class="tf" value="SIDE" checked><span>Side</span></label><label class="pill"><input type="checkbox" class="tf" value="DLC" checked><span>DLC</span></label><label class="pill"><input type="checkbox" class="tf" value="ACTIVITY" checked><span>Activity</span></label><label class="pill"><input type="checkbox" class="tf" value="OBJ" checked><span>Objective / RP</span></label>
 <span class="grp">Content</span><select id="dlcsel" aria-label="DLC filter"><option value="">All content</option><option value="A Woman&#x27;s Lot">A Woman&#x27;s Lot</option><option value="Band of Bastards">Band of Bastards</option><option value="From the Ashes">From the Ashes</option><option value="The Amorous Adventures of Bold Sir Hans Capon">The Amorous Adventures of Bold Sir Hans Capon</option></select>
 <label class="pill"><input type="checkbox" id="hidedone"><span>Hide done</span></label>
 <span class="grp">View</span><button class="btn" id="expand">Expand</button><button class="btn" id="collapse">Collapse</button><span class="grp">Progress</span><button class="btn" id="export">Export</button><button class="btn" id="import">Import</button><input type="file" id="importf" accept="application/json,.json" hidden><button class="btn" id="reset">Reset ticks</button>
@@ -275,7 +291,7 @@ footer .crest{color:var(--y);font-size:1.2rem}
 </div>
 <div class="layout">
 <nav id="sidebar" aria-label="Contents"><div class="navhead">Contents</div>
-<a class="nimm" href="#immersion">Immersion Charter</a><ol class="nacts">
+<a class="nimm" href="#mainstory">Main story</a><a class="nimm" href="#immersion">Immersion Charter</a><ol class="nacts">
 <li><a class="nact" href="#act1" data-act="act1"><svg class="ring" viewBox="0 0 36 36" aria-hidden="true"><circle cx="18" cy="18" r="15.5"/><circle class="rf" cx="18" cy="18" r="15.5" pathLength="100"/></svg><span>Act I</span>Prologue &amp; A Woman&#x27;s Lot</a><ol>
 <li><a href="#v1"><span>1</span>Intro</a></li>
 </ol></li>
@@ -408,7 +424,7 @@ footer .crest{color:var(--y);font-size:1.2rem}
 </ol></li>
 <li><a class="nact" href="#appendix"><span>Appendix</span>Reference</a></li></ol></nav>
 <main>
-<div id="charter-wrap"><section class="frame charter" id="immersion"><div class="orn" aria-hidden="true">✠</div>
+<details class="frame mainstory" id="mainstory"><summary><span class="lbl">Main story</span><span class="mst">28 quests in order</span><span class="msp">0/28</span><span class="chev" aria-hidden="true"></span></summary><p class="msnote">This route deliberately delays the story: after the prologue, Awakening doesn't come until Visit 45. Visits 2–44 are Henry earning his keep. The Vengeance tracker at the top of Act II runs in the background.</p><ol class="mslist"><li data-ids="v1-e1"><a href="#v1-e1"><span class="mn">Unexpected Visit</span><span class="mv">Visit 1 · Intro</span></a></li><li data-ids="v1-e2"><a href="#v1-e2"><span class="mn">Run!</span><span class="mv">Visit 1 · Intro</span></a></li><li data-ids="v1-e3"><a href="#v1-e3"><span class="mn">Homecoming</span><span class="mv">Visit 1 · Intro</span></a></li><li data-ids="v45-e1"><a href="#v45-e1"><span class="mn">Awakening</span><span class="mv">Visit 45 · Rattay #11</span></a></li><li data-ids="v45-e2"><a href="#v45-e2"><span class="mn">Train Hard, Fight Easy</span><span class="mv">Visit 45 · Rattay #11</span></a></li><li data-ids="v45-e9"><a href="#v45-e9"><span class="mn">Keeping the Peace</span><span class="mv">Visit 45 · Rattay #11</span></a></li><li data-ids="v45-e11"><a href="#v45-e11"><span class="mn">The Prey</span><span class="mv">Visit 45 · Rattay #11</span></a></li><li data-ids="v46-e1"><a href="#v46-e1"><span class="mn">The Hunt Begins</span><span class="mv">Visit 46 · Neuhof #1</span></a></li><li data-ids="v46-e2"><a href="#v46-e2"><span class="mn">Ginger in a Pickle</span><span class="mv">Visit 46 · Neuhof #1</span></a></li><li data-ids="v47-e1"><a href="#v47-e1"><span class="mn">Mysterious Ways</span><span class="mv">Visit 47 · Uzhitz #4</span></a></li><li data-ids="v48-e1"><a href="#v48-e1"><span class="mn">On the Scent</span><span class="mv">Visit 48 · Ledetchko #10</span></a></li><li data-ids="v49-e1"><a href="#v49-e1"><span class="mn">My Friend Timmy</span><span class="mv">Visit 49 · Merhojed #2</span></a></li><li data-ids="v50-e1"><a href="#v50-e1"><span class="mn">Nest of Vipers</span><span class="mv">Visit 50 · Pribyslavitz #1</span></a></li><li data-ids="v50-e2"><a href="#v50-e2"><span class="mn">Baptism of Fire</span><span class="mv">Visit 50 · Pribyslavitz #1</span></a></li><li data-ids="v67-e1 v84-e3"><a href="#v67-e1"><span class="mn">Questions and Answers</span><span class="mv">Visit 67–84 · Rattay #15</span></a></li><li data-ids="v84-e4 v85-e1 v86-e1 v87-e1 v89-e2 v90-e1 v91-e1 v100-e2"><a href="#v84-e4"><span class="mn">All that Glisters</span><span class="mv">Visit 84–100 · Merhojed #6</span></a></li><li data-ids="v101-e2"><a href="#v101-e2"><span class="mn">If You Can&#x27;t Beat &#x27;em</span><span class="mv">Visit 101 · Sasau #14</span></a></li><li data-ids="v101-e3 v103-e1"><a href="#v101-e3"><span class="mn">Poverty, Chastity and Obedience</span><span class="mv">Visit 101–103 · Sasau #14</span></a></li><li data-ids="v104-e1 v104-e9"><a href="#v104-e1"><span class="mn">A Needle in a Haystack</span><span class="mv">Visit 104 · Sasau #15</span></a></li><li data-ids="v104-e11 v105-e1 v106-e1"><a href="#v104-e11"><span class="mn">The Die is Cast</span><span class="mv">Visit 104–106 · Sasau #15</span></a></li><li data-ids="v106-e2"><a href="#v106-e2"><span class="mn">Payback</span><span class="mv">Visit 106 · Vranik #1</span></a></li><li data-ids="v107-e1"><a href="#v107-e1"><span class="mn">Out of the Frying Pan</span><span class="mv">Visit 107 · Talmberg #11</span></a></li><li data-ids="v107-e2"><a href="#v107-e2"><span class="mn">Night Raid</span><span class="mv">Visit 107 · Talmberg #11</span></a></li><li data-ids="v107-e3 v109-e2 v111-e1 v111-e5"><a href="#v107-e3"><span class="mn">Siege</span><span class="mv">Visit 107–111 · Talmberg #11</span></a></li><li data-ids="v111-e2"><a href="#v111-e2"><span class="mn">Cold Steel, Hot Blood</span><span class="mv">Visit 111 · Talmberg #13</span></a></li><li data-ids="v111-e3"><a href="#v111-e3"><span class="mn">Family Values</span><span class="mv">Visit 111 · Talmberg #13</span></a></li><li data-ids="v111-e4 v111-e6"><a href="#v111-e4"><span class="mn">An Oath is an Oath</span><span class="mv">Visit 111 · Talmberg #13</span></a></li><li data-ids="v112-e1 v114-e1"><a href="#v112-e1"><span class="mn">Epilogue</span><span class="mv">Visit 112–114 · Rattay #23</span></a></li></ol></details><div id="charter-wrap"><section class="frame charter" id="immersion"><div class="orn" aria-hidden="true">✠</div>
 <h2>The Immersion Charter</h2>
 <p class="lead">Self-imposed habits that keep Henry feeling like Henry. Pick the ones you like — none are required.</p><div class="cgrid">
 <div><h3>Before you start</h3><ul><li>Hardcore Mode (new game only): no compass, no player marker on the map, and negative perks you pick. It&#x27;s the biggest immersion boost, and it&#x27;s harder.</li><li>Learn to read the map by landmarks — roads, rivers, church towers — instead of following the quest marker.</li></ul></div>
@@ -3599,6 +3615,12 @@ var _r=refresh;refresh=function(){_r();actProg();};
 function toast(t){var m=$('#msg');m.textContent=t;m.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(function(){m.hidden=true},2600);}
 function go(el,flash){var v=el.closest('details.visit');if(v)v.open=true;var y=el.getBoundingClientRect().top+scrollY-$('.bar').offsetHeight-14;window.scrollTo({top:y});
   if(flash){el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash');}}
+function msProg(){var n=0,ls=$$('.mslist li');ls.forEach(function(li){var ok=li.dataset.ids.split(' ').every(function(id){return st[id]});li.classList.toggle('ok',ok);if(ok)n++});$('.msp').textContent=n+'/'+ls.length;}
+var _r2=refresh;refresh=function(){_r2();msProg();};
+var mo=$('#mainonly');mo.onclick=function(){var on=!mo.classList.contains('on');mo.classList.toggle('on',on);
+  types.forEach(function(t){t.checked=on?t.value==='MAIN':true});filter();};
+types.forEach(function(t){t.addEventListener('change',function(){mo.classList.toggle('on',types.every(function(x){return x.checked===(x.value==='MAIN')}))})});
+$$('.mslist a').forEach(function(a){a.addEventListener('click',function(ev){ev.preventDefault();var t=document.getElementById(a.getAttribute('href').slice(1));if(t){if(t.classList.contains('hidden')){mo.classList.remove('on');types.forEach(function(x){x.checked=true});q.value='';filter();}go(t,true);}})});
 $('#nexttodo').onclick=function(){var b=quest.filter(function(b){return !b.checked&&!b.closest('.hidden')})[0];
   if(!b){toast('Everything visible is ticked off. Well done, Henry.');return;}go(b.closest('.entry'),true);};
 $('#export').onclick=function(){var d=new Date().toISOString().slice(0,10);

@@ -129,6 +129,24 @@ def vengeance_html():
             '<div class="note info"><span class="lbl">Wiki note</span>Vengeance actually stays open when the credits roll. Tick it off at the Epilogue.</div></div></article></div>')
 
 
+def mainstory_html():
+    rows, seen_m = [], {}
+    for a in acts:
+        for v in a["visits"]:
+            for e in v["entries"]:
+                if e["type"] == "MAIN" and e["url"]:
+                    seen_m.setdefault(e["display"], []).append((v["no"], v["label"], e["id"], e["status"]))
+    for name, aps in seen_m.items():
+        first = aps[0]
+        rng = f"Visit {aps[0][0]}" + (f"–{aps[-1][0]}" if aps[-1][0] != aps[0][0] else "")
+        ids = " ".join(x[2] for x in aps)
+        rows.append(f'<li data-ids="{ids}"><a href="#{first[2]}"><span class="mn">{E(name)}</span><span class="mv">{rng} · {E(first[1])}</span></a></li>')
+    return ('<details class="frame mainstory" id="mainstory"><summary><span class="lbl">Main story</span>'
+            f'<span class="mst">{len(seen_m)} quests in order</span><span class="msp">0/{len(seen_m)}</span><span class="chev" aria-hidden="true"></span></summary>'
+            '<p class="msnote">This route deliberately delays the story: after the prologue, Awakening doesn\'t come until Visit 45. Visits 2–44 are Henry earning his keep. '
+            'The Vengeance tracker at the top of Act II runs in the background.</p><ol class="mslist">' + "".join(rows) + "</ol></details>")
+
+
 def charter_html():
     h = ['<section class="frame charter" id="immersion"><div class="orn" aria-hidden="true">✠</div>',
          '<h2>The Immersion Charter</h2>', f'<p class="lead">{E(IMM["intro"])}</p><div class="cgrid">']
@@ -140,7 +158,7 @@ def charter_html():
 
 def sidebar_html():
     h = ['<nav id="sidebar" aria-label="Contents"><div class="navhead">Contents</div>',
-         '<a class="nimm" href="#immersion">Immersion Charter</a><ol class="nacts">']
+         '<a class="nimm" href="#mainstory">Main story</a><a class="nimm" href="#immersion">Immersion Charter</a><ol class="nacts">']
     for i, a in enumerate(acts):
         n, t = split_act(a["title"])
         h.append(f'<li><a class="nact" href="#act{i+1}" data-act="act{i+1}">{RING}<span>{E(n)}</span>{E(t)}</a><ol>')
@@ -210,7 +228,23 @@ h1,h2,h3,h4,h5{font-family:var(--head);font-weight:400;margin:0}
 .layout{display:flex;max-width:1360px;margin:0 auto}
 #sidebar{position:sticky;top:var(--hh);align-self:flex-start;width:280px;flex-shrink:0;max-height:calc(100vh - var(--hh));overflow:auto;padding:1.8rem 1rem 3rem 1.4rem;scrollbar-width:thin;scrollbar-color:#2a2a2e transparent}
 .navhead{font-family:var(--head);font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);margin-bottom:.6rem}
-.nimm{display:block;font-family:var(--head);font-size:1.05rem;color:var(--y);padding:.2rem 0 .6rem}
+.nimm{display:block;font-family:var(--head);font-size:1.05rem;color:var(--y);padding:.15rem 0 .35rem}
+.mainstory{padding:0;background:var(--card)}
+.mainstory>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:1rem;padding:1rem 1.3rem}
+.mainstory>summary .lbl{color:var(--main);font-size:.9rem}
+.mst{flex:1;font-family:var(--head);font-size:1.25rem}
+.msp{font-family:var(--head);color:var(--faint);font-variant-numeric:tabular-nums}
+.msnote{margin:0 1.3rem .6rem;color:var(--muted);font-size:.93rem;font-style:italic}
+.mslist{list-style:none;counter-reset:m;margin:0;padding:0 1.3rem 1rem;columns:2 300px;column-gap:2rem}
+.mslist li{counter-increment:m;break-inside:avoid;border-top:1px solid var(--line)}
+.mslist a{display:grid;grid-template-columns:2rem 1fr;padding:.45rem 0;color:var(--ink)}
+.mslist a::before{content:counter(m);grid-row:1/3;font-family:var(--head);color:var(--main);font-variant-numeric:tabular-nums}
+.mslist a:hover{text-decoration:none}.mslist a:hover .mn{color:var(--y)}
+.mn{font-family:var(--head);font-size:1.08rem;line-height:1.25}
+.mv{font-size:.82rem;color:var(--faint)}
+.mslist li.ok .mn{color:var(--faint);text-decoration:line-through}
+.mslist li.ok a::before{content:"✓";color:var(--act)}
+#mainonly.on{border-color:var(--main);color:var(--main)}
 #sidebar ol{list-style:none;margin:0;padding:0}
 .nact{display:block;font-family:var(--head);font-size:1.08rem;color:var(--ink);line-height:1.25;margin:1.1rem 0 .35rem}
 .nact span{display:block;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold)}
@@ -458,6 +492,12 @@ var _r=refresh;refresh=function(){_r();actProg();};
 function toast(t){var m=$('#msg');m.textContent=t;m.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(function(){m.hidden=true},2600);}
 function go(el,flash){var v=el.closest('details.visit');if(v)v.open=true;var y=el.getBoundingClientRect().top+scrollY-$('.bar').offsetHeight-14;window.scrollTo({top:y});
   if(flash){el.classList.remove('flash');void el.offsetWidth;el.classList.add('flash');}}
+function msProg(){var n=0,ls=$$('.mslist li');ls.forEach(function(li){var ok=li.dataset.ids.split(' ').every(function(id){return st[id]});li.classList.toggle('ok',ok);if(ok)n++});$('.msp').textContent=n+'/'+ls.length;}
+var _r2=refresh;refresh=function(){_r2();msProg();};
+var mo=$('#mainonly');mo.onclick=function(){var on=!mo.classList.contains('on');mo.classList.toggle('on',on);
+  types.forEach(function(t){t.checked=on?t.value==='MAIN':true});filter();};
+types.forEach(function(t){t.addEventListener('change',function(){mo.classList.toggle('on',types.every(function(x){return x.checked===(x.value==='MAIN')}))})});
+$$('.mslist a').forEach(function(a){a.addEventListener('click',function(ev){ev.preventDefault();var t=document.getElementById(a.getAttribute('href').slice(1));if(t){if(t.classList.contains('hidden')){mo.classList.remove('on');types.forEach(function(x){x.checked=true});q.value='';filter();}go(t,true);}})});
 $('#nexttodo').onclick=function(){var b=quest.filter(function(b){return !b.checked&&!b.closest('.hidden')})[0];
   if(!b){toast('Everything visible is ticked off. Well done, Henry.');return;}go(b.closest('.entry'),true);};
 $('#export').onclick=function(){var d=new Date().toISOString().slice(0,10);
@@ -530,7 +570,7 @@ def build_html(pwa=False):
 <div class="prog"><div class="track"><i></i></div><span id="progtxt">0 / {NQ}</span></div>
 </div>
 <div class="filters">
-<span class="grp">Type</span>{tf}
+<span class="grp">Type</span><button class="btn" id="mainonly">Main only</button>{tf}
 <span class="grp">Content</span><select id="dlcsel" aria-label="DLC filter">{dopts}</select>
 <label class="pill"><input type="checkbox" id="hidedone"><span>Hide done</span></label>
 <span class="grp">View</span><button class="btn" id="expand">Expand</button><button class="btn" id="collapse">Collapse</button><span class="grp">Progress</span><button class="btn" id="export">Export</button><button class="btn" id="import">Import</button><input type="file" id="importf" accept="application/json,.json" hidden><button class="btn" id="reset">Reset ticks</button>
@@ -539,7 +579,7 @@ def build_html(pwa=False):
 <div class="layout">
 {sidebar_html()}
 <main>
-<div id="charter-wrap">{charter_html()}</div>
+{mainstory_html()}<div id="charter-wrap">{charter_html()}</div>
 {''.join(body)}
 {APPX}
 </main></div>
