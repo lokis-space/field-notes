@@ -1,26 +1,43 @@
-# Kingdom Come: Deliverance — Chronological Role-Play Quest Guide
+# Field Notes
 
-**Live guide:** https://lokis-space.github.io/kcd1-quest-guide/
+**Live:** https://lokis-space.github.io/field-notes/
 
-A single-page checklist for *Kingdom Come: Deliverance* (2018) with all four story DLCs, built on a Reddit role-play route. It has 114 location visits and 134 quests, each with steps, key choices, role-play notes and an Outcome / Tip / Immersion analysis.
+A personal collection of guides, checklists and notes, hosted on GitHub Pages.
 
-- Your ticks are saved in the browser. **Filters → Export / Import** backs them up or moves them between devices.
-- **Next** jumps to the next unticked quest, and the guide offers to resume where you left off.
-- You can install it as an app (Add to Home Screen, or the install button in the address bar), and it works offline.
-- A Markdown version is in [`KCD1_Quest_Guide.md`](KCD1_Quest_Guide.md).
+| Entry | Path |
+|---|---|
+| [Kingdom Come: Deliverance — Chronological Role-Play Quest Guide](https://lokis-space.github.io/field-notes/kcd1/) | `kcd1/` |
+
+## Layout
+
+```
+index.html            home page (generated from src/guides.json)
+kcd1/                 built KCD1 guide (installable, works offline)
+src/
+  guides.json         entries listed on the home page
+  build_hub.py        builds the home page
+  make_icons.py       draws the app icons
+  fonts/              shared fonts (SIL OFL)
+  kcd1/               KCD1 guide sources: data, analysis, build script, PWA files
+build.sh              rebuilds everything
+```
+
+## Adding a new entry
+
+1. Put its sources in `src/<slug>/` and build the output into `<slug>/` (any static `index.html` works).
+2. Add an icon at `<slug>/icon-192.png`.
+3. Add it to `src/guides.json`.
+4. Run `./build.sh`, then commit.
 
 ## Rebuilding
 
 ```sh
-python3 -m venv .venv && .venv/bin/pip install beautifulsoup4
-.venv/bin/python src/build.py .
+python3 -m venv .venv && .venv/bin/pip install beautifulsoup4 pillow
+./build.sh
 ```
-
-The guide content lives in `src/data.json`, `src/analysis.json`, `src/immersion.json` and `src/appendix.html`.
 
 ## Credits
 
-- Quest order follows a community role-play timeline from r/kingdomcome.
-- Quest links point to the [Kingdom Come: Deliverance Wiki](https://kingdomcomedeliverance.wiki.gg/). Guide text is original.
+- The KCD1 quest order follows a community role-play timeline from r/kingdomcome. Quest links point to the [KCD Wiki](https://kingdomcomedeliverance.wiki.gg/). Guide text is original.
 - Fonts: Bellefair, Alegreya and UnifrakturMaguntia, all under the SIL Open Font License 1.1.
 - Kingdom Come: Deliverance is a trademark of Warhorse Studios. This is an unofficial fan guide.

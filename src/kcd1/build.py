@@ -23,7 +23,7 @@ NQUEST = len(seen)
 
 
 def font(fn):
-    return base64.b64encode(open(f"{W}/fonts/{fn}", "rb").read()).decode()
+    return base64.b64encode(open(f"{W}/../fonts/{fn}", "rb").read()).decode()
 
 
 FONTS = f"""
@@ -163,6 +163,8 @@ h1,h2,h3,h4,h5{font-family:var(--head);font-weight:400;margin:0}
 .lbl{font-family:var(--head);font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;margin-right:.6rem;white-space:nowrap}
 /* hero */
 .hero{text-align:center;padding:4.2rem 1.2rem 2.4rem;position:relative;border-bottom:1px solid transparent;border-image:linear-gradient(90deg,transparent,var(--gold),transparent) 1}
+.hero .home{position:absolute;left:1.2rem;top:1rem;font-family:var(--head);font-size:.85rem;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.hero .home:hover{color:var(--y);text-decoration:none}
 .hero .crest{font-size:2rem;color:var(--y);line-height:1}
 .hero h1{font-family:var(--black);font-size:clamp(2.8rem,8vw,5.4rem);line-height:.95;color:var(--ink);letter-spacing:.01em;margin-top:.4rem}
 .hero h1 span{display:block;font-size:.58em;margin-top:.05em}
@@ -461,7 +463,7 @@ refresh();
 """
 
 PWA_HEAD = """
-<link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png" type="image/png">
+<link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32">
 <link rel="apple-touch-icon" href="apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="KCD Guide">
 <meta name="description" content="Chronological role-play quest guide for Kingdom Come: Deliverance (2018) with all story DLCs.">"""
@@ -490,7 +492,7 @@ def build_html(pwa=False):
 <style>{FONTS}{CSS}</style></head>
 <body>
 <header class="hero" id="top">
-<div class="crest" aria-hidden="true">♛</div>
+{'<a class="home" href="../">← Field Notes</a>' if pwa else ''}<div class="crest" aria-hidden="true">♛</div>
 <h1>Kingdom Come<span>Deliverance</span></h1>
 <p class="sub">A Chronological Role-Play Quest Guide</p>
 <p class="intro">Henry's whole journey, from the last morning in Skalitz to the road out of Neuhof — every quest and every DLC, in the order a role-playing Henry would live them.</p>
@@ -608,7 +610,7 @@ def build_site(dest):
     os.makedirs(dest, exist_ok=True)
     open(os.path.join(dest, "index.html"), "w", encoding="utf-8").write(build_html(pwa=True))
     open(os.path.join(dest, "KCD1_Quest_Guide.md"), "w", encoding="utf-8").write(build_md())
-    for f in ("manifest.webmanifest", "sw.js", "icon-192.png", "icon-512.png", "apple-touch-icon.png"):
+    for f in ("manifest.webmanifest", "sw.js", "icon-192.png", "icon-512.png", "apple-touch-icon.png", "favicon-32.png"):
         shutil.copy(os.path.join(W, "pwa", f), dest)
     import hashlib
     ver = hashlib.sha1(open(os.path.join(dest, "index.html"), "rb").read()).hexdigest()[:10]
