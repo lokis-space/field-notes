@@ -8,6 +8,8 @@ D = json.load(open(f"{W}/data.json", encoding="utf-8"))
 AN = json.load(open(f"{W}/analysis.json", encoding="utf-8"))
 IMM = json.load(open(f"{W}/immersion.json", encoding="utf-8"))
 APPX = open(f"{W}/appendix.html", encoding="utf-8").read()
+_rq = f"{W}/reqs.json"
+RQ = json.load(open(_rq, encoding="utf-8")) if os.path.exists(_rq) else {"quests": {}, "visits": {}, "acts": {}}
 acts = D["acts"]
 
 seen = set()
@@ -74,6 +76,10 @@ def entry_html(e):
          '<div class="ebody">']
     if e["first"] and e["where"]:
         h.append(f'<p class="where"><span class="lbl">Where to find</span>{E(e["where"])}</p>')
+    rq = RQ["quests"].get(e["display"]) if e["first"] else None
+    if rq and (rq.get("req") or rq.get("prep")):
+        rows = [(k, l, rq.get(k)) for k, l in (("req", "Requires"), ("prep", "Bring")) if rq.get(k)]
+        h.append('<div class="reqs">' + "".join(f'<div class="rq rq-{k}"><span class="lbl">{l}</span>' + "".join(f"<span class=\"chip\">{E(x)}</span>" for x in xs) + "</div>" for k, l, xs in rows) + "</div>")
     if e["steps"]:
         h.append('<ol class="steps">' + "".join(f"<li>{E(s)}</li>" for s in e["steps"]) + "</ol>")
     for k, t in e["notes"]:
@@ -105,6 +111,8 @@ def visit_html(v):
          f'<span class="vcount" data-v="v{v["no"]}">0/{n}</span><span class="chev" aria-hidden="true"></span></summary><div class="vbody">']
     for k, t in v["banners"]:
         h.append(f'<div class="banner {"warn" if k == "w" else "info"}"><span class="lbl">{"Warning" if k == "w" else "Note"}</span>{E(t)}</div>')
+    if RQ["visits"].get(str(v["no"])):
+        h.append(f'<div class="banner prep"><span class="lbl">Prepare</span>{E(RQ["visits"][str(v["no"])])}</div>')
     for t in IMM.get("visits", {}).get(str(v["no"]), []):
         h.append(f'<div class="banner imm"><span class="lbl">Immersion</span>{E(t)}</div>')
     h += [entry_html(e) for e in v["entries"]]
@@ -254,6 +262,16 @@ details[open] .chev{transform:rotate(225deg);margin-bottom:-.2rem}
 .banner{margin:1rem 0 .2rem;padding:.65rem .9rem;border:1px solid var(--line2);border-left:2px solid;font-size:.95rem}
 .banner.warn{border-left-color:var(--warn)}.banner.warn .lbl{color:var(--warn)}
 .banner.info{border-left-color:var(--side)}.banner.info .lbl{color:var(--side)}
+.banner.prep{border-left-color:var(--act)}.banner.prep .lbl{color:var(--act)}
+.reqs{display:grid;gap:.35rem;margin:.55rem 0 .2rem}
+.rq{display:flex;flex-wrap:wrap;align-items:center;gap:.35rem}
+.rq .lbl{min-width:5.6rem}
+.rq-req .lbl{color:var(--main)}.rq-prep .lbl{color:var(--side)}
+.chip{font-size:.86rem;line-height:1.3;padding:.18rem .6rem;border-radius:6px;background:#141416;border:1px solid var(--line);color:var(--ink)}
+.rq-req .chip{border-color:rgba(229,88,76,.35)}
+.checkpoint{margin:1.6rem 0 .4rem;padding:1rem 1.2rem;border:1px dashed rgba(216,187,99,.45);border-radius:10px;text-align:center}
+.checkpoint .lbl{color:var(--gold)}
+.checkpoint p{margin:.35rem 0 0;font-family:var(--head);font-size:1.15rem;color:var(--ink)}
 .banner.imm{border-left-color:var(--gold);font-style:italic;color:var(--muted)}.banner.imm .lbl{color:var(--gold);font-style:normal}
 /* entries */
 .entry{padding:1.3rem 0 1.1rem;border-top:1px solid var(--line)}
@@ -453,6 +471,7 @@ $('#importf').onchange=function(){var f=this.files[0];if(!f)return;var rd=new Fi
     st={};Object.keys(t).forEach(function(k){if(t[k])st[k]=true});save();if(j.last)localStorage.setItem(KEY+'-last',j.last);
     boxes.forEach(function(b){b.checked=!!st[b.dataset.id];var e=b.closest('.entry');if(e)e.classList.toggle('done',b.checked)});refresh();toast('Imported '+Object.keys(st).length+' ticks');
   }catch(e){alert('That file is not a KCD1 guide progress export.')}};rd.readAsText(f);this.value='';};
+try{localStorage.setItem(KEY+'-opened',Date.now())}catch(e){}
 var LK=KEY+'-last',lastT;
 window.addEventListener('scroll',function(){clearTimeout(lastT);lastT=setTimeout(function(){var c=$('details.visit.cur');if(c&&scrollY>400)try{localStorage.setItem(LK,c.id)}catch(e){}},500)},{passive:true});
 (function(){var l=localStorage.getItem(LK),el=l&&document.getElementById(l);if(!el||location.hash||l==='v1')return;
@@ -481,6 +500,9 @@ def build_html(pwa=False):
         if a["vengeance"]:
             body.append(vengeance_html())
         body += [visit_html(v) for v in a["visits"]]
+        cp = RQ["acts"].get(str(i + 1))
+        if cp:
+            body.append(f'<aside class="checkpoint"><span class="lbl">Checkpoint · end of {E(n)}</span><p>{E(cp)}</p></aside>')
         body.append("</section>")
     tf = "".join(f'<label class="pill"><input type="checkbox" class="tf" value="{v}" checked><span>{l}</span></label>'
                  for v, l in [("MAIN", "Main"), ("SIDE", "Side"), ("DLC", "DLC"), ("ACTIVITY", "Activity"), ("OBJ", "Objective / RP")])
@@ -535,6 +557,12 @@ def md_entry(e):
     L = [f"- [ ] **{nm}** — `{e['badge']}` · **{e['status']}**" + (" · **[Added]**" if e["added"] else "")]
     if e["first"] and e["where"]:
         L.append(f"  - *Where:* {e['where']}")
+    rq = RQ["quests"].get(e["display"]) if e["first"] else None
+    if rq:
+        if rq.get("req"):
+            L.append("  - **Requires:** " + " · ".join(rq["req"]))
+        if rq.get("prep"):
+            L.append("  - **Bring:** " + " · ".join(rq["prep"]))
     L += [f"  {i}. {s}" for i, s in enumerate(e["steps"], 1)]
     for k, t in e["notes"]:
         if k == "pc":
@@ -599,9 +627,14 @@ def build_md():
         for v in a["visits"]:
             o += [f'<a id="visit-{v["no"]}"></a>', f"### Visit {v['no']} — {v['label']}", "", f"*{v['summary']}*", ""]
             bl = [f"> {'⚠' if k == 'w' else 'ℹ'} **{t}**" for k, t in v["banners"]]
+            if RQ["visits"].get(str(v["no"])):
+                bl.append(f"> 🎒 **Prepare:** {RQ['visits'][str(v['no'])]}")
             bl += [f"> 🕯 *{t}*" for t in IMM.get("visits", {}).get(str(v["no"]), [])]
             o += bl + ([""] if bl else [])
             o += [md_entry(e) for e in v["entries"]] + [""]
+        cp = RQ["acts"].get(str(acts.index(a) + 1))
+        if cp:
+            o += [f"> 🏁 **Checkpoint — end of {split_act(a['title'])[0]}:** {cp}", ""]
     return "\n".join(o + md_appendix()) + "\n"
 
 
@@ -610,6 +643,9 @@ def build_site(dest):
     os.makedirs(dest, exist_ok=True)
     open(os.path.join(dest, "index.html"), "w", encoding="utf-8").write(build_html(pwa=True))
     open(os.path.join(dest, "KCD1_Quest_Guide.md"), "w", encoding="utf-8").write(build_md())
+    labels = {f"v{v['no']}": v["label"] for a in acts for v in a["visits"]}
+    json.dump({"key": "kcd1-guide-v1", "total": NQ, "exclude": "rec-", "labels": labels,
+               "stats": f"{NV} visits · {NQUEST} quests"}, open(os.path.join(dest, "meta.json"), "w"), ensure_ascii=False)
     for f in ("manifest.webmanifest", "sw.js", "icon-192.png", "icon-512.png", "apple-touch-icon.png", "favicon-32.png"):
         shutil.copy(os.path.join(W, "pwa", f), dest)
     import hashlib

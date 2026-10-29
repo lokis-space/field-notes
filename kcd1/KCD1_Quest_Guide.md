@@ -169,6 +169,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Tip:** Holba needs two bandages. Julian's axe is on a stump under the lean-to; Stanislav's keys lie by the spilled wood basket, his purse in the pantry's apple basket.
   - **Immersion:** Tell Marosh the truth about Pavlena rather than leaving him searching; that's Theresa's whole character here.
 
+> 🏁 **Checkpoint — end of Act I:** Starting stats: no reading, no lockpicking, no horse. Avoid fights — Theresa's chapter is pitched around level 4–5.
+
 ## Act II — A New Life in Rattay
 
 *Awakening is active the whole time. Henry earns his keep, learns to read and gets to know the region before entering Radzig's service.*
@@ -186,6 +188,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[The Good Thief](https://kingdomcomedeliverance.wiki.gg/wiki/The_Good_Thief)** — `SIDE` · **Refuse for now**
   - *Where:* Miller Peshek at the Rattay Mill — he wants his treatment paid for.
+  - **Requires:** Spade · Lockpicks
   1. Peshek asks you to settle your treatment debt.
   2. Turn down his dodgy job for now.
   - 🎭 Henry is honest at heart — he only gives in later, once he's out of options.
@@ -195,6 +198,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 7](#visit-7)
 - [ ] **[Rob the Rich, Give to the Poor](https://kingdomcomedeliverance.wiki.gg/wiki/Rob_the_Rich,_Give_to_the_Poor)** — `ACTIVITY` · **Refuse for now**
   - *Where:* The Vagabond (a Skalitz refugee) in Rattay; needs Pickpocketing first.
+  - **Requires:** Pickpocketing (taught by Peshek)
+  - **Bring:** Check noise of clothing
   1. The Vagabond asks you to steal for the refugees. Say no for now.
   - **Outcome:** The Vagabond ends up in the stocks, so the final seal can't be handed in for pay – sell it to a miller. Earlier jobs split the coin.
   - **Tip:** Needs Pickpocketing first. Rob the rich woman while she sews with her back to the door.
@@ -211,6 +216,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   1. Talk to Alex, the refugees' leader. He points you to the brawls (Do Me a Favour - Punch Me!).
 - [ ] **[Do Me a Favour - Punch Me!](https://kingdomcomedeliverance.wiki.gg/wiki/Do_Me_A_Favour_-_Punch_Me!)** — `ACTIVITY` · **Complete**
   - *Where:* Milan, among the Skalitz refugees in Rattay (Alex points you to the brawls).
+  - **Bring:** Strength for winning clinches
   1. Find Milan's brawls among the refugees.
   2. Beat Ringlet, Stephen, then Milan.
   3. Fists only, no weapons.
@@ -222,6 +228,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   2. He offers a treasure rumour instead — this starts Scavenger.
 - [ ] **[Scavenger](https://kingdomcomedeliverance.wiki.gg/wiki/Scavenger)** — `SIDE` · **Start**
   - *Where:* Kunesh in Rattay — he can't pay his debt, so he offers a treasure rumour instead.
+  - **Requires:** Spade
   1. Kunesh says there's treasure buried in Skalitz.
   2. Get a spade before you go.
   - **Outcome:** Returning cup and coin to Beran earns a small reward – the honest end. Kunesh can't pay either way; finish this to recruit him for Pribyslavitz later.
@@ -236,6 +243,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Chumps on the River](https://kingdomcomedeliverance.wiki.gg/wiki/Chumps_on_the_River)** — `ACTIVITY` · **Start**
   - *Where:* Vatzek at the Ledetchko archery range (tip from the Ledetchko innkeeper).
+  - **Bring:** Light, fast bow · Horse to get closer
   1. Talk to Vatzek at the Ledetchko archery range.
   2. Shoot in the Chumps contest — you don't need a bow, he'll lend you his.
   3. Come back for more rounds whenever you like.
@@ -320,6 +328,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Henry learns this reluctantly; it's a skill for later, not a habit. Avoid practising on random townsfolk afterwards.
 - [ ] **[Thick as Thieves - Peshek](https://kingdomcomedeliverance.wiki.gg/wiki/Thick_as_Thieves_-_Peshek)** — `ACTIVITY` · **Start**
   - *Where:* Miller Peshek at the Rattay Mill, after The Good Thief.
+  - **Requires:** Lockpicks · Lockpicking for Hard locks
+  - **Bring:** Padfoot potion
   1. First job: steal the ring from the bathhouse madam's chest.
   2. Bring it to Peshek.
   - **Outcome:** Pays roughly 150, 175 and 250 groschen. Hanush's book is the riskiest theft in the game early on; getting caught in the upper castle hurts reputation badly.
@@ -354,6 +364,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Thick as Thieves - Woyzeck](https://kingdomcomedeliverance.wiki.gg/wiki/Thick_as_Thieves_-_Woyzeck)** — `ACTIVITY` · **Start**
   - *Where:* Miller Woyzeck at the Kohelnitz mill, after The Good Thief.
+  - **Requires:** Lockpicks · Lockpicking 15 — Very Hard chest
+  - **Bring:** Padfoot potion at Lockpicking 10+
   1. Talk to Miller Woyzeck — you can take all three jobs at once.
   - **Outcome:** Pays around 250 for the waffenrocks and 300 for the horse. Must be finished before the attack on Vranik in The Die is Cast, or it becomes impossible.
   - **Tip:** Stephanie's chest is Very Hard: Lockpicking 15, or 10 with Padfoot. Any Merhojed horse counts. The armoury key can be taken from a sleeping guard in the left tower.
@@ -435,6 +447,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 50–80 groschen
 - [ ] **[Mightier than the Sword](https://kingdomcomedeliverance.wiki.gg/wiki/Mightier_than_the_Sword)** — `SIDE` · **Complete**
   - *Where:* The Scribe of Uzhitz — ask anyone about learning to read. Bring 50 groschen.
+  - **Requires:** 50 groschen for the scribe
   1. Pay the Scribe of Uzhitz 50 groschen.
   2. Read the book he gives you, then go back to him.
   3. Read the Latin text, then return once more to finish.
@@ -460,6 +473,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Restless Spirit](https://kingdomcomedeliverance.wiki.gg/wiki/Restless_Spirit)** — `SIDE` · **Start**
   - *Where:* Kunhuta the herbalist in Ledetchko (tip from the Ledetchko innkeeper).
+  - **Requires:** Lockpicks — Hard/Very Hard locks
+  - **Bring:** Padfoot potion
   1. Talk to Kunhuta the herbalist.
   2. Pick 10 poppies.
   3. Ask Drahomira where Alois is buried.
@@ -480,8 +495,12 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Big Sasau visit: the monastery, Fritz and Matthew, and lots of errands.*
 
+> 🎒 **Prepare:** Bring 10 bandages, Lullaby and Artemisia potions and comfrey for In God's Hands; it's timed, and First Aid III helps.
+
 - [ ] **[Thick as Thieves - Simon](https://kingdomcomedeliverance.wiki.gg/wiki/Thick_as_Thieves_-_Simon)** — `ACTIVITY` · **Start**
   - *Where:* Miller Simon at the Sasau mill, after The Good Thief.
+  - **Requires:** Lockpicks
+  - **Bring:** Sneak in at night
   1. Talk to Miller Simon.
   2. First job: steal the valuable brocade from the Sasau tailor and bring it to Simon.
   - **Outcome:** Pays about 175, 225 and 250 groschen. The cobbler may be punished over the lost spurs.
@@ -490,6 +509,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 30](#visit-30)
 - [ ] **[The Queen of Sheba's Sword](https://kingdomcomedeliverance.wiki.gg/wiki/The_Queen_of_Sheba%27s_Sword)** — `ACTIVITY` · **Start**
   - *Where:* Swordsmith Fink at the Sasau forge.
+  - **Requires:** Lockpicks — Very Hard lock · 200 groschen · Aquarius done (Pickman's piece)
+  - **Bring:** Pickpocketing as alternative
   1. Swordsmith Fink wants the five pieces of the sword (Sasau, Talmberg, two in Rattay, Ledetchko).
   - ℹ Do it at your own pace. Finishing it lets you recruit Fink for Pribyslavitz.
   - **Outcome:** Reward is the chance to buy the reforged sword (around 1,600 groschen). Don't kill Zach in Sasau – he's needed in later quests.
@@ -501,6 +522,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 22](#visit-22)
 - [ ] **[Fat Profits](https://kingdomcomedeliverance.wiki.gg/wiki/Fat_Profits)** — `ACTIVITY` · **Start**
   - *Where:* The Sasau butcher.
+  - **Requires:** Hunting 5 · Butcher perk · Bow and arrows
   1. The Sasau butcher wants game and offal. Do it at your own pace (offal needs the Butcher perk).
   - **Outcome:** Each delivery raises the butcher's opinion but costs a little reputation with the monastery. The final order needs 60 boar, 140 red deer and 150 hare at once.
   - **Tip:** Take the Butcher perk first for offal and liver. One big hunt east of Talmberg with a strong-packed horse covers the final order.
@@ -524,6 +546,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Henry can see where this leads by the third job. If you play him strictly, stop after the amulet, which recovers wages actually owed.
 - [ ] **[A Costly Brawl](https://kingdomcomedeliverance.wiki.gg/wiki/A_Costly_Brawl)** — `SIDE` · **Complete**
   - *Where:* Matthew, during A Friend In Need... in Sasau.
+  - **Bring:** Speech to persuade Elias
   1. Find out why Fritz and Matthew owe the monastery money.
   2. Persuade Elias to cancel their debt.
   3. Tell Fritz the good news.
@@ -532,6 +555,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Ask Johanka about the brawl first; she gives the real story, and it lets Henry argue from fact.
 - [ ] **[In God's Hands](https://kingdomcomedeliverance.wiki.gg/wiki/In_God%27s_Hands)** — `SIDE` · **Start**
   - *Where:* Johanka at the Sasau Monastery infirmary (tips from Sasau innkeepers). Timed.
+  - **Requires:** 10 bandages · Lullaby and Artemisia potions · Comfrey · Bard potion or 150 groschen
+  - **Bring:** First Aid III perk · Finish A Man of the Cloth · Timed — patients die
   1. Help Johanka with the sick in the infirmary.
   2. Find something to help the insomniac sleep.
   3. Get healing herbs for Semek.
@@ -543,6 +568,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 21](#visit-21)
 - [ ] **[Saintly Remains](https://kingdomcomedeliverance.wiki.gg/wiki/Saintly_Remains)** — `SIDE` · **Complete**
   - *Where:* Urban, the guard outside the Custodian's house in the Sasau Monastery.
+  - **Bring:** Lockpicks — Very Hard door · Padfoot potion · Bard potion for Urban
   1. Urban wants a relic of Saint Procopius.
   2. Bring him a "relic", then find a "better" one when he complains.
   - **Outcome:** The real bowl from Procopius's cave needs no Speech check; fake bones do. Reward is identical either way. Keep the bowl and Urban later picks a fight.
@@ -550,6 +576,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Honest Henry brings the genuine bowl, not a grave-robbed bone or the Charlatan's fake, and puts it back in the cave afterwards.
 - [ ] **[Weeds](https://kingdomcomedeliverance.wiki.gg/wiki/Weeds)** — `SIDE` · **Complete**
   - *Where:* Brother Nicodemus at the Sasau Monastery garden.
+  - **Bring:** Herbalism to convince Nicodemus
   1. Weed Brother Nicodemus's garden and report back.
   - ℹ Happens naturally during In God's Hands.
   - **Outcome:** Pull only dandelions, nettles and thistles for 75 groschen and Nicodemus's goodwill; uproot too much mint, eyebright or comfrey and he pays nothing.
@@ -637,6 +664,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 27](#visit-27)
 - [ ] **[Tough Love](https://kingdomcomedeliverance.wiki.gg/wiki/Tough_Love)** — `SIDE` · **Complete**
   - *Where:* Executioner Hermann on Gallows Hill near Rattay (tip from the Broken Wheel innkeeper).
+  - **Bring:** Embrocation potion for scribe
   1. Talk to Hermann about the woman crying outside his house, then to Elishka.
   2. Learn about her husband's family from the scribe (he needs an embrocation).
   3. Find Elishka a home and decide her future with Hermann.
@@ -674,6 +702,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 30](#visit-30)
 - [ ] **[...Is a Friend Indeed](https://kingdomcomedeliverance.wiki.gg/wiki/...Is_a_Friend_Indeed)** — `SIDE` · **Complete**
   - *Where:* Fritz and Matthew at their new job, after A Friend In Need...
+  - **Bring:** Speech to move Thomas
   1. Check on Fritz and Matthew at the mill and hear both sides of their fight with Old Thomas.
   2. Try to make peace; when that fails, set up a fight with Old Thomas.
   3. Get ready for the ambush, then break the bad news to the lads.
@@ -710,12 +739,14 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Skin](https://kingdomcomedeliverance.wiki.gg/wiki/Skin)** — `ACTIVITY` · **Start**
   - *Where:* Brada the tanner in Talmberg. Needs Hunting 5 and the Tanner perk.
+  - **Requires:** Hunting 5 · Tanner perk · Bow and arrows
   1. Brada the tanner wants hare, boar and deer hides. Do it at your own pace (needs Hunting 5 and the Tanner perk).
   - **Outcome:** 70 groschen per batch, 210 in total. Brada's promised hunting lesson appears bugged and gives nothing.
   - **Tip:** Pick it up before becoming Divish's master huntsman in Cherchez la Femme; afterwards it can't be started. Not every hare yields a pelt.
   - **Immersion:** It's poaching on Divish's land: hunt at dawn or dusk in quiet clothes, well away from roads and Talmberg's guards.
 - [ ] **[The House of God](https://kingdomcomedeliverance.wiki.gg/wiki/The_House_of_God)** — `SIDE` · **Start**
   - *Where:* Sir Divish in Talmberg (tip from the Talmberg innkeeper).
+  - **Bring:** Blunt weapon for Zmola
   1. Talk to Sir Divish about the accident at the monastery.
   - **Outcome:** Stopping Zmola clears the Talmberg quarry's name, but since patch 1.9.1 Divish pays nothing. When the stone drops, run straight to the mill—going via the Overseer gets Leshek killed.
   - **Tip:** Timed once clues are gathered. Bring a blunt weapon for the mason on the scaffolding. The 'Fallen block' may stay in your inventory—weightless, harmless.
@@ -765,6 +796,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Masquerade](https://kingdomcomedeliverance.wiki.gg/wiki/Masquerade)** — `SIDE` · **Start**
   - *Where:* Matthew at the Inn at the Glade (Andrew tips you off).
+  - **Requires:** Three Cuman armours with masks
+  - **Bring:** Bane potions for camps · Lockpicks — Very Hard chest
   1. Talk to Fritz, then make a deal with Andrew.
   2. Get three Cuman disguises: helmets with faceplates and armour from a Cuman camp.
   3. You only need to raid one of the three camps.
@@ -804,6 +837,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   1. Bring the disguises and trimmings to Matthew and see the plan through.
 - [ ] **[Besmirched](https://kingdomcomedeliverance.wiki.gg/wiki/Besmirched)** — `SIDE` · **Start**
   - *Where:* Andrew, innkeeper of the Inn at the Glade, after Masquerade.
+  - **Requires:** Lockpicks — Very Hard chest
+  - **Bring:** Pickpocketing or knockout
   1. Andrew wants to know who looted his Skalitz tavern.
   2. Bring Matthew and Fritz in on it.
   - **Outcome:** Returning everything, cross included, to Adam is the honourable ending; Andrew pays 575 instead. The cross also secures Adam for Pribyslavitz's tavern.
@@ -862,6 +897,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 175 groschen
 - [ ] **[Lost in Translation](https://kingdomcomedeliverance.wiki.gg/wiki/Lost_in_Translation)** — `SIDE` · **Complete**
   - *Where:* The Miller of Budin, who has caught a Cuman (tip from the Ledetchko innkeeper).
+  - **Bring:** Lockpicks · 50 groschen bribe
   1. Find a translator for the Miller of Budin's Cuman prisoner.
   2. Deal with the Cuman's stash and decide his fate.
   3. Bring the Cuman to Rattay and collect the bounty from the bailiff.
@@ -870,6 +906,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Tip:** Ask the Vagrant whether he translated everything—pass the check and you dodge the Cuman's ambush. Travel with the Vagrant; alone he often gets lost.
   - **Immersion:** Walk the prisoner to Rattay without fast travel and keep him close, or he bolts. Honest Henry pays the Miller his share.
   - 🪙 100 groschen bounty
+
+> 🏁 **Checkpoint — end of Act II:** Reading learned, Hard locks open (Very Hard needs Lockpicking 15), Hunting 5 with Butcher, First Aid perks, padded armour. Still on foot.
 
 ## Act III — In Sir Radzig's Service
 
@@ -880,10 +918,12 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Join Radzig, train, compete, and start the hunt for Runt's gang.*
 
+> 🎒 **Prepare:** Have 60 groschen and potions for the tourney, an antidote for Black Peter's poisoned blade, and Reading for Money for Old Rope.
 > 🕯 *Henry is finally in Radzig's service. Now is the time to equip proper armour and a real sword.*
 
 - [ ] **[Awakening](https://kingdomcomedeliverance.wiki.gg/wiki/Awakening)** — `MAIN` · **Complete**
   - *Where:* Starts automatically — Henry wakes at the Rattay Mill.
+  - **Bring:** Bribe or Speech at Rattay gate
   1. Settle up at the mill and go to Sir Radzig in the Upper Castle.
   - **Outcome:** Story-driven, no choices. Not timed—you can explore before reporting to Radzig.
   - **Tip:** Fight the Cumans in the fever dream for a little XP. Bow training with Berthold stays locked until after Train Hard, Fight Easy.
@@ -902,6 +942,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   1. Spar with Bernard until every weapon skill is at least level 5.
 - [ ] **[Rattay Tourney](https://kingdomcomedeliverance.wiki.gg/wiki/Rattay_Tourney)** — `ACTIVITY` · **Win**
   - *Where:* The herald in Rattay, on tourney mornings (innkeepers mention it).
+  - **Requires:** 60 groschen entry fee
+  - **Bring:** Potions before speaking to Herald
   1. Enrol with the herald on a tourney morning.
   2. Fight through the rounds (several weapon types) and win.
   3. Pick up your prize. Repeatable.
@@ -919,6 +961,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 Double your bet
 - [ ] **[Dead Men Tell No Tales](https://kingdomcomedeliverance.wiki.gg/wiki/Dead_Men_Tell_No_Tales)** — `SIDE` · **Complete**
   - *Where:* The Samopesh blacksmith, whose son died after winning the tourney.
+  - **Requires:** Beat Black Peter (tourney)
+  - **Bring:** Antidote · Strength/Agility for takedown
   1. Find out how Svatopluk, the Samopesh blacksmith's son, died after the tourney.
   2. Tell his father what you learned.
   - ⚠ Bring an antidote.
@@ -928,6 +972,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 35 groschen
 - [ ] **[Money for Old Rope](https://kingdomcomedeliverance.wiki.gg/wiki/Money_for_Old_Rope)** — `SIDE` · **Complete**
   - *Where:* Executioner Hermann, some time after Tough Love (Rattay innkeepers send you). Timed — about a week.
+  - **Requires:** Reading
+  - **Bring:** Poison or Bane potion · Timed — one week
   1. Look up the right punishments in the Black Chronicle; ask the bailiff what the convicts did.
   2. Report to Hermann, then sabotage the Kuttenberg executioner (dull the sword, poison the tongs, swap the rope).
   3. Tell Hermann you succeeded and collect your reward.
@@ -938,6 +984,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 400 groschen + recipes, or up to 900 groschen
 - [ ] **[A Bird in the Hand...](https://kingdomcomedeliverance.wiki.gg/wiki/A_Bird_in_the_Hand...)** — `SIDE` · **Complete**
   - *Where:* Berthold at the Rattay hunting lodge (tip from the Broken Wheel innkeeper).
+  - **Bring:** Armour for bandit camp
   1. Track the three escaped nightingales west of Rattay by their call.
   2. Set traps and catch them.
   3. Bring them to Berthold at the hunting lodge.
@@ -947,6 +994,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 150 groschen + 40 arrows
 - [ ] **[Keeping the Peace](https://kingdomcomedeliverance.wiki.gg/wiki/Keeping_the_Peace)** — `MAIN` · **Complete**
   - *Where:* Sir Hanush after training; report to the watchman Nightingale.
+  - **Bring:** Speech for persuasion
   1. Collect armour at the armoury, then report to Nightingale.
   2. Do the watch duties around Rattay.
   - **Outcome:** Story-driven. Settle Beggar Jane's dispute with Speech or Charisma; intimidating the armoursmith always fails. The tavern brawl with Hans can't be won.
@@ -962,6 +1010,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 51](#visit-51)
 - [ ] **[The Prey](https://kingdomcomedeliverance.wiki.gg/wiki/The_Prey)** — `MAIN` · **Complete**
   - *Where:* Sir Hans Capon in the Upper Castle courtyard, from 5 a.m. (he gives up around 10–11).
+  - **Bring:** Own horse to keep up · Light, quiet clothing
   1. Meet Sir Hans in the Upper Castle courtyard (5–10 a.m.) and ride out on the hunt.
   2. Protect him when the hunt goes wrong.
   - **Outcome:** Shoot one hare to win 100 groschen. Rescuing Hans earns Radzig's service and Pebbles.
@@ -975,8 +1024,11 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Investigate the stud farm raid.*
 
+> 🎒 **Prepare:** Be ready to ride with Bernard to Neuhof immediately; he won't wait. First Aid II lets you bandage Jakub.
+
 - [ ] **[The Hunt Begins](https://kingdomcomedeliverance.wiki.gg/wiki/The_Hunt_Begins)** — `MAIN` · **Complete**
   - *Where:* Captain Bernard, straight after The Prey — he rides to Neuhof without waiting.
+  - **Bring:** Leave with Bernard immediately · First Aid II perk
   1. Ride with Captain Bernard to Neuhof straight away.
   2. Search the farm and the dead raiders.
   - **Outcome:** Riding out at once lets you overhear the bandits naming Ginger—extra dialogue later. Vanishing for over a day angers Bernard.
@@ -986,6 +1038,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - <details><summary>Story spoiler</summary>A bloody hoof pick points to Ginger, the missing stableboy.</details>
 - [ ] **[Ginger in a Pickle](https://kingdomcomedeliverance.wiki.gg/wiki/Ginger_in_a_Pickle)** — `MAIN` · **Complete**
   - *Where:* Starts at Neuhof after the hoof pick is found.
+  - **Bring:** Speech or coin for spokesman
   1. Get Bernard's leave to carry on alone.
   2. Question the charcoal-burners and track Ginger north.
   3. Find Ginger and get the truth from him.
@@ -1002,6 +1055,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Mysterious Ways](https://kingdomcomedeliverance.wiki.gg/wiki/Mysterious_Ways)** — `MAIN` · **Complete**
   - *Where:* Starts after Ginger in a Pickle; go to Uzhitz.
+  - **Bring:** Embrocation potion for scribe · Lockpicks — Very Hard door · Reading
   1. Talk your way in with the Uzhitz bailiff.
   2. Find Father Godwin and follow the trail.
   - **Choice:** To get to Godwin's party (recommended), threaten him, then back down.
@@ -1015,8 +1069,11 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Find Reeky before Runt's men do.*
 
+> 🎒 **Prepare:** On the Scent is timed: head out promptly or Runt's men reach Reeky first.
+
 - [ ] **[On the Scent](https://kingdomcomedeliverance.wiki.gg/wiki/On_the_Scent)** — `MAIN` · **Complete**
   - *Where:* Starts automatically after Mysterious Ways. Timed.
+  - **Bring:** Go straight away — timed
   1. Ask around Ledetchko about Reeky; talk to his father the tanner and to Adela at the bathhouse.
   2. Track Reeky down before Runt's men do.
   - ⚠ Timed — if you're slow, Runt's men get to Reeky first.
@@ -1032,6 +1089,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[My Friend Timmy](https://kingdomcomedeliverance.wiki.gg/wiki/My_Friend_Timmy)** — `MAIN` · **Complete**
   - *Where:* Starts automatically after On the Scent; head to Merhojed.
+  - **Bring:** Speech to send Morcock off
   1. Go to the windmill south of Merhojed; talk to Timmy's sister Mirka.
   2. Find Timmy and his rival Morcock.
   3. Side with Morcock, but don't kill Timmy yourself.
@@ -1047,10 +1105,12 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Scout and storm the bandit camp.*
 
+> 🎒 **Prepare:** Bring a torch, Bane/poison potions, good armour, plenty of potions, and arrive rested and fed for the Pribyslavitz assault.
 > 🕯 *Rest, eat and bathe the night before. Henry rides into his first real battle at dawn.*
 
 - [ ] **[Nest of Vipers](https://kingdomcomedeliverance.wiki.gg/wiki/Nest_of_Vipers)** — `MAIN` · **Complete**
   - *Where:* Sir Radzig, after My Friend Timmy.
+  - **Bring:** Torch for arrow caches · Up to 4 Bane/poison potions · Scout at night
   1. Scout the camp at Pribyslavitz from the treeline.
   2. Slip inside in Cuman gear — don't rely on Morcock to vouch for you.
   3. Poison the cooking pots and burn the arrow caches.
@@ -1060,6 +1120,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** This is reconnaissance for Radzig: scout at night in Cuman gear and don't sit down for drinks with Morcock.
 - [ ] **[Baptism of Fire](https://kingdomcomedeliverance.wiki.gg/wiki/Baptism_of_Fire)** — `MAIN` · **Complete**
   - *Where:* Sir Divish, once you're ready for the attack on Pribyslavitz.
+  - **Bring:** Good armour and weapons · Plenty of potions (Aqua Vitalis) · Rested and fed · Poison for your weapon
   1. Tell Sir Divish you're ready. Come rested, fed, and with potions.
   2. Fight into the camp, kill the Cuman commander, push to the church.
   3. Hold the position and kill the bandit commander in the steeple.
@@ -1068,6 +1129,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Fight alongside Radzig's men in proper armour—no sneaking off. This is Henry's revenge; let it feel earned.
   - 🪙 A room at Pirkstein, Rattay
   - <details><summary>Story spoiler</summary>Pribyslavitz falls and a prisoner is taken — the trail now leads to Merhojed.</details>
+
+> 🏁 **Checkpoint — end of Act III:** Tourney-capable after Bernard's training, Pebbles as your horse, decent armour, and potions and poison ready for Pribyslavitz.
 
 ## Act IV — Rattay Errands & Talmberg Affairs
 
@@ -1083,6 +1146,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 74](#visit-74)
 - [ ] **[Ruin](https://kingdomcomedeliverance.wiki.gg/wiki/Ruin)** — `ACTIVITY` · **Start**
   - *Where:* Captain Bernard at the Rattay combat arena.
+  - **Bring:** Dagger and Bane potions · Lockpicks — Hard/Very Hard chests · A horse
   1. Captain Bernard wants the bandit camps around Rattay cleared.
   - **Outcome:** 100 groschen per leader's spurs and 35 per ear across four camps; finishing unlocks Raiders.
   - **Tip:** Kill the leader first. Bane in the pot or wineskin at night clears a camp safely. A horse in camp can be spooked to draw bandits away.
@@ -1090,6 +1154,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 53](#visit-53)
 - [ ] **[Aquarius](https://kingdomcomedeliverance.wiki.gg/wiki/Aquarius)** — `SIDE` · **Complete**
   - *Where:* The Bailiff of Rattay (tip from the Tavern by the Gate).
+  - **Bring:** Marigold decoction for Rock
   1. Talk to Alex and gather the jobseekers in the Rathaus courtyard.
   2. Match them to the jobs: a cook for Hagen, three water-carriers, two latrine-emptiers.
   3. Get a healing concoction (marigold) for Rock's arm.
@@ -1100,6 +1165,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 100 groschen
 - [ ] **[Beggars' Feast](https://kingdomcomedeliverance.wiki.gg/wiki/Beggars%27_Feast)** — `ACTIVITY` · **Start**
   - *Where:* Alex, leader of the Skalitz refugees in Rattay.
+  - **Requires:** Bow and arrows
   1. Alex wants game meat and mushrooms for the refugees. Bring a bow.
   - **Outcome:** Small payments per delivery, but each hand-in costs reputation with Rattay's citizens and soldiers—it's poaching.
   - **Tip:** Hares are everywhere; boar south of Rattay; roe and red deer to the east. Hand meat in raw before it spoils.
@@ -1107,6 +1173,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 53](#visit-53)
 - [ ] **[Waldensians](https://kingdomcomedeliverance.wiki.gg/wiki/Waldensians)** — `SIDE` · **Start**
   - *Where:* Sir Hanush (the Rattay bailiff mentions a visiting Vicar).
+  - **Bring:** Bard potion · Speech 15+ for hardest options · Act quickly — timed
   1. Talk to Sir Hanush: get rid of the Vicar in Uzhitz.
   - **Outcome:** If the Bauers flee, the Vicar pays nothing but Hanush gives 225 and St Michael's sword—unless you admit warning them. Killing the Vicar earns nothing.
   - **Tip:** Some arguments with Mistress Bauer need about 15+ Speech; bring a Bard potion. Timed—dawdle and the Vicar finishes the job himself.
@@ -1133,6 +1200,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 Double your bet + Agile as a Weasel I
 - [ ] **[Playing with the Devil](https://kingdomcomedeliverance.wiki.gg/wiki/Playing_with_the_Devil)** — `SIDE` · **Complete**
   - *Where:* Father Godwin in Uzhitz (tip from the Uzhitz innkeeper).
+  - **Bring:** Remove noisy gear · Lockpicks
   1. Ask Gertrude what she put the village women up to.
   2. Follow the women into the woods at night — from a distance.
   3. Tell Father Godwin how it ended, then tell the herb-woman.
@@ -1163,6 +1231,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Raiders](https://kingdomcomedeliverance.wiki.gg/wiki/Raiders)** — `ACTIVITY` · **Start**
   - *Where:* Captain Robard of Talmberg, after Ruin.
+  - **Bring:** Dagger and Bane potions · Lockpicks · A horse · Gear for armoured Cumans
   1. Captain Robard wants five Cuman camps destroyed — bring back each leader's faceplate.
   - **Outcome:** 375 groschen per leader's faceplate and 35 per ear across five camps; finishing unlocks Interlopers.
   - **Tip:** Cumans wear heavier armour than bandits—poison the pot or take sleepers with a dagger. The largest camp sometimes loses its leader underground; reload or wait for respawn.
@@ -1170,6 +1239,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 66](#visit-66)
 - [ ] **[Hare Hunt](https://kingdomcomedeliverance.wiki.gg/wiki/Hare_Hunt)** — `SIDE` · **Progress**
   - *Where:* Nicholas the huntsman in Talmberg (tips from the Uzhitz or Talmberg innkeeper).
+  - **Requires:** Spade
+  - **Bring:** 60 groschen (some routes)
   1. Question every villager except Margaret.
   2. Explore the clearing Blacksmith's Betty saw in the woods.
   3. Get the truth from Jake Piper and Thomas.
@@ -1200,6 +1271,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Choose a side — then believe Hanekin Hare.*
 
+> 🎒 **Prepare:** Hunting 5 with Butcher, a bow and a big-pack horse for the Huntsman job; lockpicks for Cherchez la Femme; Lukesh's delivery is two-day timed.
+
 - [ ] **[Sheep in Wolf's Clothing](https://kingdomcomedeliverance.wiki.gg/wiki/Sheep_in_Wolf%27s_Clothing)** — `SIDE` · **Progress**
   1. Get deer antlers and Nicholas the huntsman's hunting horn for Black Lukesh.
 - [ ] **[Hare Hunt](https://kingdomcomedeliverance.wiki.gg/wiki/Hare_Hunt)** — `SIDE` · **Progress**
@@ -1215,6 +1288,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ⚠ This fails Sheep in Wolf's Clothing. That's intended.
 - [ ] **[Emergency Supply](https://kingdomcomedeliverance.wiki.gg/wiki/Emergency_Supply)** — `SIDE` · **Complete** · **[Added]**
   - *Where:* Black Lukesh, one of Hanekin Hare's poachers.
+  - **Bring:** Deliver within two days
   1. Black Lukesh, one of Hanekin Hare's poachers, wants his stash from his house, which soldiers are watching.
   2. Slip past the watch, grab the stash and bring it to Lukesh within two days.
   - ℹ Trigger timing unverified — if it doesn't appear here, pick it up when offered.
@@ -1223,6 +1297,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Tip:** If it somehow appears: the stash is in the tankard by Lukesh's cooking pot, and you have two days. Otherwise ignore the guide entry.
 - [ ] **[Cherchez la Femme](https://kingdomcomedeliverance.wiki.gg/wiki/Cherchez_la_Femme)** — `SIDE` · **Complete**
   - *Where:* Hanekin Hare, at the end of Hare Hunt if you believe his story.
+  - **Bring:** Lockpicks · Stealth to carry body unseen
   1. Follow Hanekin Hare to his hiding cave.
   2. Believe his story and do the rest: bring Margaret to the mine gallery, get Nicholas to sign the document, give it to Hare.
   3. Agree to become Talmberg's huntsman.
@@ -1236,6 +1311,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ℹ Intended — the route trades the guards' version for the truth.
 - [ ] **[Henry the Master Huntsman](https://kingdomcomedeliverance.wiki.gg/wiki/Henry_the_Master_Huntsman)** — `ACTIVITY` · **Start**
   - *Where:* The Talmberg chamberlain, after Cherchez la Femme. Needs the Butcher perk.
+  - **Requires:** Hunting 5 · Butcher perk
+  - **Bring:** Horse with big pack · Bow and arrows
   1. Talk to the chamberlain. Bring the Talmberg kitchen the game they ask for (needs the Butcher perk).
   - ℹ Game you hunt is no longer counted as stolen.
   - **Outcome:** Legal hunting around Talmberg plus 250 groschen per delivery. Turning the post down loses the lodge's purpose but nothing story-critical.
@@ -1249,9 +1326,11 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 *Pay Andrew back; the lads' new scheme.*
 
 > ⚠ **Never steal Andrew's clothing.**
+> 🎒 **Prepare:** The quarry wages heist runs on a five-day clock. Start Gallows Brothers only for Andrew's dialogue — it's meant to fail at The Die is Cast.
 
 - [ ] **[Delicacies](https://kingdomcomedeliverance.wiki.gg/wiki/Delicacies)** — `ACTIVITY` · **Complete**
   - *Where:* Andrew at the Inn at the Glade, after Cherchez la Femme.
+  - **Requires:** Bow and arrows
   1. Bring Andrew 10 roe deer, 6 hare and 10 boar meat.
   - 🎭 This would fit better before Awakening, but it can't start until Cherchez la Femme is done. Treat it as paying Andrew back for the tip about Black Lukesh.
   - **Outcome:** Andrew pays well for game, and as Master Huntsman Henry can legally tell gamekeepers to back off. The training reward is reportedly buggy.
@@ -1260,6 +1339,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 100 groschen
 - [ ] **[A Rock and a Hard Place](https://kingdomcomedeliverance.wiki.gg/wiki/A_Rock_and_a_Hard_Place)** — `SIDE` · **Start**
   - *Where:* Matthew at the Inn at the Glade, some time after Besmirched.
+  - **Bring:** Speech to cut guard numbers · Lockpicks — Hard chest
   1. Matthew and Fritz want to rob the Talmberg quarry wages.
   2. Agree to help.
   - 🎭 Committing a crime against his own lord is out of character for Henry. He goes along hoping to stop a disaster.
@@ -1269,6 +1349,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 58](#visit-58)
 - [ ] **[Gallows Brothers](https://kingdomcomedeliverance.wiki.gg/wiki/Gallows_Brothers)** — `SIDE` · **Never completed**
   - *Where:* Andrew at the Inn at the Glade, right after A Rock and a Hard Place starts.
+  - **Requires:** Finish before The Die is Cast
+  - **Bring:** Lockpicks — Hard chest
   1. Hear Andrew out — he wants you to tip off Robard.
   2. Don't tell Captain Robard anything, and never finish this quest.
   - ⚠ Start it only for the Andrew dialogue. Never complete it — it fails automatically when The Die is Cast begins. Getting the lads arrested also loses them for Pribyslavitz.
@@ -1313,12 +1395,15 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Win the horse race.*
 
+> 🎒 **Prepare:** Race on Zora's grey with good spurs and an Aesop potion; pace the horse's stamina.
+
 - [ ] **[The Sport of Kings](https://kingdomcomedeliverance.wiki.gg/wiki/The_Sport_of_Kings)** — `SIDE` · **Progress**
   1. Talk Sir Divish into holding a race; see the stablemaster.
   2. Be at the Talmberg gate at noon the next day on Zora's grey.
   - ↪ Continues in [Visit 61](#visit-61)
 - [ ] **[Talmberg Horse Race](https://kingdomcomedeliverance.wiki.gg/wiki/Talmberg_Horse_Race)** — `SIDE` · **Complete**
   - *Where:* Sir Divish, during The Sport of Kings.
+  - **Bring:** Good spurs · Aesop potion
   1. Collect the ribbons at the dead tree in Uzhitz, the Merhojed mill and the Talmberg quarry.
   2. Race back to the start and win.
   - 🎭 After the race, talk to Lady Stephanie. She asks you to come and see her later.
@@ -1341,8 +1426,11 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Lady Stephanie's request.*
 
+> 🎒 **Prepare:** At Your Service is timed; bring lockpicks and a bow for the errands and bandits.
+
 - [ ] **[At Your Service, My Lady](https://kingdomcomedeliverance.wiki.gg/wiki/At_Your_Service,_My_Lady)** — `SIDE` · **Start**
   - *Where:* Lady Stephanie in Talmberg (a guard or the innkeeper sends you).
+  - **Bring:** Lockpicks · Bow · Timed quest
   1. Lady Stephanie needs wedding gifts: a roan, wine and a decorative crown.
   - **Outcome:** 125 groschen, Stephanie's shirt and a romance scene. Accepting her gift rules out the Virgin achievement; replacing the moldavite with a cheap stone shortchanges the crown.
   - **Tip:** Bring a bow for the Rattay archery contest. The moldavite is with two bandits by the river west of Sasau, past the blood-stained cart; easy lock.
@@ -1404,6 +1492,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   1. Hand in the last game delivery to the chamberlain.
   - 🪙 250 groschen
 
+> 🏁 **Checkpoint — end of Act IV:** Hunting 5+ with Butcher and the Gamekeeper perk, Speech near 15, and a camp-clearing kit: Bane potions, a dagger, lockpicks.
+
 ## Act V — Silver, Plague & Bastards
 
 *The investigation moves to Merhojed and the Skalitz mines. Kuno's mercenaries arrive and Pribyslavitz begins to rebuild.*
@@ -1415,6 +1505,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Questions and Answers](https://kingdomcomedeliverance.wiki.gg/wiki/Questions_and_Answers)** — `MAIN` · **Start**
   - *Where:* Starts when you enter the Upper Castle hall in Rattay after Baptism of Fire.
+  - **Bring:** Shovel if bandit dies
   1. Enter the Upper Castle hall; get your orders about the prisoner in Merhojed.
   - **Outcome:** Story-driven. Curing the bandit lets you question him properly, opening the better lead for All that Glisters; skipping the cure leaves only a letter from a corpse.
   - **Tip:** Don't break into the barn early; cure Merhojed first. Radzig needs time to reach the Talmberg lookout, so finishing fast may mean waiting for him.
@@ -1422,6 +1513,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 84](#visit-84)
 - [ ] **[The King's Silver](https://kingdomcomedeliverance.wiki.gg/wiki/The_King%27s_Silver)** — `SIDE` · **Start**
   - *Where:* Sir Radzig, who sends you to Master Tobias Feyfar.
+  - **Bring:** Torch for the mine · Speech for bigger reward
   1. Radzig sends you to Master Tobias Feyfar about the Skalitz silver mine.
   - **Outcome:** Getting to the truth about the miners pays up to 900–1,200 groschen; whether to turn in the widow is your conscience. Very buggy quest.
   - **Tip:** Talk to Nemoy at the miners' camp before entering the shaft, or the quest can't finish. Bring a torch; return to the camp yourself afterwards, there's no prompt.
@@ -1435,6 +1527,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[Pestilence](https://kingdomcomedeliverance.wiki.gg/wiki/Pestilence)** — `SIDE` · **Start**
   - *Where:* Matthias, lying injured in the Merhojed stud farm stables.
+  - **Requires:** Spade · 2 thistle, valerian, charcoal
+  - **Bring:** Reading (unlocks Last Will)
   1. Find Matthias in the stud farm stables.
   2. Look carefully at the sick and the village for clues.
   - **Outcome:** A correct diagnosis saves all of Merhojed and the prisoner. A wrong cure or delay costs villagers' lives and the bandit's testimony.
@@ -1443,6 +1537,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 69](#visit-69)
 - [ ] **[Last Will and Testament](https://kingdomcomedeliverance.wiki.gg/wiki/Last_Will_and_Testament)** — `SIDE` · **Start**
   - *Where:* Vincent of Merhojed, during Pestilence. Henry must be able to read.
+  - **Requires:** Reading
   1. Vincent wants his will written down (you need to be able to read).
   - **Outcome:** Finding Elijah first sends him home to his dying father before the will is lodged. Delivering straight away pays 175 but disinherits him without a word.
   - **Tip:** Elijah sits outside the Tavern on the Green, usually by 17:00, and won't show in heavy rain. Speak to him before handing the will to Father Fabian.
@@ -1498,6 +1593,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *The silver mine.*
 
+> 🎒 **Prepare:** Bring a torch for the silver mine and expect hostile miners.
+
 - [ ] **[The King's Silver](https://kingdomcomedeliverance.wiki.gg/wiki/The_King%27s_Silver)** — `SIDE` · **Progress**
   1. Talk to the chief engineer; inspect the ore yard, waterworks and shaft.
   2. Find the gallery Master Feyfar described, then escape the mine.
@@ -1547,6 +1644,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ℹ The route gives no status here. The quest closes once Bad Blood begins.
 - [ ] **[Bad Blood](https://kingdomcomedeliverance.wiki.gg/wiki/Bad_Blood)** — `DLC: Band of Bastards` · **Start**
   - *Where:* Sir Kuno at Kuno's camp (west of the road between the Rattay Mill and Ledetchko).
+  - **Bring:** Armour — numerous bandits
   1. Follow Kuno and his band to the burnt-out farm.
   - **Outcome:** Linear: wipe out the raiders and report to Radzig. No meaningful choices, just your first taste of Kuno's band at work.
   - **Tip:** The clue is a note pinned to a shield in the north-east building of the burnt mill; if invisible, look for the dagger. Ask Stephan about the blood trail.
@@ -1569,6 +1667,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 - [ ] **[The Ring of Bacchus](https://kingdomcomedeliverance.wiki.gg/wiki/The_Ring_of_Bacchus)** — `DLC: Band of Bastards` · **Start**
   - *Where:* Jakey / The Stone at Kuno's camp.
+  - **Requires:** Bow to shoot nest
+  - **Bring:** Reading for the riddle · Lullaby potion · Pickpocketing
   1. Round 1: get the ring from Dangler.
   2. Round 2: take it to The Stone.
   - **Outcome:** Rewards are books; the real value is camp banter. Keeping it unfinished until after What Price Honour? flags any of Kuno's men dying.
@@ -1577,6 +1677,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 79](#visit-79)
 - [ ] **[Uninvited Guests](https://kingdomcomedeliverance.wiki.gg/wiki/Uninvited_Guests)** — `DLC: Band of Bastards` · **Start**
   - *Where:* Sir Kuno at his camp.
+  - **Bring:** Speech or bribe
   1. Get Kuno's orders to attack the mill.
   - **Outcome:** Persuading Kuno to attack at once saves the women and earns Chivalrous Soul, but likely costs a man or two. Waiting is safer for the band.
   - **Tip:** Save before the speech check and the fight. Stick close to Kuno's men so enemies split their attention.
@@ -1625,6 +1726,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 83](#visit-83)
 - [ ] **[Thirty Pieces](https://kingdomcomedeliverance.wiki.gg/wiki/Thirty_Pieces)** — `DLC: Band of Bastards` · **Start**
   - *Where:* Sir Kuno at his camp.
+  - **Bring:** Speech and Charisma checks
   1. Jakey has gone missing — ask about him at the Inn at the Glade.
   - **Outcome:** Untying and freeing Jakey (Pinky Promise) later lets you remind Kuno of his oath. Killing him pleases Kuno; leaving him tied 12 hours earns Torturer.
   - **Tip:** If Jakey is invisible, talk to the tree he's tied to. Andrew may want a favour for the lead if Masquerade isn't done.
@@ -1650,6 +1752,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   1. Round 5: take the ring to Petr Bearman.
 - [ ] **[What Price Honour?](https://kingdomcomedeliverance.wiki.gg/wiki/What_Price_Honour%3F)** — `DLC: Band of Bastards` · **Start**
   - *Where:* Sir Kuno at his camp.
+  - **Bring:** ~15,000 groschen bribe option · Good armour for battle
   1. Get ready to face Hagen's men.
   - **Outcome:** Reminding Kuno of his promise (needs Jakey freed and Kuno warned) keeps him loyal. Silence lets him take Hagen's silver; bribing needs about 15,000 groschen.
   - **Tip:** Don't loot Kuno's camp or his men fight barehanded. Fast-travel away straight after the battle so wounded men don't bleed out on the walk back.
@@ -1672,11 +1775,15 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - <details><summary>Story spoiler</summary>The captive's answers point to counterfeit coin.</details>
 - [ ] **[All that Glisters](https://kingdomcomedeliverance.wiki.gg/wiki/All_that_Glisters)** — `MAIN` · **Start**
   - *Where:* Sir Radzig, at the lookout near Talmberg, after Questions and Answers.
+  - **Requires:** Lockpicking — Very Hard chests
+  - **Bring:** Speech for interrogations
   1. Radzig sends you after the counterfeit money.
   - **Outcome:** Story-driven investigation with a few side choices (Ulrich, Rattled, Esther). Sparing Ulrich gives an ally for the workshop raid.
   - **Tip:** Show Borya the bloodstained bags behind his shed to force the truth. Catch Zach late at night to make him talk. Stash loot before confronting Rapota.
   - **Immersion:** Ride between Rovna, Rattay and Sasau rather than fast-travel, and dress modestly in Sasau; Henry is investigating quietly, like Feyfar in disguise.
   - ↪ Continues in [Visit 85](#visit-85)
+
+> 🏁 **Checkpoint — end of Act V:** Strong armour and Speech for Kuno's band, Reading for Last Will, and savings building towards Pribyslavitz (~10,800 groschen).
 
 ## Act VI — Counterfeiters & the Madonna
 
@@ -1686,6 +1793,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 ### Visit 85 — Rovna #5
 
 *The handover point.*
+
+> 🎒 **Prepare:** Lockpicking for Very Hard chests is needed throughout All that Glisters.
 
 - [ ] **[All that Glisters](https://kingdomcomedeliverance.wiki.gg/wiki/All_that_Glisters)** — `MAIN` · **Progress**
   1. Go to the crossroads near Rovna where the counterfeit money changes hands.
@@ -1706,12 +1815,15 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Counterfeiters in Sasau.*
 
+> 🎒 **Prepare:** Interlopers' bandits are well armoured: bring poison, potions, lockpicks, top gear and a horse.
+
 - [ ] **[All that Glisters](https://kingdomcomedeliverance.wiki.gg/wiki/All_that_Glisters)** — `MAIN` · **Progress**
   1. Investigate the counterfeiters around Sasau (Zach, Florian, the bathhouse).
   - ⚠ Bring lockpicks and a spade.
   - ↪ Continues in [Visit 89](#visit-89)
 - [ ] **[Interlopers](https://kingdomcomedeliverance.wiki.gg/wiki/Interlopers)** — `ACTIVITY` · **Start**
   - *Where:* Baron Sebastian, Custodian of the Sasau Monastery (sent by Robard after Raiders).
+  - **Bring:** Poison and potions · Top armour — tough bandits · Lockpicks · A horse
   1. Talk to Baron Sebastian, Custodian of the monastery. Kill each camp's leader and bring back proof.
   - **Outcome:** 1,925 groschen per leader's spurs plus quality loot. The third camp, with four strong bandits and dogs, is the real danger.
   - **Tip:** Poison the cooking pots or bring Bane-coated weapons and a dagger. Save before the third camp; collect spurs from each leader as proof.
@@ -1719,6 +1831,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 88](#visit-88)
 - [ ] **[Rattled](https://kingdomcomedeliverance.wiki.gg/wiki/Rattled)** — `SIDE` · **Complete**
   - *Where:* Zach at the Sasau Monastery forge, during All that Glisters.
+  - **Bring:** Combat-ready for Master Ota
   1. Help Zach humiliate Master Ota (bludgeon duel, or steal the bailiff's armour).
   - **Choice:** Whoever you side with decides which smith — Zach or Ota — will move to Pribyslavitz.
   - ℹ Happens naturally during All that Glisters.
@@ -1728,6 +1841,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 450 groschen + a cuirass
 - [ ] **[Damsel in Distress](https://kingdomcomedeliverance.wiki.gg/wiki/Damsel_in_Distress)** — `SIDE` · **Start**
   - *Where:* Florian in Sasau, during All that Glisters.
+  - **Bring:** Lockpicks for stealth rescue · Go at night
   1. Florian's sweetheart Esther has been kidnapped. Agree to find her.
   - ℹ Happens naturally during All that Glisters.
   - **Outcome:** Rescue Esther and Florian helps the investigation. A surrendering kidnapper can reveal an easier back entrance to the counterfeiters' workshop.
@@ -1804,6 +1918,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Start rebuilding.*
 
+> 🎒 **Prepare:** Rebuilding Pribyslavitz needs roughly 10,800 groschen upfront plus daily wages; Speech above 17 helps with Marius.
+
 - [ ] **[From the Ashes](https://kingdomcomedeliverance.wiki.gg/wiki/From_the_Ashes)** — `DLC: From the Ashes` · **Start**
   - *Where:* DLC — unlocks through Lost in the Woods.
   1. Become Bailiff of Pribyslavitz and start rebuilding. Do it at your own pace.
@@ -1814,6 +1930,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 113](#visit-113)
 - [ ] **[A Place to Call Home](https://kingdomcomedeliverance.wiki.gg/wiki/A_Place_to_Call_Home)** — `DLC: From the Ashes` · **Start**
   - *Where:* The Bailiff of Rattay announces you as Bailiff of Pribyslavitz.
+  - **Bring:** Speech above 17
   1. Talk to Marius and agree his wage (a Bard potion helps the speech check).
   2. Build the woodcutters' camp, bridge and road, and traders first.
   - **Outcome:** Unlocks building, recruits and Supplies. Marius's pay terms appear to be cost only; overspending early can strain an unfinished village.
@@ -1822,6 +1939,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 113](#visit-113)
 - [ ] **[Judgement](https://kingdomcomedeliverance.wiki.gg/wiki/Judgement)** — `DLC: From the Ashes` · **Start**
   - *Where:* Marius at Pribyslavitz, during A Place to Call Home (not shown in the quest log).
+  - **Requires:** Bakery built
   1. Settle one village dispute a day (14 in total). Not shown in the quest log.
   - **Outcome:** Each ruling shifts reputation, population and income; one judgement per day. Lenient poaching rulings please villagers but may displease Divish.
   - **Tip:** Disputes are random each day; some need specific buildings first. Save before a hearing if you care about a particular result.
@@ -1829,6 +1947,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 113](#visit-113)
 - [ ] **[Supplies](https://kingdomcomedeliverance.wiki.gg/wiki/Supplies)** — `DLC: From the Ashes` · **Start**
   - *Where:* Marius at Pribyslavitz, during A Place to Call Home.
+  - **Requires:** ~10,800 groschen for buildings
   1. Pick suppliers for stone, grain, charcoal and livestock.
   - **Outcome:** Contracts for stone, grain, charcoal and livestock; the quest won't close without livestock. Choice of supplier seems to affect only cost.
   - **Tip:** Haggle Rupert's stone to 2,000–3,000 and save first (buggy). Samopesh grain is cheapest; Ledetchko livestock costs 30. Talmberg burners discount charcoal if you saved Ginger.
@@ -1844,6 +1963,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   1. Report what you found in the cave to Johanka.
 - [ ] **[The Madonna of Sasau — Ch. 2: Casting Lots](https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_2:_Casting_Lots)** — `DLC: A Woman's Lot` · **Complete**
   - *Where:* Johanka, after Chapter 1.
+  - **Bring:** High Drinking skill
   1. Go with Johanka to the Sasau market for her sermon.
   2. Help Guta get her husband Ambrose, the tailor, to stop gambling.
   - **Outcome:** Cure Ambrose of dice and report back to Guta, who then testifies for Johanka at the Trial. Returning his 600 groschen is the decent close.
@@ -1851,6 +1971,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Walk to the market with Johanka in plain clothes and keep your promise to Guta. Henry's here as the preacher's helper, not a card sharp.
 - [ ] **[The Madonna of Sasau — Ch. 3: Go and Sin No More](https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_3:_Go_and_Sin_No_More)** — `DLC: A Woman's Lot` · **Start**
   - *Where:* Johanka, after Chapter 2.
+  - **Bring:** First Aid II perk · Charisma or lockpicks · Fight vs Henslin's men
   1. Johanka wants Adela, the Ledetchko bathmaid, to help with the sick. Learn First Aid II first if you can.
   - **Outcome:** Win Adela over with the healing argument and she becomes a trial witness. Accepting her offer of payment hurts the ending. Killing Henslin costs Ledetchko reputation.
   - **Tip:** Get First Aid II and save before talking to her. If Henslin's men ambush you on the road, you can simply outrun them.
@@ -1862,8 +1983,11 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Capon week: baths, tourney, clothes and a robber baron.*
 
+> 🎒 **Prepare:** For the Capon quests bring dice, noble clothing, lockpicks and good Speech; Next to Godliness must finish by morning.
+
 - [ ] **[Next to Godliness](https://kingdomcomedeliverance.wiki.gg/wiki/Next_to_Godliness)** — `SIDE` · **Complete**
   - *Where:* Sir Hans Capon, recovering in Rattay after The Prey. Timed — runs until morning.
+  - **Bring:** Bring dice · Speech for cellar guard · Capon's keys or lockpicks · Finish by morning
   1. Join Sir Hans at the bathhouse; play dice with Zdena.
   2. Fetch Sylvan red wine from the Rathaus cellar.
   3. Optional: flowers for Klara.
@@ -1890,6 +2014,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Wear the borrowed finery to the audience. A page dressed by his lord is exactly what Hanush should see.
 - [ ] **[Robber Baron](https://kingdomcomedeliverance.wiki.gg/wiki/Robber_Baron)** — `SIDE` · **Complete**
   - *Where:* Sir Hanush, after Clothes Make the Man.
+  - **Bring:** 3 bandages · Speech to parley
   1. Join Bernard's men and find Wolflin's camp (scout both farms).
   2. Parley in Bernard's colours, or fight.
   3. Deal with Wolflin of Kamberg and report to Sir Hanush.
@@ -1899,6 +2024,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - 🪙 Magdeburg cuirass
 - [ ] **[Honeyed Words](https://kingdomcomedeliverance.wiki.gg/wiki/Honeyed_Words)** — `DLC: Hans Capon` · **Start**
   - *Where:* Sir Hans Capon in Rattay, after Robber Baron (DLC).
+  - **Bring:** Reading for the poems · Marigold decoction · Speech checks
   1. Sir Hans has fallen for Karolina and needs a wingman.
   - **Outcome:** Feed Hans the right verses and stall the butcher so his night succeeds. Killing the butcher or Karolina fails it, and the DLC needs it to finish the game.
   - **Tip:** Carry a Marigold decoction for Hans's swollen face. Use lines from the first poem, blame the French, then pass the Speech checks and start singing.
@@ -1906,6 +2032,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 98](#visit-98)
 - [ ] **[Game of Throws](https://kingdomcomedeliverance.wiki.gg/wiki/Game_of_Throws)** — `DLC: Hans Capon` · **Start**
   - *Where:* Sir Hans Capon, during Honeyed Words (DLC).
+  - **Requires:** Noble clothing
+  - **Bring:** Lockpicks — Very Hard chest · Speech checks
   1. Sir Hans has gambled away his family necklace.
   - **Outcome:** Winning the dice tournament gets the whole prize chest and I Can Quit Any Time. Naming Mladota to Anselm earns a hat. Confessing to Erhart gets only the necklace.
   - **Tip:** Mladota rolls Alphonse's loaded dice. Pickpocket them in the small hours before you face him. Bring 1,000 groschen unless you can talk your way in free.
@@ -1940,6 +2068,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Invoke the law as Radzig's man rather than starting a street fight near the convent.
 - [ ] **[The Madonna of Sasau — Ch. 5: Bonum Commune](https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_5:_Bonum_Commune)** — `DLC: A Woman's Lot` · **Start**
   - *Where:* Johanka, after Chapter 4 — meet Pavel of Kolin at the Wagoners' Inn.
+  - **Bring:** Stealth or fight 3 Cumans · High Speech for donation
   1. Meet the repentant Pavel of Kolin at the Wagoners' Inn.
   - **Outcome:** Hand the treasure over honestly and donate in Pavel's name to the bailiff, overseer or Father Fabian. Lying, self-credit or a failed monastery pitch hurts the trial.
   - **Tip:** Search the roadside corpses for the Custodian's orders. Hand them in with your Cuman report for 325 groschen.
@@ -1970,6 +2099,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 100](#visit-100)
 - [ ] **[No Rest for the Wicked](https://kingdomcomedeliverance.wiki.gg/wiki/No_Rest_for_the_Wicked)** — `DLC: Hans Capon` · **Complete**
   - *Where:* The charlatan in Ledetchko, during Honeyed Words (DLC).
+  - **Requires:** St John's wort, thistle, poppy · 3 charcoal · 50 venison, 25 lamb, 4 chicken
+  - **Bring:** Bow and arrows · Speech checks
   1. Help the Ledetchko charlatan scare the villagers (graves, eggs, meat, water) for the musk recipe.
   - ℹ Or pay 2,000 groschen for the musk.
   - **Outcome:** Finishing the haunting earns the musk recipe and 675 groschen. If you buy (2,000) or steal the recipe instead, this quest will eventually fail.
@@ -1996,8 +2127,11 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Johanka's last sermon; join the crimps.*
 
+> 🎒 **Prepare:** Join the fight club through the Sasau tanner, then report to Radzig before you enter the monastery.
+
 - [ ] **[The Madonna of Sasau — Ch. 6: The Wicket Gate](https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_6:_The_Wicket_Gate)** — `DLC: A Woman's Lot` · **Start**
   - *Where:* Johanka, after Chapter 5.
+  - **Requires:** 600–1200 groschen donation
   1. Go with Johanka to preach in the meadow; drive off the attackers.
   2. She tells you there's one sinner left: you.
   - ⚠ Achievement: if you want Full House Sinner, check its conditions before step 2.
@@ -2016,6 +2150,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Turn up at the quarry in the evening as a rough commoner looking for work, not in Radzig's colours. You're auditioning as bandit material.
 - [ ] **[Poverty, Chastity and Obedience](https://kingdomcomedeliverance.wiki.gg/wiki/Poverty,_Chastity_and_Obedience)** — `MAIN` · **Start**
   - *Where:* Kozliek of the Sasau crimps, during If You Can't Beat 'em.
+  - **Bring:** Lockpicks — Very Hard doors · Luck of the Drunk perk
   1. Kozliek wants Pious killed — he's hiding in the monastery.
   2. Talk to Karl, the young noble who's about to become a novice (get rid of his guardian first).
   - **Outcome:** Get rid of Manfred without bloodshed, take the writ and purse, and give Karl his whole purse. Killing Manfred loses Karl, and short-changing him sours or starts a fight.
@@ -2031,6 +2166,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 - [ ] **[The Madonna of Sasau — Ch. 6: The Wicket Gate](https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_6:_The_Wicket_Gate)** — `DLC: A Woman's Lot` · **Complete**
   1. Make the pilgrimage to the Church of Uzhitz.
   - 🎭 This keeps the bandits, who said they'd be watching, from getting suspicious — they'll think it's part of an initiation trial.
+
+> 🏁 **Checkpoint — end of Act VI:** Very Hard lockpicking, solid Drinking, First Aid II, noble clothes for Capon, top armour for Interlopers.
 
 ## Act VII — The Monastery & Vranik
 
@@ -2052,10 +2189,12 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 *Life as Brother Gregor.*
 
 > ⚠ **Shave and reset Henry's hair to the default style before you start A Needle in a Haystack. Most cutscenes from here to the end are pre-rendered.**
+> 🎒 **Prepare:** Your belongings are confiscated at the gate; plan on Speech to get lockpicks from Cellarius. Finish any side quests you care about — Vranik is next.
 > 🕯 *Live by the bell: mass, meals, work, sleep. Skipping the timetable gets you punished, and it breaks the illusion.*
 
 - [ ] **[A Needle in a Haystack](https://kingdomcomedeliverance.wiki.gg/wiki/A_Needle_in_a_Haystack)** — `MAIN` · **Start**
   - *Where:* Starts when Henry enters the Sasau Monastery as the novice "Brother Gregor".
+  - **Bring:** Speech/Badassness for Cellarius' lockpicks · Food to trade Cellarius
   1. Hand your writ to the porter, store your belongings and put on the habit.
   2. Work out which novice is Pious.
   - ⚠ Many cutscenes from here on are pre-rendered — shave and reset your hair first if you care about consistency.
@@ -2071,18 +2210,21 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Read Everyday Labours and obey the bells: 4th-hour mass, meals, fratery, scriptorium, bed. Sneak about only while the Circators are drinking.
 - [ ] **[Libri Prohibiti](https://kingdomcomedeliverance.wiki.gg/wiki/Libri_Prohibiti)** — `SIDE` · **Complete**
   - *Where:* Brother Nevlas, during A Needle in a Haystack.
+  - **Bring:** Lockpicks or librarian's key · Go at night
   1. Get the key to the forbidden-books cabinet, steal the book at night and bring it to Nevlas.
   - **Outcome:** Delivering the book wins Nevlas's gratitude and opens The Abbot's List. Reporting him fails the quest and makes him furious.
   - **Tip:** Finish Scattered Pages first and the librarian hands you the cabinet key. If you took Avicenna during Restless Spirit, you'll have to sneak out to fetch it.
   - **Immersion:** Henry tells himself it's medicine for a dying abbot. Take the book at night, after the copyist has left the library.
 - [ ] **[Scattered Pages](https://kingdomcomedeliverance.wiki.gg/wiki/Scattered_Pages)** — `SIDE` · **Complete**
   - *Where:* Brother Librarian, or pick up a torn page in the monastery.
+  - **Bring:** Lockpicks
   1. Find all 10 torn pages around the monastery and bring them to the librarian.
   - **Outcome:** Returning all ten pages wins the librarian's trust and the key to the forbidden-books cabinet, which makes Libri Prohibiti trivial.
   - **Tip:** Four pages sit in locked chests or cabinets and one is in the Abbot's bedroom. Collect that one while doing The Abbot's List.
   - **Immersion:** Pick pages up as you go about your chores rather than ransacking the cloister in one go.
 - [ ] **[Nasty Habits](https://kingdomcomedeliverance.wiki.gg/wiki/Nasty_Habits)** — `SIDE` · **Complete**
   - *Where:* Inspect the Sasau Monastery cellars.
+  - **Bring:** Lockpicks — Very Hard door
   1. Find out about the night drinking in the cellars and get the Circators their cask.
   2. Get keys via the prior, or pay Brother Cellarius 200 groschen.
   - **Outcome:** Bringing the Custodian's cask makes the Circators friendly, and that covers you on later night prowls. Reporting them to the Prior fails the quest.
@@ -2102,6 +2244,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Henry steals only for the mission. Leave the novice his savings and keep his secret.
 - [ ] **[The Trials of a Novice](https://kingdomcomedeliverance.wiki.gg/wiki/The_Trials_of_a_Novice)** — `SIDE` · **Complete**
   - *Where:* Novice Lucas, during Nasty Habits.
+  - **Bring:** Speech for the Circators
   1. Make the Circators stop picking on Novice Lucas, then tell him it's over.
   - **Outcome:** Talk a Circator round with a Speech check. Lucas then trusts you and shares what he knows about Pious. Going to the Prior instead fails Nasty Habits.
   - **Tip:** Finish Nasty Habits first. Friendly Circators are much easier to persuade.
@@ -2119,6 +2262,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Return the Janow manuscript to Father Godwin afterwards, a good penitent's last act.
 - [ ] **[The Die is Cast](https://kingdomcomedeliverance.wiki.gg/wiki/The_Die_is_Cast)** — `MAIN` · **Start**
   - *Where:* Kozliek, after A Needle in a Haystack.
+  - **Bring:** Wrap up side quests — no return
   1. Go to the agreed spot in the swamp by Sasau and light the signal fire.
   - 🔒 Point of no return. Once you enter Vranik, several side quests are no longer available. Finish anything you still want first.
   - **Outcome:** Story-driven point of no return. Bring Pious's dice (or 3,000 groschen). Keeping your bargain with Zbyshek honours your word, while denouncing him gets him hanged.
@@ -2140,6 +2284,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Inside the bandit camp.*
 
+> 🎒 **Prepare:** Collect the Pirkstein armoury kit if your gear wasn't recovered; expect a large battle.
+
 - [ ] **[The Die is Cast](https://kingdomcomedeliverance.wiki.gg/wiki/The_Die_is_Cast)** — `MAIN` · **Complete**
   1. Scout Vranik's numbers and plans; report to Erik and see Vanyek.
   2. Escape, try to get your gear back, and meet Zbyshek.
@@ -2147,6 +2293,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - <details><summary>Story spoiler</summary>Henry is found out and has to escape Vranik.</details>
 - [ ] **[Payback](https://kingdomcomedeliverance.wiki.gg/wiki/Payback)** — `MAIN` · **Complete**
   - *Where:* Starts automatically back in Rattay after Vranik.
+  - **Bring:** Collect Pirkstein armoury kit
   1. Get your gear back, then report to Bernard and Divish.
   2. Storm Vranik section by section and break the bandits.
   3. Search the homestead and take the letter to Lord Hanush.
@@ -2155,6 +2302,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Ride straight to Talmberg with the army. No detours or errands while the lords wait.
   - 🪙 425 groschen
   - <details><summary>Story spoiler</summary>Vranik falls — but the letter shows the lords have been betrayed.</details>
+
+> 🏁 **Checkpoint — end of Act VII:** Very Hard lockpicking and good Speech for the monastery, where you have no gear. Side quests wrapped up before Vranik.
 
 ## Act VIII — Siege of Talmberg & Epilogue
 
@@ -2165,6 +2314,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *Talmberg has fallen.*
 
+> 🎒 **Prepare:** Wear quiet night gear with a Nighthawk potion; gather 60 mint, 30 valerian, 6 wormwood for the Cockerel potions.
+
 - [ ] **[Out of the Frying Pan](https://kingdomcomedeliverance.wiki.gg/wiki/Out_of_the_Frying_Pan)** — `MAIN` · **Complete**
   - *Where:* Starts automatically after Payback.
   1. Take the outer bailey and open the portcullis for the reinforcements.
@@ -2174,6 +2325,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - <details><summary>Story spoiler</summary>Sir Istvan Toth has led the lords into a trap and taken Talmberg.</details>
 - [ ] **[Night Raid](https://kingdomcomedeliverance.wiki.gg/wiki/Night_Raid)** — `MAIN` · **Complete**
   - *Where:* Captain Robard of Talmberg, after Out of the Frying Pan.
+  - **Bring:** Quiet night gear · Nighthawk potion
   1. See Robard when you're ready; scale the walls and kill the gate guards.
   2. Find Sir Radzig and Lady Stephanie and get out with Sir Hans.
   - **Outcome:** Scripted. Whatever you say to Hans, the raid ends the same way. Getting spotted early just turns it into a straight escape.
@@ -2181,6 +2333,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - **Immersion:** Follow Hans's route through the shadows and kill only the two gate guards you were sent for.
 - [ ] **[Siege](https://kingdomcomedeliverance.wiki.gg/wiki/Siege)** — `MAIN` · **Start**
   - *Where:* Starts automatically after Night Raid.
+  - **Requires:** Complete Rocketeer
+  - **Bring:** 60 mint, 30 valerian, 6 wormwood · Herbalist reputation 70+
   1. Talk to Captain Robard, the quartermaster, Sir Divish and Captain Bernard.
   - **Outcome:** Finish every optional task (meat, beer, priest, physician, Cockerel potions) to buff your allies in the coming battles and earn Talmberger.
   - **Tip:** Andrew at the Inn in the Glade is the only beer source. Herbalists brew only at high reputation, so otherwise brew 60 yourself. Nicodemus comes readily after In God's Hands.
@@ -2188,6 +2342,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - ↪ Continues in [Visit 109](#visit-109)
 - [ ] **[Rocketeer](https://kingdomcomedeliverance.wiki.gg/wiki/Rocketeer)** — `SIDE` · **Start**
   - *Where:* Master Tobias Feyfar, at the start of Siege.
+  - **Bring:** Lockpicks — Hard chest · Speech or Maintenance
   1. Tobias Feyfar needs Konrad Kyeser to build a trebuchet.
   - **Outcome:** Forge the commission, return the original and stop Peychar before Konrad leaves: 1,075 groschen and Feyfar's trunk key. Punching Konrad costs goodwill; freeing Peychar invites attack.
   - **Tip:** Konrad's 'password' is a joke, and the scribe needs an hour. Peychar starts picking the lock at about 00:45.
@@ -2223,8 +2378,12 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *The Cuman King.*
 
+> 🎒 **Prepare:** Bring at least 300 groschen and healing potions; you need Unarmed 8 to face the King of the Cumans.
+
 - [ ] **[Revenge of the Cuman King](https://kingdomcomedeliverance.wiki.gg/wiki/Revenge_of_the_Cuman_King)** — `ACTIVITY` · **Complete**
   - *Where:* The Odd Bird in Skalitz. Needs If You Can't Beat 'em (Fight Club), Fishy Business in Uzhitz and Unarmed 8.
+  - **Requires:** Unarmed 8 · 300+ groschen (100/round)
+  - **Bring:** Healing potions
   1. Talk to the Odd Bird, beat Asch, then the King of the Cumans (100 groschen per round).
   2. Collect your winnings from the spokesman.
   - ℹ Needs Fishy Business in Uzhitz, the Fight Club from If You Can't Beat 'em, and Unarmed 8.
@@ -2237,10 +2396,13 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
 
 *The battle for Talmberg.*
 
+> 🎒 **Prepare:** Wear high-quality armour for Erik and the trebuchet defence; Speech and Charisma pay off in his interrogation.
+
 - [ ] **[Siege](https://kingdomcomedeliverance.wiki.gg/wiki/Siege)** — `MAIN` · **Progress**
   1. Go and watch the trebuchet test.
 - [ ] **[Cold Steel, Hot Blood](https://kingdomcomedeliverance.wiki.gg/wiki/Cold_Steel,_Hot_Blood)** — `MAIN` · **Complete**
   - *Where:* Starts automatically once the trebuchet is built.
+  - **Bring:** Bow for flanking
   1. Ask Sir Divish what your role is, then hold the ford and help Sir Hanush.
   - **Outcome:** Story battle, no choices. The ford holds whatever you do.
   - **Tip:** Havel's men go for the Skalitz militia before you. Flank them or shoot them from behind.
@@ -2248,6 +2410,7 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   - <details><summary>Story spoiler</summary>The enemy strikes first — the battle at the ford decides whether the siege can go on.</details>
 - [ ] **[Family Values](https://kingdomcomedeliverance.wiki.gg/wiki/Family_Values)** — `MAIN` · **Complete**
   - *Where:* Starts automatically after Cold Steel, Hot Blood.
+  - **Bring:** High-quality armour vs Erik · Speech and Charisma checks
   1. Rush to defend the trebuchet, then join the briefing in the tent.
   - **Outcome:** Story-driven. Passing all four persuasion checks earns the Freud achievement; the story beats stay the same.
   - **Tip:** Erik's persuasion stats are high. Wear your best clean armour for the Charisma and Badassness checks.
@@ -2310,6 +2473,8 @@ KCD1 (2018) with all four story DLCs, in the order of the Reddit role-play timel
   1. Pick up Margrave Jobst's letter and follow Capon to the camp.
   2. Talk to Capon to end the game.
   - <details><summary>Story spoiler</summary>Henry rides out on a new mission alongside Sir Hans Capon.</details>
+
+> 🏁 **Checkpoint — end of Act VIII:** Endgame: quiet night gear and Nighthawk for the raid, high-quality armour for Erik, and Cockerel ingredients for the siege.
 
 ## Appendices
 

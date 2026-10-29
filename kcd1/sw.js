@@ -1,4 +1,4 @@
-const CACHE = 'kcd1-guide-3677eb44a3';
+const CACHE = 'kcd1-guide-2aab15c2a1';
 const ASSETS = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png', 'favicon-32.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

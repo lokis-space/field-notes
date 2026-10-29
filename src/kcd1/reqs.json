@@ -1,0 +1,701 @@
+{
+ "quests": {
+  "Awakening": {
+   "req": [],
+   "prep": [
+    "Bribe or Speech at Rattay gate"
+   ]
+  },
+  "The Good Thief": {
+   "req": [
+    "Spade",
+    "Lockpicks"
+   ],
+   "prep": []
+  },
+  "Rob the Rich, Give to the Poor": {
+   "req": [
+    "Pickpocketing (taught by Peshek)"
+   ],
+   "prep": [
+    "Check noise of clothing"
+   ]
+  },
+  "Do Me a Favour - Punch Me!": {
+   "req": [],
+   "prep": [
+    "Strength for winning clinches"
+   ]
+  },
+  "Scavenger": {
+   "req": [
+    "Spade"
+   ],
+   "prep": []
+  },
+  "Chumps on the River": {
+   "req": [],
+   "prep": [
+    "Light, fast bow",
+    "Horse to get closer"
+   ]
+  },
+  "Thick as Thieves - Peshek": {
+   "req": [
+    "Lockpicks",
+    "Lockpicking for Hard locks"
+   ],
+   "prep": [
+    "Padfoot potion"
+   ]
+  },
+  "Thick as Thieves - Woyzeck": {
+   "req": [
+    "Lockpicks",
+    "Lockpicking 15 — Very Hard chest"
+   ],
+   "prep": [
+    "Padfoot potion at Lockpicking 10+"
+   ]
+  },
+  "Thick as Thieves - Simon": {
+   "req": [
+    "Lockpicks"
+   ],
+   "prep": [
+    "Sneak in at night"
+   ]
+  },
+  "Mightier than the Sword": {
+   "req": [
+    "50 groschen for the scribe"
+   ],
+   "prep": []
+  },
+  "Restless Spirit": {
+   "req": [
+    "Lockpicks — Hard/Very Hard locks"
+   ],
+   "prep": [
+    "Padfoot potion"
+   ]
+  },
+  "The Queen of Sheba's Sword": {
+   "req": [
+    "Lockpicks — Very Hard lock",
+    "200 groschen",
+    "Aquarius done (Pickman's piece)"
+   ],
+   "prep": [
+    "Pickpocketing as alternative"
+   ]
+  },
+  "Fat Profits": {
+   "req": [
+    "Hunting 5",
+    "Butcher perk",
+    "Bow and arrows"
+   ],
+   "prep": []
+  },
+  "A Costly Brawl": {
+   "req": [],
+   "prep": [
+    "Speech to persuade Elias"
+   ]
+  },
+  "In God's Hands": {
+   "req": [
+    "10 bandages",
+    "Lullaby and Artemisia potions",
+    "Comfrey",
+    "Bard potion or 150 groschen"
+   ],
+   "prep": [
+    "First Aid III perk",
+    "Finish A Man of the Cloth",
+    "Timed — patients die"
+   ]
+  },
+  "Saintly Remains": {
+   "req": [],
+   "prep": [
+    "Lockpicks — Very Hard door",
+    "Padfoot potion",
+    "Bard potion for Urban"
+   ]
+  },
+  "Weeds": {
+   "req": [],
+   "prep": [
+    "Herbalism to convince Nicodemus"
+   ]
+  },
+  "Tough Love": {
+   "req": [],
+   "prep": [
+    "Embrocation potion for scribe"
+   ]
+  },
+  "...Is a Friend Indeed": {
+   "req": [],
+   "prep": [
+    "Speech to move Thomas"
+   ]
+  },
+  "Skin": {
+   "req": [
+    "Hunting 5",
+    "Tanner perk",
+    "Bow and arrows"
+   ],
+   "prep": []
+  },
+  "The House of God": {
+   "req": [],
+   "prep": [
+    "Blunt weapon for Zmola"
+   ]
+  },
+  "Masquerade": {
+   "req": [
+    "Three Cuman armours with masks"
+   ],
+   "prep": [
+    "Bane potions for camps",
+    "Lockpicks — Very Hard chest"
+   ]
+  },
+  "Besmirched": {
+   "req": [
+    "Lockpicks — Very Hard chest"
+   ],
+   "prep": [
+    "Pickpocketing or knockout"
+   ]
+  },
+  "Lost in Translation": {
+   "req": [],
+   "prep": [
+    "Lockpicks",
+    "50 groschen bribe"
+   ]
+  },
+  "Rattay Tourney": {
+   "req": [
+    "60 groschen entry fee"
+   ],
+   "prep": [
+    "Potions before speaking to Herald"
+   ]
+  },
+  "Dead Men Tell No Tales": {
+   "req": [
+    "Beat Black Peter (tourney)"
+   ],
+   "prep": [
+    "Antidote",
+    "Strength/Agility for takedown"
+   ]
+  },
+  "Money for Old Rope": {
+   "req": [
+    "Reading"
+   ],
+   "prep": [
+    "Poison or Bane potion",
+    "Timed — one week"
+   ]
+  },
+  "A Bird in the Hand...": {
+   "req": [],
+   "prep": [
+    "Armour for bandit camp"
+   ]
+  },
+  "The Prey": {
+   "req": [],
+   "prep": [
+    "Own horse to keep up",
+    "Light, quiet clothing"
+   ]
+  },
+  "The Hunt Begins": {
+   "req": [],
+   "prep": [
+    "Leave with Bernard immediately",
+    "First Aid II perk"
+   ]
+  },
+  "Ginger in a Pickle": {
+   "req": [],
+   "prep": [
+    "Speech or coin for spokesman"
+   ]
+  },
+  "Mysterious Ways": {
+   "req": [],
+   "prep": [
+    "Embrocation potion for scribe",
+    "Lockpicks — Very Hard door",
+    "Reading"
+   ]
+  },
+  "On the Scent": {
+   "req": [],
+   "prep": [
+    "Go straight away — timed"
+   ]
+  },
+  "My Friend Timmy": {
+   "req": [],
+   "prep": [
+    "Speech to send Morcock off"
+   ]
+  },
+  "Nest of Vipers": {
+   "req": [],
+   "prep": [
+    "Torch for arrow caches",
+    "Up to 4 Bane/poison potions",
+    "Scout at night"
+   ]
+  },
+  "Baptism of Fire": {
+   "req": [],
+   "prep": [
+    "Good armour and weapons",
+    "Plenty of potions (Aqua Vitalis)",
+    "Rested and fed",
+    "Poison for your weapon"
+   ]
+  },
+  "Ruin": {
+   "req": [],
+   "prep": [
+    "Dagger and Bane potions",
+    "Lockpicks — Hard/Very Hard chests",
+    "A horse"
+   ]
+  },
+  "Raiders": {
+   "req": [],
+   "prep": [
+    "Dagger and Bane potions",
+    "Lockpicks",
+    "A horse",
+    "Gear for armoured Cumans"
+   ]
+  },
+  "Aquarius": {
+   "req": [],
+   "prep": [
+    "Marigold decoction for Rock"
+   ]
+  },
+  "Beggars' Feast": {
+   "req": [
+    "Bow and arrows"
+   ],
+   "prep": []
+  },
+  "Delicacies": {
+   "req": [
+    "Bow and arrows"
+   ],
+   "prep": []
+  },
+  "Waldensians": {
+   "req": [],
+   "prep": [
+    "Bard potion",
+    "Speech 15+ for hardest options",
+    "Act quickly — timed"
+   ]
+  },
+  "Playing with the Devil": {
+   "req": [],
+   "prep": [
+    "Remove noisy gear",
+    "Lockpicks"
+   ]
+  },
+  "Hare Hunt": {
+   "req": [
+    "Spade"
+   ],
+   "prep": [
+    "60 groschen (some routes)"
+   ]
+  },
+  "Emergency Supply": {
+   "req": [],
+   "prep": [
+    "Deliver within two days"
+   ]
+  },
+  "Cherchez la Femme": {
+   "req": [],
+   "prep": [
+    "Lockpicks",
+    "Stealth to carry body unseen"
+   ]
+  },
+  "Henry the Master Huntsman": {
+   "req": [
+    "Hunting 5",
+    "Butcher perk"
+   ],
+   "prep": [
+    "Horse with big pack",
+    "Bow and arrows"
+   ]
+  },
+  "A Rock and a Hard Place": {
+   "req": [],
+   "prep": [
+    "Speech to cut guard numbers",
+    "Lockpicks — Hard chest"
+   ]
+  },
+  "Gallows Brothers": {
+   "req": [
+    "Finish before The Die is Cast"
+   ],
+   "prep": [
+    "Lockpicks — Hard chest"
+   ]
+  },
+  "Talmberg Horse Race": {
+   "req": [],
+   "prep": [
+    "Good spurs",
+    "Aesop potion"
+   ]
+  },
+  "At Your Service, My Lady": {
+   "req": [],
+   "prep": [
+    "Lockpicks",
+    "Bow",
+    "Timed quest"
+   ]
+  },
+  "The King's Silver": {
+   "req": [],
+   "prep": [
+    "Torch for the mine",
+    "Speech for bigger reward"
+   ]
+  },
+  "Pestilence": {
+   "req": [
+    "Spade",
+    "2 thistle, valerian, charcoal"
+   ],
+   "prep": [
+    "Reading (unlocks Last Will)"
+   ]
+  },
+  "Last Will and Testament": {
+   "req": [
+    "Reading"
+   ],
+   "prep": []
+  },
+  "Questions and Answers": {
+   "req": [],
+   "prep": [
+    "Shovel if bandit dies"
+   ]
+  },
+  "Bad Blood": {
+   "req": [],
+   "prep": [
+    "Armour — numerous bandits"
+   ]
+  },
+  "The Ring of Bacchus": {
+   "req": [
+    "Bow to shoot nest"
+   ],
+   "prep": [
+    "Reading for the riddle",
+    "Lullaby potion",
+    "Pickpocketing"
+   ]
+  },
+  "Uninvited Guests": {
+   "req": [],
+   "prep": [
+    "Speech or bribe"
+   ]
+  },
+  "Thirty Pieces": {
+   "req": [],
+   "prep": [
+    "Speech and Charisma checks"
+   ]
+  },
+  "What Price Honour?": {
+   "req": [],
+   "prep": [
+    "~15,000 groschen bribe option",
+    "Good armour for battle"
+   ]
+  },
+  "All that Glisters": {
+   "req": [
+    "Lockpicking — Very Hard chests"
+   ],
+   "prep": [
+    "Speech for interrogations"
+   ]
+  },
+  "Rattled": {
+   "req": [],
+   "prep": [
+    "Combat-ready for Master Ota"
+   ]
+  },
+  "Damsel in Distress": {
+   "req": [],
+   "prep": [
+    "Lockpicks for stealth rescue",
+    "Go at night"
+   ]
+  },
+  "Interlopers": {
+   "req": [],
+   "prep": [
+    "Poison and potions",
+    "Top armour — tough bandits",
+    "Lockpicks",
+    "A horse"
+   ]
+  },
+  "The Madonna of Sasau — Ch. 2: Casting Lots": {
+   "req": [],
+   "prep": [
+    "High Drinking skill"
+   ]
+  },
+  "The Madonna of Sasau — Ch. 3: Go and Sin No More": {
+   "req": [],
+   "prep": [
+    "First Aid II perk",
+    "Charisma or lockpicks",
+    "Fight vs Henslin's men"
+   ]
+  },
+  "The Madonna of Sasau — Ch. 5: Bonum Commune": {
+   "req": [],
+   "prep": [
+    "Stealth or fight 3 Cumans",
+    "High Speech for donation"
+   ]
+  },
+  "The Madonna of Sasau — Ch. 6: The Wicket Gate": {
+   "req": [
+    "600–1200 groschen donation"
+   ],
+   "prep": []
+  },
+  "Supplies": {
+   "req": [
+    "~10,800 groschen for buildings"
+   ],
+   "prep": []
+  },
+  "A Place to Call Home": {
+   "req": [],
+   "prep": [
+    "Speech above 17"
+   ]
+  },
+  "Judgement": {
+   "req": [
+    "Bakery built"
+   ],
+   "prep": []
+  },
+  "Next to Godliness": {
+   "req": [],
+   "prep": [
+    "Bring dice",
+    "Speech for cellar guard",
+    "Capon's keys or lockpicks",
+    "Finish by morning"
+   ]
+  },
+  "Game of Throws": {
+   "req": [
+    "Noble clothing"
+   ],
+   "prep": [
+    "Lockpicks — Very Hard chest",
+    "Speech checks"
+   ]
+  },
+  "Honeyed Words": {
+   "req": [],
+   "prep": [
+    "Reading for the poems",
+    "Marigold decoction",
+    "Speech checks"
+   ]
+  },
+  "Robber Baron": {
+   "req": [],
+   "prep": [
+    "3 bandages",
+    "Speech to parley"
+   ]
+  },
+  "No Rest for the Wicked": {
+   "req": [
+    "St John's wort, thistle, poppy",
+    "3 charcoal",
+    "50 venison, 25 lamb, 4 chicken"
+   ],
+   "prep": [
+    "Bow and arrows",
+    "Speech checks"
+   ]
+  },
+  "A Needle in a Haystack": {
+   "req": [],
+   "prep": [
+    "Speech/Badassness for Cellarius' lockpicks",
+    "Food to trade Cellarius"
+   ]
+  },
+  "Poverty, Chastity and Obedience": {
+   "req": [],
+   "prep": [
+    "Lockpicks — Very Hard doors",
+    "Luck of the Drunk perk"
+   ]
+  },
+  "Libri Prohibiti": {
+   "req": [],
+   "prep": [
+    "Lockpicks or librarian's key",
+    "Go at night"
+   ]
+  },
+  "Scattered Pages": {
+   "req": [],
+   "prep": [
+    "Lockpicks"
+   ]
+  },
+  "Nasty Habits": {
+   "req": [],
+   "prep": [
+    "Lockpicks — Very Hard door"
+   ]
+  },
+  "The Trials of a Novice": {
+   "req": [],
+   "prep": [
+    "Speech for the Circators"
+   ]
+  },
+  "The Die is Cast": {
+   "req": [],
+   "prep": [
+    "Wrap up side quests — no return"
+   ]
+  },
+  "Payback": {
+   "req": [],
+   "prep": [
+    "Collect Pirkstein armoury kit"
+   ]
+  },
+  "Night Raid": {
+   "req": [],
+   "prep": [
+    "Quiet night gear",
+    "Nighthawk potion"
+   ]
+  },
+  "Siege": {
+   "req": [
+    "Complete Rocketeer"
+   ],
+   "prep": [
+    "60 mint, 30 valerian, 6 wormwood",
+    "Herbalist reputation 70+"
+   ]
+  },
+  "Rocketeer": {
+   "req": [],
+   "prep": [
+    "Lockpicks — Hard chest",
+    "Speech or Maintenance"
+   ]
+  },
+  "Revenge of the Cuman King": {
+   "req": [
+    "Unarmed 8",
+    "300+ groschen (100/round)"
+   ],
+   "prep": [
+    "Healing potions"
+   ]
+  },
+  "Family Values": {
+   "req": [],
+   "prep": [
+    "High-quality armour vs Erik",
+    "Speech and Charisma checks"
+   ]
+  },
+  "Cold Steel, Hot Blood": {
+   "req": [],
+   "prep": [
+    "Bow for flanking"
+   ]
+  },
+  "Keeping the Peace": {
+   "req": [],
+   "prep": [
+    "Speech for persuasion"
+   ]
+  }
+ },
+ "visits": {
+  "20": "Bring 10 bandages, Lullaby and Artemisia potions and comfrey for In God's Hands; it's timed, and First Aid III helps.",
+  "45": "Have 60 groschen and potions for the tourney, an antidote for Black Peter's poisoned blade, and Reading for Money for Old Rope.",
+  "46": "Be ready to ride with Bernard to Neuhof immediately; he won't wait. First Aid II lets you bandage Jakub.",
+  "48": "On the Scent is timed: head out promptly or Runt's men reach Reeky first.",
+  "50": "Bring a torch, Bane/poison potions, good armour, plenty of potions, and arrive rested and fed for the Pribyslavitz assault.",
+  "56": "Hunting 5 with Butcher, a bow and a big-pack horse for the Huntsman job; lockpicks for Cherchez la Femme; Lukesh's delivery is two-day timed.",
+  "57": "The quarry wages heist runs on a five-day clock. Start Gallows Brothers only for Andrew's dialogue — it's meant to fail at The Die is Cast.",
+  "60": "Race on Zora's grey with good spurs and an Aesop potion; pace the horse's stamina.",
+  "62": "At Your Service is timed; bring lockpicks and a bow for the errands and bandits.",
+  "72": "Bring a torch for the silver mine and expect hostile miners.",
+  "85": "Lockpicking for Very Hard chests is needed throughout All that Glisters.",
+  "87": "Interlopers' bandits are well armoured: bring poison, potions, lockpicks, top gear and a horse.",
+  "93": "Rebuilding Pribyslavitz needs roughly 10,800 groschen upfront plus daily wages; Speech above 17 helps with Marius.",
+  "95": "For the Capon quests bring dice, noble clothing, lockpicks and good Speech; Next to Godliness must finish by morning.",
+  "101": "Join the fight club through the Sasau tanner, then report to Radzig before you enter the monastery.",
+  "104": "Your belongings are confiscated at the gate; plan on Speech to get lockpicks from Cellarius. Finish any side quests you care about — Vranik is next.",
+  "106": "Collect the Pirkstein armoury kit if your gear wasn't recovered; expect a large battle.",
+  "107": "Wear quiet night gear with a Nighthawk potion; gather 60 mint, 30 valerian, 6 wormwood for the Cockerel potions.",
+  "110": "Bring at least 300 groschen and healing potions; you need Unarmed 8 to face the King of the Cumans.",
+  "111": "Wear high-quality armour for Erik and the trebuchet defence; Speech and Charisma pay off in his interrogation."
+ },
+ "acts": {
+  "1": "Starting stats: no reading, no lockpicking, no horse. Avoid fights — Theresa's chapter is pitched around level 4–5.",
+  "2": "Reading learned, Hard locks open (Very Hard needs Lockpicking 15), Hunting 5 with Butcher, First Aid perks, padded armour. Still on foot.",
+  "3": "Tourney-capable after Bernard's training, Pebbles as your horse, decent armour, and potions and poison ready for Pribyslavitz.",
+  "4": "Hunting 5+ with Butcher and the Gamekeeper perk, Speech near 15, and a camp-clearing kit: Bane potions, a dagger, lockpicks.",
+  "5": "Strong armour and Speech for Kuno's band, Reading for Last Will, and savings building towards Pribyslavitz (~10,800 groschen).",
+  "6": "Very Hard lockpicking, solid Drinking, First Aid II, noble clothes for Capon, top armour for Interlopers.",
+  "7": "Very Hard lockpicking and good Speech for the monastery, where you have no gear. Side quests wrapped up before Vranik.",
+  "8": "Endgame: quiet night gear and Nighthawk for the raid, high-quality armour for Erik, and Cockerel ingredients for the siege."
+ }
+}

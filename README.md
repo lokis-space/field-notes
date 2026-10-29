@@ -18,7 +18,7 @@ src/
   build_hub.py        builds the home page
   make_icons.py       draws the app icons
   fonts/              shared fonts (SIL OFL)
-  kcd1/               KCD1 guide sources: data, analysis, build script, PWA files
+  kcd1/               KCD1 guide sources: data, analysis, requirements, build script, PWA files
 build.sh              rebuilds everything
 ```
 
