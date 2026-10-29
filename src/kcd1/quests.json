@@ -1,0 +1,2550 @@
+{
+ "Unexpected Visit": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Unexpected_Visit",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically — Henry wakes at home in Skalitz; his father Martin is at the forge.",
+  "steps": [
+   "Eat breakfast, then see Martin at the forge — he needs supplies to finish Sir Radzig's sword.",
+   "Help friends: join Fritz, Matthew and the lads in their prank on the German's house.",
+   "Get help from friends: bring them along when you squeeze Kunesh for the money he owes.",
+   "Buy the charcoal and beer, then help Martin finish the sword."
+  ],
+  "notes": [
+   [
+    "c",
+    "Do both friend objectives — they set up the Skalitz friendships that matter later."
+   ]
+  ],
+  "spoilers": [
+   "Sigismund's army, Cumans included, falls on Skalitz without warning."
+  ],
+  "reward": null,
+  "old_last": "v1-e1"
+ },
+ "Run!": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Run!",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically when the army reaches Skalitz.",
+  "steps": [
+   "Grab what you can at home and take Radzig's sword.",
+   "Escape the town: the gates are shut, so make for the stables.",
+   "Ride for Talmberg with Cumans on your heels and warn the castle."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Henry watches his parents die and barely makes it to Talmberg."
+  ],
+  "reward": null,
+  "old_last": "v1-e2"
+ },
+ "Homecoming": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Homecoming",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically at Talmberg after Run!; the road leads through Rovna to Skalitz.",
+  "steps": [
+   "Leave Talmberg and follow the road through ruined Rovna to Skalitz.",
+   "Get past the looters on the road without killing them — knock them down or outrun them.",
+   "Reach Skalitz to bury your parents."
+  ],
+  "notes": [
+   [
+    "r",
+    "Henry can barely hold a sword yet — knock the looters down rather than kill them."
+   ]
+  ],
+  "spoilers": [
+   "Runt's men catch Henry at Skalitz; Theresa and the Talmberg men get him out alive."
+  ],
+  "reward": null,
+  "old_last": "v1-e3"
+ },
+ "Ordinary Routine": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Ordinary_Routine",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Theresa at the Rattay Mill — ask \"How did you manage to survive?\" (A Woman's Lot DLC).",
+  "steps": [
+   "As Theresa: weed the garden, feed the chickens and Tinker the dog.",
+   "Talk to your father, then fetch nails from the blacksmith's wife.",
+   "Find out what Bianca and Johanka want (this opens Cry Wolf! and Matchmaker).",
+   "Report back to your father."
+  ],
+  "notes": [
+   [
+    "r",
+    "No Cuman or bandit kills for all of A Woman's Lot — Theresa is fleeing, not fighting."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e4"
+ },
+ "Cry Wolf!": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Cry_Wolf!",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Bianca in Skalitz, during Ordinary Routine (playing as Theresa).",
+  "steps": [
+   "Bianca needs belladonna from the woods for her Saviour Schnapps.",
+   "Pick the herbs; people say a wolf has been seen, so stay alert.",
+   "Bring them back to Bianca."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e5"
+ },
+ "Matchmaker": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Matchmaker",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Bianca / Johanka in Skalitz, during Ordinary Routine.",
+  "steps": [
+   "Help Johanka get Matthias to invite her to the village dance.",
+   "Optional: bring Matthias's lucky dice to Johanka.",
+   "Optional: get Fritz to teach you lockpicking."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e6"
+ },
+ "The Family Silver": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Family_Silver",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Theresa's father at the Skalitz mill.",
+  "steps": [
+   "Talk to your father at the Skalitz mill about the family silver.",
+   "Follow his instructions and the quest markers.",
+   "Report back before the day ends."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e7"
+ },
+ "Unexpected Visit (Theresa)": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Unexpected_Visit_%28Theresa%29",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Theresa's father at the Skalitz mill, after the morning chores.",
+  "steps": [
+   "Talk to Father; pick up the nails from the blacksmith.",
+   "Optional: feed the chickens and the dog.",
+   "The army arrives while you're out."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e8"
+ },
+ "Thicker than Water": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Thicker_than_Water",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Follows Unexpected Visit (Theresa) automatically.",
+  "steps": [
+   "Flee and shake off the attackers.",
+   "Get to the mines and find Samuel.",
+   "Optional: explore the side mineshafts."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e9"
+ },
+ "Ties that Bind": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Ties_that_Bind",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Follows Thicker than Water, in the Skalitz mines.",
+  "steps": [
+   "Treat Samuel's wounds.",
+   "Gather 3 pieces of linen (or 6 bandages), 10 marigolds and water.",
+   "Optional: send Tinker to \"Seek!\" to find things faster."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e10"
+ },
+ "Aftermath": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Aftermath",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Follows Ties that Bind, outside the Skalitz mines.",
+  "steps": [
+   "Search beyond the walls for survivors.",
+   "Follow Tinker — he leads you to Holba (Angel of Mercy).",
+   "Help the injured man, then keep looking for survivors."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "Skalitz shield",
+  "old_last": "v1-e11"
+ },
+ "Angel of Mercy": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Angel_of_Mercy_%28quest%29",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Holba, found by following Tinker the dog at the start of Aftermath.",
+  "steps": [
+   "Potter's smallholding: find Stanislav's stash and bring it to him.",
+   "Near the works: help Jarmila escape.",
+   "Woodcutters' camp: get Julian to flee.",
+   "By the woods: get Marosh to safety; optionally find Pavlena for him."
+  ],
+  "notes": [
+   [
+    "c",
+    "The deserter near Jarmila is optional. Scare him off or sneak past rather than kill, to keep the no-kills rule."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v1-e12"
+ },
+ "The Good Thief": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Good_Thief",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Miller Peshek at the Rattay Mill — he wants his treatment paid for.",
+  "steps": [
+   "Peshek asks you to settle your treatment debt.",
+   "Turn down his dodgy job for now.",
+   "Accept Peshek's job.",
+   "Learn lockpicking from Peshek.",
+   "Get a spade; the hanged man's ring can be dug up, or found hidden in the executioner's house.",
+   "Take the ring to the miller in Kohelnitz (Woyzeck).",
+   "Optional: pay Peshek back for your treatment."
+  ],
+  "notes": [
+   [
+    "i",
+    "This opens the millers' Thick as Thieves jobs."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v8-e1"
+ },
+ "Rob the Rich, Give to the Poor": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Rob_the_Rich,_Give_to_the_Poor",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The Vagabond (a Skalitz refugee) in Rattay; needs Pickpocketing first.",
+  "steps": [
+   "The Vagabond asks you to steal for the refugees. Say no for now.",
+   "Do all the Rattay parts: 50 groschen from the guard Pazdera, 50 from the rich woman, and Wolfram Pruda's silver ring.",
+   "Bring each one back to the Vagabond.",
+   "Steal the guild seal from the Ledetchko merchant.",
+   "Bring the seal back to the Vagabond in Rattay."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "25 groschen",
+  "old_last": "v10-e1"
+ },
+ "Do Me a Favour - Punch Me!": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Do_Me_A_Favour_-_Punch_Me!",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Milan, among the Skalitz refugees in Rattay (Alex points you to the brawls).",
+  "steps": [
+   "Find Milan's brawls among the refugees.",
+   "Beat Ringlet, Stephen, then Milan.",
+   "Fists only, no weapons."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v2-e7"
+ },
+ "Scavenger": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Scavenger",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Kunesh in Rattay — he can't pay his debt, so he offers a treasure rumour instead.",
+  "steps": [
+   "Kunesh says there's treasure buried in Skalitz.",
+   "Get a spade before you go.",
+   "Dig for the treasure under the dove-cote in Skalitz.",
+   "Keep the loot for Beran / Kunesh's payoff.",
+   "Hand over or settle the treasure business back in Rattay."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "50 groschen",
+  "old_last": "v7-e1"
+ },
+ "Chumps on the River": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Chumps_on_the_River",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Vatzek at the Ledetchko archery range (tip from the Ledetchko innkeeper).",
+  "steps": [
+   "Talk to Vatzek at the Ledetchko archery range.",
+   "Shoot in the Chumps contest — you don't need a bow, he'll lend you his.",
+   "Come back for more rounds whenever you like."
+  ],
+  "notes": [
+   [
+    "i",
+    "Open-ended activity — keep shooting whenever you pass through Ledetchko."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v3-e1"
+ },
+ "A Man of the Cloth": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Man_of_the_Cloth",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "A villager in Rovna (tip from the Samopesh innkeeper).",
+  "steps": [
+   "Talk to the Rovna villager who's rebuilding.",
+   "He asks you to find the Skalitz priest, Father Simon.",
+   "Optional: talk to the family of Father Simon's housekeeper.",
+   "Go to the cross and search the area.",
+   "Find Father Simon hiding nearby, rescue him and talk to him.",
+   "Go back to Rovna and tell the villager what happened to Father Simon."
+  ],
+  "notes": [
+   [
+    "i",
+    "Finishing this makes In God's Hands easier later."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "250 groschen",
+  "old_last": "v6-e1"
+ },
+ "Pickpocketing": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Pickpocketing_%28activity%29",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Miller Peshek at the Rattay Mill — ask him to teach you (after settling your debt).",
+  "steps": [
+   "Go behind the mill with Peshek.",
+   "Try to lift his dagger without getting caught."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v9-e1"
+ },
+ "Thick as Thieves - Peshek": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Thick_as_Thieves_-_Peshek",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Miller Peshek at the Rattay Mill, after The Good Thief.",
+  "steps": [
+   "First job: steal the ring from the bathhouse madam's chest.",
+   "Bring it to Peshek.",
+   "Steal the documents from the Rattay Rathaus.",
+   "Steal Sir Hanush's illuminated book from the upper castle.",
+   "Bring everything to Peshek."
+  ],
+  "notes": [
+   [
+    "w",
+    "Hard locks — bring lockpicks and a Padfoot potion."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "150 groschen",
+  "old_last": "v9-e4"
+ },
+ "Thick as Thieves - Woyzeck": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Thick_as_Thieves_-_Woyzeck",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Miller Woyzeck at the Kohelnitz mill, after The Good Thief.",
+  "steps": [
+   "Talk to Miller Woyzeck — you can take all three jobs at once.",
+   "Steal at least five waffenrocks from the Talmberg armoury (getting the armoury key helps).",
+   "Steal Lady Stephanie's jewellery.",
+   "Steal a horse from the Merhojed stables.",
+   "Ride it to Woyzeck.",
+   "Hand over the waffenrocks and jewellery and ask Woyzeck for your reward."
+  ],
+  "notes": [
+   [
+    "w",
+    "Bring lockpicks and Padfoot potions."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "250 groschen",
+  "old_last": "v14-e1"
+ },
+ "A Woman Scorned": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Woman_Scorned",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The old whore at the Inn at the Glade.",
+  "steps": [
+   "Steal 20 groschen from the customer who didn't pay.",
+   "Steal the village woman's woollen shawl.",
+   "Steal the farmer's ornamental dagger.",
+   "Steal the trunk key from the farmer's wife; return each item to the old whore."
+  ],
+  "notes": [
+   [
+    "w",
+    "Never steal Andrew's clothing at the Inn at the Glade — it sours his later quests."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v16-e1"
+ },
+ "The Horse That Bolted": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Horse_That_Bolted",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "The head groom at the Uzhitz stables (tip from the Uzhitz innkeeper).",
+  "steps": [
+   "Talk to Vashek the stableboy about the lost stallion, Pie.",
+   "Go to the crossroads and find Pie.",
+   "Bring Pie back to the stables and collect from the head groom."
+  ],
+  "notes": [
+   [
+    "w",
+    "A bribe of up to 500 groschen may come up."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "50–80 groschen",
+  "old_last": "v17-e1"
+ },
+ "Mightier than the Sword": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Mightier_than_the_Sword",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "The Scribe of Uzhitz — ask anyone about learning to read. Bring 50 groschen.",
+  "steps": [
+   "Pay the Scribe of Uzhitz 50 groschen.",
+   "Read the book he gives you, then go back to him.",
+   "Read the Latin text, then return once more to finish."
+  ],
+  "notes": [
+   [
+    "w",
+    "Reading is needed for Last Will and Testament and Honeyed Words, and helps a lot in Pestilence."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "Henry can read",
+  "old_last": "v17-e2"
+ },
+ "Restless Spirit": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Restless_Spirit",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Kunhuta the herbalist in Ledetchko (tip from the Ledetchko innkeeper).",
+  "steps": [
+   "Talk to Kunhuta the herbalist.",
+   "Pick 10 poppies.",
+   "Ask Drahomira where Alois is buried.",
+   "Pick flowers from the restless dead man's grave.",
+   "Start the smudging ritual in Drahomira's cottage.",
+   "Burn the herbs.",
+   "Come back the next day to see if the ritual worked. It didn't.",
+   "Ask the Rattay Apothecary how to get rid of a ghost.",
+   "Steal the Necronomicon from the monastery library.",
+   "Give the Apothecary the book and wait until he's read it.",
+   "Find something that belonged to Alois, and charred wood from the burnt farm.",
+   "Find the grave of Alois's wife, Lada.",
+   "Report your findings to the Apothecary.",
+   "Meet the Apothecary at the crossroads at the agreed time and take part in the ritual.",
+   "Ask Father Godwin what to do about the ghost.",
+   "Get Drahomira to tell the truth.",
+   "Arrange for a cross to be made for the grave.",
+   "Set the cross and finish the ritual. Collect from Kunhuta."
+  ],
+  "notes": [
+   [
+    "w",
+    "Don't take the torn pages or any other books near the Necronomicon."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "Drahomira's ring + 100 groschen",
+  "old_last": "v35-e1"
+ },
+ "Tricks of the Trade": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Tricks_of_the_Trade",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "The Ledetchko blacksmith.",
+  "steps": [
+   "The Ledetchko blacksmith wants to know how the Sasau blacksmith makes his \"magic\" blades.",
+   "Listen to the Sasau blacksmith's ditty — that's his \"magic\".",
+   "Learn the verses in the right order.",
+   "Tell the Ledetchko blacksmith the ditty — the tempering process — in the right order."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "100 groschen",
+  "old_last": "v22-e2"
+ },
+ "Thick as Thieves - Simon": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Thick_as_Thieves_-_Simon",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Miller Simon at the Sasau mill, after The Good Thief.",
+  "steps": [
+   "Talk to Miller Simon.",
+   "First job: steal the valuable brocade from the Sasau tailor and bring it to Simon.",
+   "Steal the Uzhitz landlord's beer-brewing recipe.",
+   "Steal the spurs from the Sasau cobbler and bring them to Simon."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "175 groschen",
+  "old_last": "v44-e1"
+ },
+ "The Queen of Sheba's Sword": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Queen_of_Sheba%27s_Sword",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Swordsmith Fink at the Sasau forge.",
+  "steps": [
+   "Swordsmith Fink wants the five pieces of the sword (Sasau, Talmberg, two in Rattay, Ledetchko)."
+  ],
+  "notes": [
+   [
+    "i",
+    "Do it at your own pace. Finishing it lets you recruit Fink for Pribyslavitz."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v20-e2"
+ },
+ "Fat Profits": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Fat_Profits",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The Sasau butcher.",
+  "steps": [
+   "The Sasau butcher wants game and offal. Do it at your own pace (offal needs the Butcher perk)."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v20-e4"
+ },
+ "A Friend In Need...": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Friend_In_Need...",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Fritz and Matthew at the Sasau Monastery tavern (tips from the Sasau bailiff and innkeepers).",
+  "steps": [
+   "Find Fritz and Matthew at the monastery tavern.",
+   "Hear their troubles; they need work.",
+   "Tell Theresa that Matthew and Fritz are alive and looking for work.",
+   "Get Matthew and Fritz work at the Ledetchko mill.",
+   "Tell Fritz and Matthew you found them work."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v25-e1"
+ },
+ "Green-Eyed Monster": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Green-Eyed_Monster",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The farmhand outside the Sasau Monastery.",
+  "steps": [
+   "The farmhand outside the monastery has a series of theft jobs. Do them at your own pace."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v20-e7"
+ },
+ "A Costly Brawl": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Costly_Brawl",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Matthew, during A Friend In Need... in Sasau.",
+  "steps": [
+   "Find out why Fritz and Matthew owe the monastery money.",
+   "Persuade Elias to cancel their debt.",
+   "Tell Fritz the good news."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v20-e8"
+ },
+ "In God's Hands": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/In_God%27s_Hands",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Johanka at the Sasau Monastery infirmary (tips from Sasau innkeepers). Timed.",
+  "steps": [
+   "Help Johanka with the sick in the infirmary.",
+   "Find something to help the insomniac sleep.",
+   "Get healing herbs for Semek.",
+   "Find 10 bandages for Hans.",
+   "Ask Father Simon to help with the sick man at the infirmary.",
+   "Ask Executioner Hermann how to set the broken leg.",
+   "Set the broken leg, cure Philip, and try to get the Custodian to provide supplies.",
+   "Tell Johanka when there's nothing more you can do."
+  ],
+  "notes": [
+   [
+    "w",
+    "Timed quest — don't wander off for long."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v25-e2"
+ },
+ "Saintly Remains": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Saintly_Remains",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Urban, the guard outside the Custodian's house in the Sasau Monastery.",
+  "steps": [
+   "Urban wants a relic of Saint Procopius.",
+   "Bring him a \"relic\", then find a \"better\" one when he complains."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v20-e10"
+ },
+ "Weeds": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Weeds",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Brother Nicodemus at the Sasau Monastery garden.",
+  "steps": [
+   "Weed Brother Nicodemus's garden and report back."
+  ],
+  "notes": [
+   [
+    "i",
+    "Happens naturally during In God's Hands."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v20-e11"
+ },
+ "New Herbarium": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/New_Herbarium",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Brother Nicodemus at the Sasau infirmary, after Weeds.",
+  "steps": [
+   "Bring Nicodemus one sample of each herb plus an old book for the herbarium."
+  ],
+  "notes": [
+   [
+    "i",
+    "Happens naturally during In God's Hands."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v20-e12"
+ },
+ "Tough Love": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Tough_Love",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Executioner Hermann on Gallows Hill near Rattay (tip from the Broken Wheel innkeeper).",
+  "steps": [
+   "Talk to Hermann about the woman crying outside his house, then to Elishka.",
+   "Learn about her husband's family from the scribe (he needs an embrocation).",
+   "Find Elishka a home and decide her future with Hermann."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "125 groschen",
+  "old_last": "v26-e2"
+ },
+ "...Is a Friend Indeed": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/...Is_a_Friend_Indeed",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Fritz and Matthew at their new job, after A Friend In Need...",
+  "steps": [
+   "Check on Fritz and Matthew at the mill and hear both sides of their fight with Old Thomas.",
+   "Try to make peace; when that fails, set up a fight with Old Thomas.",
+   "Get ready for the ambush, then break the bad news to the lads."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "175 groschen",
+  "old_last": "v29-e2"
+ },
+ "Skin": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Skin",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Brada the tanner in Talmberg. Needs Hunting 5 and the Tanner perk.",
+  "steps": [
+   "Brada the tanner wants hare, boar and deer hides. Do it at your own pace (needs Hunting 5 and the Tanner perk)."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v32-e1"
+ },
+ "The House of God": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_House_of_God",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Divish in Talmberg (tip from the Talmberg innkeeper).",
+  "steps": [
+   "Talk to Sir Divish about the accident at the monastery.",
+   "Talk to the overseer and the master builder.",
+   "Find where the bad stone came from.",
+   "Meet Leshek and Zmola at the scaffolding after dark; stop Zmola.",
+   "Take the skull you find to the knacker.",
+   "Report to Sir Divish."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v34-e1"
+ },
+ "Masquerade": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Masquerade",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Matthew at the Inn at the Glade (Andrew tips you off).",
+  "steps": [
+   "Talk to Fritz, then make a deal with Andrew.",
+   "Get three Cuman disguises: helmets with faceplates and armour from a Cuman camp.",
+   "You only need to raid one of the three camps.",
+   "Talk to Bran about black (raven) feathers.",
+   "Talk to Olena about animal teeth (wolf fangs).",
+   "Talk to Vashek about a dog skin.",
+   "Bring the disguises and trimmings to Matthew and see the plan through."
+  ],
+  "notes": [
+   [
+    "i",
+    "Poisoning a camp's stew at night is the safest way to get the disguises."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v39-e1"
+ },
+ "Besmirched": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Besmirched",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Andrew, innkeeper of the Inn at the Glade, after Masquerade.",
+  "steps": [
+   "Andrew wants to know who looted his Skalitz tavern.",
+   "Bring Matthew and Fritz in on it.",
+   "Find and talk to Adam — the man who was robbed.",
+   "Talk to Tonchek; find the thieving charcoal-burner and rob the stash.",
+   "Confront Andrew about the loot.",
+   "Return everything to Adam, including his family cross."
+  ],
+  "notes": [
+   [
+    "c",
+    "Give it all to Adam, not Andrew — this keeps Adam recruitable as Pribyslavitz innkeeper."
+   ],
+   [
+    "a",
+    "Giving the loot to Andrew pays more but loses Adam."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "575 groschen",
+  "old_last": "v43-e1"
+ },
+ "Lost in Translation": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Lost_in_Translation",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "The Miller of Budin, who has caught a Cuman (tip from the Ledetchko innkeeper).",
+  "steps": [
+   "Find a translator for the Miller of Budin's Cuman prisoner.",
+   "Deal with the Cuman's stash and decide his fate.",
+   "Bring the Cuman to Rattay and collect the bounty from the bailiff."
+  ],
+  "notes": [
+   [
+    "c",
+    "Hand him over alive to the Rattay bailiff for the bounty."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "100 groschen bounty",
+  "old_last": "v44-e2"
+ },
+ "Awakening": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Awakening",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically — Henry wakes at the Rattay Mill.",
+  "steps": [
+   "Settle up at the mill and go to Sir Radzig in the Upper Castle."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Sir Radzig takes Henry into his service."
+  ],
+  "reward": null,
+  "old_last": "v45-e1"
+ },
+ "Train Hard, Fight Easy": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Train_Hard,_Fight_Easy",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Captain Bernard at the Rattay combat arena (north gate).",
+  "steps": [
+   "Report to Captain Bernard at the combat arena.",
+   "Learn moving, slashes, stabs, combos, then blocking.",
+   "Finish the sparring test."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "70 groschen",
+  "old_last": "v45-e2"
+ },
+ "Rattay Tourney": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Rattay_Tourney",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The herald in Rattay, on tourney mornings (innkeepers mention it).",
+  "steps": [
+   "Enrol with the herald on a tourney morning.",
+   "Fight through the rounds (several weapon types) and win.",
+   "Pick up your prize. Repeatable."
+  ],
+  "notes": [
+   [
+    "w",
+    "It's tough — train before you enter."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "Lords of Leipa armour pieces, top weapons",
+  "old_last": "v45-e4"
+ },
+ "Who Do You Like": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Who_Do_You_Like",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Miller Peshek takes bets on the Rattay Tourney.",
+  "steps": [
+   "Bet on yourself with Peshek, then collect your winnings after the tourney. Repeatable."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "Double your bet",
+  "old_last": "v45-e5"
+ },
+ "Dead Men Tell No Tales": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Dead_Men_Tell_No_Tales",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "The Samopesh blacksmith, whose son died after winning the tourney.",
+  "steps": [
+   "Find out how Svatopluk, the Samopesh blacksmith's son, died after the tourney.",
+   "Tell his father what you learned."
+  ],
+  "notes": [
+   [
+    "w",
+    "Bring an antidote."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "35 groschen",
+  "old_last": "v45-e6"
+ },
+ "Money for Old Rope": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Money_for_Old_Rope",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Executioner Hermann, some time after Tough Love (Rattay innkeepers send you). Timed — about a week.",
+  "steps": [
+   "Look up the right punishments in the Black Chronicle; ask the bailiff what the convicts did.",
+   "Report to Hermann, then sabotage the Kuttenberg executioner (dull the sword, poison the tongs, swap the rope).",
+   "Tell Hermann you succeeded and collect your reward."
+  ],
+  "notes": [
+   [
+    "w",
+    "Timed — Hermann can only stall for about a week."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "400 groschen + recipes, or up to 900 groschen",
+  "old_last": "v45-e7"
+ },
+ "A Bird in the Hand...": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Bird_in_the_Hand...",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Berthold at the Rattay hunting lodge (tip from the Broken Wheel innkeeper).",
+  "steps": [
+   "Track the three escaped nightingales west of Rattay by their call.",
+   "Set traps and catch them.",
+   "Bring them to Berthold at the hunting lodge."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "150 groschen + 40 arrows",
+  "old_last": "v45-e8"
+ },
+ "Keeping the Peace": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Keeping_the_Peace",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Sir Hanush after training; report to the watchman Nightingale.",
+  "steps": [
+   "Collect armour at the armoury, then report to Nightingale.",
+   "Do the watch duties around Rattay."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v45-e9"
+ },
+ "Courtship": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Courtship",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Think of Theresa after Awakening, or Nightingale nudges you during Keeping the Peace.",
+  "steps": [
+   "First date: see Theresa before noon and walk by the river.",
+   "Second date: take Theresa to the Broken Wheel tavern.",
+   "Third date: hide-and-seek, then help Theresa collect the laundry.",
+   "Talk to Theresa after the quest.",
+   "Take Theresa on one more date, where the subject of Henry's father comes up."
+  ],
+  "notes": [
+   [
+    "i",
+    "You can keep taking Theresa on dates afterwards."
+   ],
+   [
+    "i",
+    "The last date, about Henry's father, only becomes available near the end of the game."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v112-e2"
+ },
+ "The Prey": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Prey",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Sir Hans Capon in the Upper Castle courtyard, from 5 a.m. (he gives up around 10–11).",
+  "steps": [
+   "Meet Sir Hans in the Upper Castle courtyard (5–10 a.m.) and ride out on the hunt.",
+   "Protect him when the hunt goes wrong."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Henry saves Hans Capon's life and earns his place in Radzig's service."
+  ],
+  "reward": "100 groschen",
+  "old_last": "v45-e11"
+ },
+ "The Hunt Begins": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Hunt_Begins",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Captain Bernard, straight after The Prey — he rides to Neuhof without waiting.",
+  "steps": [
+   "Ride with Captain Bernard to Neuhof straight away.",
+   "Search the farm and the dead raiders."
+  ],
+  "notes": [],
+  "spoilers": [
+   "A bloody hoof pick points to Ginger, the missing stableboy."
+  ],
+  "reward": "100 groschen",
+  "old_last": "v46-e1"
+ },
+ "Ginger in a Pickle": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Ginger_in_a_Pickle",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts at Neuhof after the hoof pick is found.",
+  "steps": [
+   "Get Bernard's leave to carry on alone.",
+   "Question the charcoal-burners and track Ginger north.",
+   "Find Ginger and get the truth from him."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Ginger names a limping raider from Uzhitz."
+  ],
+  "reward": "150 groschen",
+  "old_last": "v46-e2"
+ },
+ "Mysterious Ways": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Mysterious_Ways",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts after Ginger in a Pickle; go to Uzhitz.",
+  "steps": [
+   "Talk your way in with the Uzhitz bailiff.",
+   "Find Father Godwin and follow the trail."
+  ],
+  "notes": [
+   [
+    "c",
+    "To get to Godwin's party (recommended), threaten him, then back down."
+   ]
+  ],
+  "spoilers": [
+   "The trail leads to Reeky of Ledetchko."
+  ],
+  "reward": null,
+  "old_last": "v47-e1"
+ },
+ "On the Scent": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/On_the_Scent",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically after Mysterious Ways. Timed.",
+  "steps": [
+   "Ask around Ledetchko about Reeky; talk to his father the tanner and to Adela at the bathhouse.",
+   "Track Reeky down before Runt's men do."
+  ],
+  "notes": [
+   [
+    "w",
+    "Timed — if you're slow, Runt's men get to Reeky first."
+   ]
+  ],
+  "spoilers": [
+   "Reeky points to Timmy near Merhojed."
+  ],
+  "reward": null,
+  "old_last": "v48-e1"
+ },
+ "My Friend Timmy": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/My_Friend_Timmy",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically after On the Scent; head to Merhojed.",
+  "steps": [
+   "Go to the windmill south of Merhojed; talk to Timmy's sister Mirka.",
+   "Find Timmy and his rival Morcock.",
+   "Side with Morcock, but don't kill Timmy yourself."
+  ],
+  "notes": [
+   [
+    "c",
+    "Morcock fits the role-play; keeping Timmy's blood off Henry's hands keeps Mirka recruitable as Pribyslavitz barmaid."
+   ],
+   [
+    "a",
+    "Sparing Timmy and siding with him gives a different way into Pribyslavitz."
+   ]
+  ],
+  "spoilers": [
+   "Both leads point to the bandit camp at Pribyslavitz."
+  ],
+  "reward": null,
+  "old_last": "v49-e1"
+ },
+ "Nest of Vipers": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Nest_of_Vipers",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Sir Radzig, after My Friend Timmy.",
+  "steps": [
+   "Scout the camp at Pribyslavitz from the treeline.",
+   "Slip inside in Cuman gear — don't rely on Morcock to vouch for you.",
+   "Poison the cooking pots and burn the arrow caches.",
+   "Report back to Sir Divish."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v50-e1"
+ },
+ "Baptism of Fire": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Baptism_of_Fire",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Sir Divish, once you're ready for the attack on Pribyslavitz.",
+  "steps": [
+   "Tell Sir Divish you're ready. Come rested, fed, and with potions.",
+   "Fight into the camp, kill the Cuman commander, push to the church.",
+   "Hold the position and kill the bandit commander in the steeple."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Pribyslavitz falls and a prisoner is taken — the trail now leads to Merhojed."
+  ],
+  "reward": "A room at Pirkstein, Rattay",
+  "old_last": "v50-e2"
+ },
+ "Ruin": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Ruin",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Captain Bernard at the Rattay combat arena.",
+  "steps": [
+   "Captain Bernard wants the bandit camps around Rattay cleared.",
+   "Clear the four camps, bringing each leader's spurs to Bernard."
+  ],
+  "notes": [
+   [
+    "i",
+    "Do it straight away — Raiders (Talmberg) and Interlopers (Sasau) are the same kind of job later on."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "100 groschen",
+  "old_last": "v53-e3"
+ },
+ "Aquarius": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Aquarius",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "The Bailiff of Rattay (tip from the Tavern by the Gate).",
+  "steps": [
+   "Talk to Alex and gather the jobseekers in the Rathaus courtyard.",
+   "Match them to the jobs: a cook for Hagen, three water-carriers, two latrine-emptiers.",
+   "Get a healing concoction (marigold) for Rock's arm."
+  ],
+  "notes": [
+   [
+    "i",
+    "Who you give jobs to affects one Queen of Sheba piece and lets you recruit Kornelius as a trader later."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "100 groschen",
+  "old_last": "v51-e3"
+ },
+ "Beggars' Feast": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Beggars%27_Feast",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Alex, leader of the Skalitz refugees in Rattay.",
+  "steps": [
+   "Alex wants game meat and mushrooms for the refugees. Bring a bow.",
+   "Bring Alex all the meat and mushrooms."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "50 groschen",
+  "old_last": "v53-e2"
+ },
+ "Waldensians": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Waldensians",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Hanush (the Rattay bailiff mentions a visiting Vicar).",
+  "steps": [
+   "Talk to Sir Hanush: get rid of the Vicar in Uzhitz.",
+   "Find the Vicar's Waldensian gathering and the owner of the wooden cross.",
+   "Persuade Mistress Bauer and her family to flee before the Vicar finds them.",
+   "Report to Sir Hanush. Admitting you warned the Bauers costs you the reward."
+  ],
+  "notes": [
+   [
+    "c",
+    "Warn the Bauers. Never hand them to the Vicar; killing him is the last resort and earns nothing."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "225 groschen + St. Michael's sword",
+  "old_last": "v53-e1"
+ },
+ "Fishy Business in Uzhitz": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Fishy_Business_in_Uzhitz",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The fisherman east of Uzhitz.",
+  "steps": [
+   "Beat Josef, Maple and Mash, then the fisherman. Fists only."
+  ],
+  "notes": [
+   [
+    "i",
+    "Needed (with the Fight Club) for Revenge of the Cuman King."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "Double your bet + Agile as a Weasel I",
+  "old_last": "v52-e2"
+ },
+ "Playing with the Devil": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Playing_with_the_Devil",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Father Godwin in Uzhitz (tip from the Uzhitz innkeeper).",
+  "steps": [
+   "Ask Gertrude what she put the village women up to.",
+   "Follow the women into the woods at night — from a distance.",
+   "Tell Father Godwin how it ended, then tell the herb-woman."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v52-e3"
+ },
+ "Raiders": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Raiders",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Captain Robard of Talmberg, after Ruin.",
+  "steps": [
+   "Captain Robard wants five Cuman camps destroyed — bring back each leader's faceplate.",
+   "Hand Robard the faceplates from all five Cuman camps."
+  ],
+  "notes": [
+   [
+    "i",
+    "Interlopers opens up next."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "375 groschen",
+  "old_last": "v66-e2"
+ },
+ "Hare Hunt": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Hare_Hunt",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Nicholas the huntsman in Talmberg (tip from the Uzhitz or Talmberg innkeeper).",
+  "steps": [
+   "Skip it if you've already started Sheep in Wolf's Clothing — it can't be picked up after that.",
+   "If you take this side instead: question the villagers, search the clearing and the charcoal-burner, then lead Robard to the poachers."
+  ],
+  "notes": [
+   [
+    "i",
+    "Mutually exclusive with Sheep in Wolf's Clothing. Tick it off once you've made your choice."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v56-e7b"
+ },
+ "Sheep in Wolf's Clothing": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Sheep_in_Wolf%27s_Clothing",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Andrew at the Inn at the Glade.",
+  "steps": [
+   "Andrew tells you about Black Lukesh, a Talmberg poacher.",
+   "Get deer antlers and Nicholas the huntsman's hunting horn for Lukesh.",
+   "Meet Hanekin Hare's poachers in the clearing.",
+   "Side with the poachers — that keeps Emergency Supply and Cherchez la Femme open."
+  ],
+  "notes": [
+   [
+    "w",
+    "Starting this first means Hare Hunt can never be started. Only one of the two can succeed."
+   ],
+   [
+    "a",
+    "Siding with the guards instead loses Emergency Supply."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v56-e3"
+ },
+ "Emergency Supply": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Emergency_Supply",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Black Lukesh, one of Hanekin Hare's poachers.",
+  "steps": [
+   "Black Lukesh wants his stash from his house, which the guards are watching.",
+   "Slip past the watch, take the stash and bring it to Lukesh within two days."
+  ],
+  "notes": [
+   [
+    "w",
+    "Only offered if you sided with the poachers in Sheep in Wolf's Clothing."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v56-e5"
+ },
+ "Cherchez la Femme": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Cherchez_la_Femme",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Hanekin Hare, at the end of Sheep in Wolf's Clothing (or Hare Hunt) if you believe his story.",
+  "steps": [
+   "Follow Hanekin Hare to his hiding cave.",
+   "Believe his story and do the rest: bring Margaret to the mine gallery, get Nicholas to sign the document, give it to Hare.",
+   "Agree to become Talmberg's huntsman."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "Talmberg hunting lodge + Gamekeeper perk",
+  "old_last": "v56-e6"
+ },
+ "Henry the Master Huntsman": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Henry_the_Master_Huntsman",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The Talmberg chamberlain, after Cherchez la Femme. Needs the Butcher perk.",
+  "steps": [
+   "Talk to the chamberlain. Bring the Talmberg kitchen the game they ask for (needs the Butcher perk).",
+   "Hand in the last game delivery to the chamberlain."
+  ],
+  "notes": [
+   [
+    "i",
+    "Game you hunt is no longer counted as stolen."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "250 groschen",
+  "old_last": "v66-e3"
+ },
+ "Delicacies": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Delicacies",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Andrew at the Inn at the Glade, after Cherchez la Femme.",
+  "steps": [
+   "Bring Andrew 10 roe deer, 6 hare and 10 boar meat."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "100 groschen",
+  "old_last": "v57-e1"
+ },
+ "A Rock and a Hard Place": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Rock_and_a_Hard_Place",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Matthew at the Inn at the Glade, some time after Besmirched.",
+  "steps": [
+   "Matthew and Fritz want to rob the Talmberg quarry wages; agree to help.",
+   "Ask Captain Robard about the number of guards at the quarry — when it appears, pick \"That makes sense\".",
+   "Help the Talmberg stablemaster with the horses to learn when the money moves.",
+   "Rob the wagon with the lads, or swap in your own money (below) so nobody is actually robbed."
+  ],
+  "notes": [
+   [
+    "i",
+    "Optional honest swap: drop 3,000 groschen, take the wages, put your own coin in their place. On PC you can spawn the quarry money with the command below."
+   ],
+   [
+    "pc",
+    "wh_cheat_additem bfd66313-4807-4907-b775-40d0eb9e12c3"
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v58-e1"
+ },
+ "Gallows Brothers": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Gallows_Brothers",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Andrew at the Inn at the Glade, right after A Rock and a Hard Place starts.",
+  "steps": [
+   "Andrew wants you to tip off Captain Robard about the lads' quarry plan.",
+   "Decide what to tell Robard — or tell him nothing."
+  ],
+  "notes": [
+   [
+    "c",
+    "Don't turn Matthew and Fritz in. Leaving it unresolved keeps them alive and recruitable for Pribyslavitz; it fails on its own at The Die is Cast."
+   ],
+   [
+    "a",
+    "Reporting the lads or framing Andrew gets people hanged."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v57-e3"
+ },
+ "The Sport of Kings": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Sport_of_Kings",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Zora at the Neuhof stud farm (Andrew or the Talmberg stablemaster mention it).",
+  "steps": [
+   "Talk to Zora at Neuhof and saddle her dappled grey.",
+   "Ride it to the Talmberg stables.",
+   "Talk Sir Divish into holding a race; see the stablemaster.",
+   "Be at the Talmberg gate at noon the next day on Zora's grey.",
+   "Tell Zora how the race went and return her horse."
+  ],
+  "notes": [
+   [
+    "i",
+    "You've probably heard about this from Andrew or the Talmberg stablemaster during A Rock and a Hard Place."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "250 groschen",
+  "old_last": "v61-e1"
+ },
+ "Talmberg Horse Race": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Talmberg_Horse_Race",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Divish, during The Sport of Kings.",
+  "steps": [
+   "Collect the ribbons at the dead tree in Uzhitz, the Merhojed mill and the Talmberg quarry.",
+   "Race back to the start and win."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "Knightrider achievement",
+  "old_last": "v60-e2"
+ },
+ "At Your Service, My Lady": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/At_Your_Service,_My_Lady",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Lady Stephanie in Talmberg (a guard or the innkeeper sends you).",
+  "steps": [
+   "Lady Stephanie needs wedding gifts: a roan, wine and a decorative crown.",
+   "Get a roan from Uzhitz (talking to Vashek helps).",
+   "Buy the wine from the Rattay merchant — he wants you to win an archery contest.",
+   "Find the missing moldavite for the Sasau masters.",
+   "Wait for the moldavite to be set, then collect the decorative crown.",
+   "Ride the roan to Talmberg and hand over the wine and crown."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "125 groschen",
+  "old_last": "v66-e1"
+ },
+ "Miracles While You Wait": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Miracles_While_You_Wait",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "The charlatan in Sasau — agree to be his apprentice.",
+  "steps": [
+   "Become the charlatan's apprentice.",
+   "Get Procopius's tooth, a branch from the topping-out, the cat's-paw talisman and the burial shroud.",
+   "Wait at his place, then hold back the angry crowd."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "Bandages, Bowman's Brew, Holy Trinity die",
+  "old_last": "v65-e2"
+ },
+ "Questions and Answers": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Questions_and_Answers",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts when you enter the Upper Castle hall in Rattay after Baptism of Fire.",
+  "steps": [
+   "Enter the Upper Castle hall; get your orders about the prisoner in Merhojed.",
+   "Question the captive (treat him for the plague first), then report to Radzig at the lookout by Talmberg."
+  ],
+  "notes": [],
+  "spoilers": [
+   "The captive's answers point to counterfeit coin."
+  ],
+  "reward": "375 groschen",
+  "old_last": "v84-e3"
+ },
+ "The King's Silver": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_King%27s_Silver",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Radzig, who sends you to Master Tobias Feyfar.",
+  "steps": [
+   "Radzig sends you to Master Tobias Feyfar about the Skalitz silver mine.",
+   "Talk to the chief engineer; inspect the ore yard, waterworks and shaft.",
+   "Find the gallery Master Feyfar described, then escape the mine.",
+   "Report to Tobias Feyfar and the chief engineer."
+  ],
+  "notes": [
+   [
+    "w",
+    "Bring a torch."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "300+ groschen",
+  "old_last": "v74-e2"
+ },
+ "Pestilence": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Pestilence",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Matthias, lying injured in the Merhojed stud farm stables.",
+  "steps": [
+   "Find Matthias in the stud farm stables.",
+   "Look carefully at the sick and the village for clues.",
+   "Ask the monastery's healers for help.",
+   "Give the cure to the sick.",
+   "Make sure the cure has worked and report."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "300 groschen",
+  "old_last": "v84-e2"
+ },
+ "Last Will and Testament": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Last_Will_and_Testament",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Vincent of Merhojed, during Pestilence. Henry must be able to read.",
+  "steps": [
+   "Vincent wants his will written down (you need to be able to read).",
+   "Talk to Elijah about the will.",
+   "Talk to Vincent again.",
+   "Take the will to the Sasau parish priest at St. Martin's."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "Silver ring + 50 groschen",
+  "old_last": "v71-e1"
+ },
+ "Band of Bastards": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Band_of_Bastards_%28Side_Quest%29",
+  "badge": "DLC: Band of Bastards",
+  "type": "DLC",
+  "dlc": "Band of Bastards",
+  "where": "Sir Radzig, after Baptism of Fire (DLC).",
+  "steps": [
+   "Radzig assigns you to guide Sir Kuno's mercenaries.",
+   "Find Kuno's camp (west of the road between the Rattay Mill and Ledetchko).",
+   "Beat Dangler to prove yourself.",
+   "Ride out on the first mission in daylight."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v75-e1"
+ },
+ "Lost in the Woods": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Lost_in_the_Woods",
+  "badge": "DLC: From the Ashes",
+  "type": "DLC",
+  "dlc": "From the Ashes",
+  "where": "Sir Divish in Talmberg, a few days after Baptism of Fire (DLC).",
+  "steps": [
+   "Find Sir Divish's master locator, Marius, at Pribyslavitz.",
+   "Join him on his survey.",
+   "Take Marius's letter to the Rattay bailiff and get him to make the announcement."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "600 groschen",
+  "old_last": "v74-e1"
+ },
+ "Bad Blood": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Bad_Blood",
+  "badge": "DLC: Band of Bastards",
+  "type": "DLC",
+  "dlc": "Band of Bastards",
+  "where": "Sir Kuno at Kuno's camp (west of the road between the Rattay Mill and Ledetchko).",
+  "steps": [
+   "Follow Kuno and his band to the burnt-out farm.",
+   "Search the farm, track the raiders and help Kuno wipe them out.",
+   "Report to Sir Radzig."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v76-e1"
+ },
+ "The Ring of Bacchus": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Ring_of_Bacchus",
+  "badge": "DLC: Band of Bastards",
+  "type": "DLC",
+  "dlc": "Band of Bastards",
+  "where": "Jakey / The Stone at Kuno's camp.",
+  "steps": [
+   "Round 1: get the ring from Dangler.",
+   "Round 2: take it to The Stone.",
+   "Round 3: get Stephan a lullaby potion, or take the ring from The Stone yourself.",
+   "Round 4: take the ring to Jan Bearman.",
+   "Round 5: take the ring to Petr Bearman."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v83-e1"
+ },
+ "Uninvited Guests": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Uninvited_Guests",
+  "badge": "DLC: Band of Bastards",
+  "type": "DLC",
+  "dlc": "Band of Bastards",
+  "where": "Sir Kuno at his camp.",
+  "steps": [
+   "Get Kuno's orders to attack the mill.",
+   "Attack the mill with Kuno's band."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v78-e1"
+ },
+ "A Tight Spot": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Tight_Spot",
+  "badge": "DLC: Band of Bastards",
+  "type": "DLC",
+  "dlc": "Band of Bastards",
+  "where": "Sir Kuno at his camp.",
+  "steps": [
+   "Get Kuno's next orders.",
+   "Fight your way out with Kuno and the others, then talk to Kuno."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v80-e1"
+ },
+ "Thirty Pieces": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Thirty_Pieces",
+  "badge": "DLC: Band of Bastards",
+  "type": "DLC",
+  "dlc": "Band of Bastards",
+  "where": "Sir Kuno at his camp.",
+  "steps": [
+   "Jakey has gone missing — ask about him at the Inn at the Glade.",
+   "Ask about Jakey, track him from the north edge of the woods, and question him."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v82-e1"
+ },
+ "What Price Honour?": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/What_Price_Honour%3F",
+  "badge": "DLC: Band of Bastards",
+  "type": "DLC",
+  "dlc": "Band of Bastards",
+  "where": "Sir Kuno at his camp.",
+  "steps": [
+   "Get ready to face Hagen's men.",
+   "Defeat Hagen's men and report to Sir Radzig."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v84-e1"
+ },
+ "All that Glisters": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/All_that_Glisters",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Sir Radzig, at the lookout near Talmberg, after Questions and Answers.",
+  "steps": [
+   "Radzig sends you after the counterfeit money.",
+   "Go to the crossroads near Rovna where the counterfeit money changes hands.",
+   "Follow the blood trail from the ambushed wagon.",
+   "Give Tobias Feyfar the documents the knight was carrying.",
+   "Investigate the counterfeiters around Sasau (Zach, Florian, the bathhouse).",
+   "Question Rapota.",
+   "Find the counterfeiters' workshop.",
+   "Arrest Jezhek of Ronow.",
+   "Report to Sir Radzig."
+  ],
+  "notes": [
+   [
+    "w",
+    "Bring lockpicks and a spade."
+   ],
+   [
+    "w",
+    "Stash your loot before you question Rapota — he's going to run."
+   ],
+   [
+    "c",
+    "Take Ulrich to the workshop — you fast-travel straight there and the scene plays better."
+   ]
+  ],
+  "spoilers": [
+   "The counterfeit trail leads into the Sasau underworld."
+  ],
+  "reward": "375 groschen",
+  "old_last": "v100-e2"
+ },
+ "Interlopers": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Interlopers",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "Baron Sebastian, Custodian of the Sasau Monastery (sent by Robard after Raiders).",
+  "steps": [
+   "Talk to Baron Sebastian, Custodian of the monastery. Kill each camp's leader and bring back proof.",
+   "Clear all the camps in one trip.",
+   "Bring Sebastian the trophies."
+  ],
+  "notes": [
+   [
+    "i",
+    "You can do every camp at once, and Damsel in Distress gives you a free fast-travel back to Sasau."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "1,925 groschen",
+  "old_last": "v89-e3"
+ },
+ "Rattled": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Rattled",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Zach at the Sasau Monastery forge, during All that Glisters.",
+  "steps": [
+   "Help Zach humiliate Master Ota (bludgeon duel, or steal the bailiff's armour)."
+  ],
+  "notes": [
+   [
+    "c",
+    "Whoever you side with decides which smith — Zach or Ota — will move to Pribyslavitz."
+   ],
+   [
+    "i",
+    "Happens naturally during All that Glisters."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "450 groschen + a cuirass",
+  "old_last": "v87-e3"
+ },
+ "Damsel in Distress": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Damsel_in_Distress",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Florian in Sasau, during All that Glisters.",
+  "steps": [
+   "Florian's sweetheart Esther has been kidnapped. Agree to find her.",
+   "Find where Esther is held, free her and lead her away.",
+   "Talk to Esther, then tell Florian."
+  ],
+  "notes": [
+   [
+    "i",
+    "Happens naturally during All that Glisters."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v89-e1"
+ },
+ "The Madonna of Sasau — Ch. 1: Infernal Dream": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_1:_Infernal_Dream",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Johanka at the Sasau Monastery infirmary.",
+  "steps": [
+   "Johanka tells you about her recurring dream of the Virgin and a cave near Skalitz.",
+   "Investigate the cave near Skalitz.",
+   "Report what you found in the cave to Johanka."
+  ],
+  "notes": [
+   [
+    "w",
+    "Achievement: read about Infernal Justice before you fight the Skalitz soldier."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v94-e1"
+ },
+ "From the Ashes": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/From_the_Ashes",
+  "badge": "DLC: From the Ashes",
+  "type": "DLC",
+  "dlc": "From the Ashes",
+  "where": "DLC — unlocks through Lost in the Woods.",
+  "steps": [
+   "Become Bailiff of Pribyslavitz and start rebuilding. Do it at your own pace.",
+   "If From the Ashes isn't finished, do it now: church restored, 40 villagers, 1,200 groschen income.",
+   "Report to Sir Divish."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v113-e1"
+ },
+ "A Place to Call Home": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Place_to_Call_Home",
+  "badge": "DLC: From the Ashes",
+  "type": "DLC",
+  "dlc": "From the Ashes",
+  "where": "The Bailiff of Rattay announces you as Bailiff of Pribyslavitz.",
+  "steps": [
+   "Talk to Marius and agree his wage (a Bard potion helps the speech check).",
+   "Build the woodcutters' camp, bridge and road, and traders first.",
+   "Finish any buildings still open on Marius's list."
+  ],
+  "notes": [
+   [
+    "i",
+    "Closing entry added so this quest has an end in the guide."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v113-e2"
+ },
+ "Judgement": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Judgement",
+  "badge": "DLC: From the Ashes",
+  "type": "DLC",
+  "dlc": "From the Ashes",
+  "where": "Marius at Pribyslavitz, during A Place to Call Home (not shown in the quest log).",
+  "steps": [
+   "Settle one village dispute a day (14 in total). Not shown in the quest log.",
+   "Settle the last of the 14 disputes."
+  ],
+  "notes": [
+   [
+    "i",
+    "Closing entry added so this quest has an end in the guide."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v113-e4"
+ },
+ "Supplies": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Supplies",
+  "badge": "DLC: From the Ashes",
+  "type": "DLC",
+  "dlc": "From the Ashes",
+  "where": "Marius at Pribyslavitz, during A Place to Call Home.",
+  "steps": [
+   "Pick suppliers for stone, grain, charcoal and livestock.",
+   "Make sure every supply contract is signed."
+  ],
+  "notes": [
+   [
+    "i",
+    "Closing entry added so this quest has an end in the guide."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v113-e3"
+ },
+ "The Madonna of Sasau — Ch. 2: Casting Lots": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_2:_Casting_Lots",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Johanka, after Chapter 1.",
+  "steps": [
+   "Go with Johanka to the Sasau market for her sermon.",
+   "Help Guta get her husband Ambrose, the tailor, to stop gambling."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v94-e2"
+ },
+ "The Madonna of Sasau — Ch. 3: Go and Sin No More": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_3:_Go_and_Sin_No_More",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Johanka, after Chapter 2.",
+  "steps": [
+   "Johanka wants Adela, the Ledetchko bathmaid, to help with the sick. Learn First Aid II first if you can.",
+   "Get into the bathhouse and convince Adela to leave.",
+   "Return to Johanka with Adela."
+  ],
+  "notes": [
+   [
+    "w",
+    "Achievement: read about Voyeur before entering the Ledetchko baths."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v97-e1"
+ },
+ "Next to Godliness": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Next_to_Godliness",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Hans Capon, recovering in Rattay after The Prey. Timed — runs until morning.",
+  "steps": [
+   "Join Sir Hans at the bathhouse; play dice with Zdena.",
+   "Fetch Sylvan red wine from the Rathaus cellar.",
+   "Optional: flowers for Klara."
+  ],
+  "notes": [
+   [
+    "c",
+    "Give the bouquet to Theresa or Lady Stephanie."
+   ],
+   [
+    "w",
+    "Timed — runs until morning. Bring dice."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "475 groschen",
+  "old_last": "v95-e1"
+ },
+ "Capon's Champion": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Capon%27s_Champion",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Hans Capon in Rattay, after Next to Godliness.",
+  "steps": [
+   "Enrol in the tourney on Sir Hans's behalf, then tell him how it went."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "100 groschen",
+  "old_last": "v95-e2"
+ },
+ "Clothes Make the Man": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Clothes_Make_the_Man",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Hans Capon, after Next to Godliness and Questions and Answers.",
+  "steps": [
+   "Help yourself to clothes from Capon's trunk and go back to Sir Hans."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v95-e3"
+ },
+ "Robber Baron": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Robber_Baron",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Sir Hanush, after Clothes Make the Man.",
+  "steps": [
+   "Join Bernard's men and find Wolflin's camp (scout both farms).",
+   "Parley in Bernard's colours, or fight.",
+   "Deal with Wolflin of Kamberg and report to Sir Hanush."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "Magdeburg cuirass",
+  "old_last": "v95-e4"
+ },
+ "Honeyed Words": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Honeyed_Words",
+  "badge": "DLC: Hans Capon",
+  "type": "DLC",
+  "dlc": "Hans Capon",
+  "where": "Sir Hans Capon in Rattay, after Robber Baron (DLC).",
+  "steps": [
+   "Sir Hans has fallen for Karolina and needs a wingman.",
+   "Bring the necklace to Capon; slip it and the letter into Karolina's trunk.",
+   "Get Musk of Infinite Allure for Sir Hans.",
+   "Give Hans the potion, follow him to Karolina's, hide, and buy him time.",
+   "See him in the morning."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": "650 groschen",
+  "old_last": "v100-e1"
+ },
+ "Game of Throws": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Game_of_Throws",
+  "badge": "DLC: Hans Capon",
+  "type": "DLC",
+  "dlc": "Hans Capon",
+  "where": "Sir Hans Capon, during Honeyed Words (DLC).",
+  "steps": [
+   "Sir Hans has gambled away his family necklace.",
+   "Find the dice player who won Sir Hans's necklace.",
+   "Find the robber-knight's camp, enter the dice tournament and win back the necklace."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v97-e4"
+ },
+ "The Madonna of Sasau — Ch. 4: Troublemakers": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_4:_Troublemakers",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Johanka, after Chapter 3.",
+  "steps": [
+   "Send the Loudmouth's gang away — threaten them with the stocks or fight. Optionally pay to find out who sent them."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v97-e2"
+ },
+ "The Madonna of Sasau — Ch. 5: Bonum Commune": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_5:_Bonum_Commune",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Johanka, after Chapter 4 — meet Pavel of Kolin at the Wagoners' Inn.",
+  "steps": [
+   "Meet the repentant Pavel of Kolin at the Wagoners' Inn.",
+   "Find Pavel's hidden treasure in the ruins west of Sasau (Cumans camp there).",
+   "Donate it for the common good: the parish priest, the bailiff, or the monastery."
+  ],
+  "notes": [
+   [
+    "w",
+    "Achievement: read about Like a Ghost before going into the woods."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v97-e5"
+ },
+ "No Rest for the Wicked": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/No_Rest_for_the_Wicked",
+  "badge": "DLC: Hans Capon",
+  "type": "DLC",
+  "dlc": "Hans Capon",
+  "where": "The charlatan in Ledetchko, during Honeyed Words (DLC).",
+  "steps": [
+   "Help the Ledetchko charlatan scare the villagers (graves, eggs, meat, water) for the musk recipe."
+  ],
+  "notes": [
+   [
+    "i",
+    "Or pay 2,000 groschen for the musk."
+   ]
+  ],
+  "spoilers": [],
+  "reward": "675 groschen",
+  "old_last": "v99-e2"
+ },
+ "The Madonna of Sasau — Ch. 6: The Wicket Gate": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#Chapter_6:_The_Wicket_Gate",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Johanka, after Chapter 5.",
+  "steps": [
+   "Go with Johanka to preach in the meadow; drive off the attackers.",
+   "She tells you there's one sinner left: you.",
+   "Make the pilgrimage to the Church of Uzhitz."
+  ],
+  "notes": [
+   [
+    "w",
+    "Achievement: if you want Full House Sinner, check its conditions before step 2."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v102-e1"
+ },
+ "If You Can't Beat 'em": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/If_You_Can%27t_Beat_%27em",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Sir Radzig, at the end of All that Glisters.",
+  "steps": [
+   "Find where the crimps meet in Sasau; ask the bailiff, the tanner, the innkeeper, Miller Simon and Thomas at the infirmary.",
+   "Join the fight club behind the tanner's house.",
+   "Meet the crimps and win their trust."
+  ],
+  "notes": [
+   [
+    "w",
+    "Join the fight club through the Sasau tanner. If you skip it, Revenge of the Cuman King is locked out."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v101-e2"
+ },
+ "Poverty, Chastity and Obedience": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Poverty,_Chastity_and_Obedience",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Kozliek of the Sasau crimps, during If You Can't Beat 'em.",
+  "steps": [
+   "Kozliek wants Pious killed — he's hiding in the monastery.",
+   "Talk to Karl, the young noble who's about to become a novice (get rid of his guardian first).",
+   "Tell Sir Radzig what the bandits want you to do.",
+   "Get Karl's writ and go to the monastery gate as a novice."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v103-e1"
+ },
+ "A Needle in a Haystack": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/A_Needle_in_a_Haystack",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts when Henry enters the Sasau Monastery as the novice \"Brother Gregor\".",
+  "steps": [
+   "Hand your writ to the porter, store your belongings and put on the habit.",
+   "Work out which novice is Pious.",
+   "Deal with Pious (killing him or faking it with blood), then take back your things."
+  ],
+  "notes": [
+   [
+    "w",
+    "Many cutscenes from here on are pre-rendered — shave and reset your hair first if you care about consistency."
+   ]
+  ],
+  "spoilers": [
+   "With Pious dealt with, Henry earns the bandits' trust."
+  ],
+  "reward": null,
+  "old_last": "v104-e9"
+ },
+ "In the Cloister": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/In_the_Cloister",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Novice Antonius, as you enter the Sasau Monastery.",
+  "steps": [
+   "Follow Antonius and keep the monastery timetable: mass, meals, alchemy for Nevlas, copying in the scriptorium, bed.",
+   "Find something that would stop Nevlas becoming abbot."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e2"
+ },
+ "Libri Prohibiti": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Libri_Prohibiti",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Brother Nevlas, during A Needle in a Haystack.",
+  "steps": [
+   "Get the key to the forbidden-books cabinet, steal the book at night and bring it to Nevlas."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e3"
+ },
+ "Scattered Pages": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Scattered_Pages",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Brother Librarian, or pick up a torn page in the monastery.",
+  "steps": [
+   "Find all 10 torn pages around the monastery and bring them to the librarian."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e4"
+ },
+ "Nasty Habits": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Nasty_Habits",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Inspect the Sasau Monastery cellars.",
+  "steps": [
+   "Find out about the night drinking in the cellars and get the Circators their cask.",
+   "Get keys via the prior, or pay Brother Cellarius 200 groschen."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e5"
+ },
+ "The Abbot's List": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Abbot%27s_List",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Read the Abbot's notes in his study, or via Libri Prohibiti.",
+  "steps": [
+   "Read the novice records in the Abbot's study."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e6"
+ },
+ "Worldly Goods": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Worldly_Goods",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Search under a paver in the north room of the monastery dormitory.",
+  "steps": [
+   "Find out who owns the stash under the dormitory paver."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e7"
+ },
+ "The Trials of a Novice": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Trials_of_a_Novice",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Novice Lucas, during Nasty Habits.",
+  "steps": [
+   "Make the Circators stop picking on Novice Lucas, then tell him it's over."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e8"
+ },
+ "The Madonna of Sasau — The Trial": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Madonna_of_Sasau#The_Trial",
+  "badge": "DLC: A Woman's Lot",
+  "type": "DLC",
+  "dlc": "A Woman's Lot",
+  "where": "Return to the Sasau Monastery after The Wicket Gate.",
+  "steps": [
+   "Talk to the guard in the white brigandine and then Inquisitor Jaroslav.",
+   "Do all the optional preparation before the trial for the best outcome."
+  ],
+  "notes": [
+   [
+    "w",
+    "Achievement: read about Angel of Mercy before you start the trial."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v104-e10"
+ },
+ "The Die is Cast": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/The_Die_is_Cast",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Kozliek, after A Needle in a Haystack.",
+  "steps": [
+   "Go to the agreed spot in the swamp by Sasau and light the signal fire.",
+   "Report to Sir Radzig and Sir Hanush.",
+   "Scout Vranik's numbers and plans; report to Erik and see Vanyek.",
+   "Escape, try to get your gear back, and meet Zbyshek."
+  ],
+  "notes": [
+   [
+    "m",
+    "Point of no return. Once you enter Vranik, several side quests are no longer available. Finish anything you still want first."
+   ]
+  ],
+  "spoilers": [
+   "Henry is found out and has to escape Vranik."
+  ],
+  "reward": "525 groschen",
+  "old_last": "v106-e1"
+ },
+ "Payback": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Payback",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically back in Rattay after Vranik.",
+  "steps": [
+   "Get your gear back, then report to Bernard and Divish.",
+   "Storm Vranik section by section and break the bandits.",
+   "Search the homestead and take the letter to Lord Hanush."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Vranik falls — but the letter shows the lords have been betrayed."
+  ],
+  "reward": "425 groschen",
+  "old_last": "v106-e2"
+ },
+ "Out of the Frying Pan": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Out_of_the_Frying_Pan",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically after Payback.",
+  "steps": [
+   "Take the outer bailey and open the portcullis for the reinforcements."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Sir Istvan Toth has led the lords into a trap and taken Talmberg."
+  ],
+  "reward": "650–775 groschen",
+  "old_last": "v107-e1"
+ },
+ "Night Raid": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Night_Raid",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Captain Robard of Talmberg, after Out of the Frying Pan.",
+  "steps": [
+   "See Robard when you're ready; scale the walls and kill the gate guards.",
+   "Find Sir Radzig and Lady Stephanie and get out with Sir Hans."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v107-e2"
+ },
+ "Siege": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Siege",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically after Night Raid.",
+  "steps": [
+   "Talk to Captain Robard, the quartermaster, Sir Divish and Captain Bernard.",
+   "Wait for the trebuchet to be built.",
+   "Get meat and beer for the camp.",
+   "Find a priest willing to come to Talmberg, and a physician from the monastery.",
+   "Find a herbalist who can brew something to keep the men awake.",
+   "Go and watch the trebuchet test.",
+   "Find the northern, western and eastern encampments."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v111-e5"
+ },
+ "Rocketeer": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Rocketeer",
+  "badge": "SIDE",
+  "type": "SIDE",
+  "dlc": "",
+  "where": "Master Tobias Feyfar, at the start of Siege.",
+  "steps": [
+   "Tobias Feyfar needs Konrad Kyeser to build a trebuchet.",
+   "Find Konrad Kyeser at the monastery building site.",
+   "Free him from his contract — for example by forging his commission with the scribe — and send him to Talmberg.",
+   "Konrad arrives; the trebuchet work begins."
+  ],
+  "notes": [],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v109-e1"
+ },
+ "Revenge of the Cuman King": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Revenge_of_the_Cuman_King",
+  "badge": "ACTIVITY",
+  "type": "ACTIVITY",
+  "dlc": "",
+  "where": "The Odd Bird in Skalitz. Needs If You Can't Beat 'em (Fight Club), Fishy Business in Uzhitz and Unarmed 8.",
+  "steps": [
+   "Talk to the Odd Bird, beat Asch, then the King of the Cumans (100 groschen per round).",
+   "Collect your winnings from the spokesman."
+  ],
+  "notes": [
+   [
+    "i",
+    "Needs Fishy Business in Uzhitz, the Fight Club from If You Can't Beat 'em, and Unarmed 8."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": "v110-e1"
+ },
+ "Cold Steel, Hot Blood": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Cold_Steel,_Hot_Blood",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically once the trebuchet is built.",
+  "steps": [
+   "Ask Sir Divish what your role is, then hold the ford and help Sir Hanush."
+  ],
+  "notes": [],
+  "spoilers": [
+   "The enemy strikes first — the battle at the ford decides whether the siege can go on."
+  ],
+  "reward": null,
+  "old_last": "v111-e2"
+ },
+ "Family Values": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Family_Values",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically after Cold Steel, Hot Blood.",
+  "steps": [
+   "Rush to defend the trebuchet, then join the briefing in the tent."
+  ],
+  "notes": [],
+  "spoilers": [
+   "A revelation about Henry's own family changes everything."
+  ],
+  "reward": null,
+  "old_last": "v111-e3"
+ },
+ "An Oath is an Oath": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/An_Oath_is_an_Oath",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically after Family Values.",
+  "steps": [
+   "Fire the trebuchet and wait out the two-day bombardment.",
+   "Storm the walls with Sir Robard.",
+   "Ride with Sir Hans to meet your father."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Talmberg is taken back."
+  ],
+  "reward": null,
+  "old_last": "v111-e6"
+ },
+ "Epilogue": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Epilogue",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Starts automatically after An Oath is an Oath.",
+  "steps": [
+   "Meet Margrave Jobst in the Upper Castle during the day, then talk to your father.",
+   "Tell Sir Hans you need a couple of days to get ready.",
+   "Pick up Margrave Jobst's letter and follow Capon to the camp.",
+   "Talk to Capon to end the game."
+  ],
+  "notes": [],
+  "spoilers": [
+   "Henry rides out on a new mission alongside Sir Hans Capon."
+  ],
+  "reward": null,
+  "old_last": "v114-e1"
+ },
+ "Vengeance": {
+  "url": "https://kingdomcomedeliverance.wiki.gg/wiki/Vengeance",
+  "badge": "MAIN",
+  "type": "MAIN",
+  "dlc": "",
+  "where": "Added automatically after Homecoming and runs in the background all game.",
+  "steps": [
+   "Its objectives tick off by themselves as the main story moves on."
+  ],
+  "notes": [
+   [
+    "i",
+    "On the wiki it stays open when the credits roll — tick it off here at the end."
+   ]
+  ],
+  "spoilers": [],
+  "reward": null,
+  "old_last": null
+ }
+}

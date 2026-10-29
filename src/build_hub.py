@@ -93,7 +93,7 @@ document.querySelectorAll('.card').forEach(function(c){{
   c.querySelector('.rf').style.strokeDasharray=p+' 100';c.querySelector('.pct').textContent=(p>0&&p<1?'<1':Math.round(p))+'%';
   c.querySelector('.cnt').textContent=n?n+' / '+m.total:'Not started';c.classList.toggle('full',n>=m.total);
   var last=localStorage.getItem(m.key+'-last'),opened=+localStorage.getItem(m.key+'-opened'),f=c.querySelector('.foot');
-  if(last&&m.labels[last]){{var r=f.querySelector('.resume');r.href=c.dataset.slug+'/#'+last;r.textContent='Continue · Visit '+last.slice(1)+' — '+m.labels[last]+' →';f.hidden=false;}}
+  if(last&&m.labels[last]){{var r=f.querySelector('.resume');r.href=c.dataset.slug+'/#'+last;r.textContent='Continue · '+m.labels[last]+' →';f.hidden=false;}}
   if(opened){{f.querySelector('.seen').textContent='Opened '+ago(opened);f.hidden=false;}}
 }});
 var q=document.getElementById('q'),on=null;

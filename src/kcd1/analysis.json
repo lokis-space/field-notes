@@ -52,7 +52,7 @@
  "Aftermath": {
   "outcome": "Story-driven ending to Theresa's flashback; its key events can't be avoided. Rescuing every survivor along the way (Angel of Mercy) is the only real variable.",
   "tip": "Rescue everyone in Angel of Mercy before going through Skalitz's north-east gate – that's where the finale begins.",
-  "immersion": "Pause at the mill when the route passes it; Theresa sees her family there. Walk the ruins rather than sprinting through."
+  "immersion": "Pause at the mill on the way; Theresa sees her family there. Walk the ruins rather than sprinting through."
  },
  "Angel of Mercy": {
   "outcome": "Saving all five survivors (Holba, Stanislav, Jarmila, Julian, Marosh) earns the Saviour achievement. Lying to Stanislav's looter avoids a fight; handing over the coin works too.",
@@ -84,7 +84,7 @@
   "tip": "Use a light, fast bow, or ride across at the crossing and shoot from the far bank, nearer the logs. Leaving the area or getting hit forfeits the bet."
  },
  "A Man of the Cloth": {
-  "outcome": "Fetching Father Simon (this route) settles him in Rovna and makes In God's Hands easier. Father Francis pays the same but stays in Sasau. Both give 250 groschen.",
+  "outcome": "Fetching Father Simon settles him in Rovna and makes In God's Hands easier. Father Francis pays the same but stays in Sasau. Both give 250 groschen.",
   "tip": "Talk the tramps into freeing Simon – the creek terrain is poor for fighting. Then leave the area at once, or Simon may walk into the bandit camp and die.",
   "immersion": "Visit Mary's parents rather than relying on markers, and follow the comfrey along the creek; Henry tracks him like a local would."
  },
@@ -334,17 +334,17 @@
   "immersion": "Henry is avenging Skalitz here; keep the faceplates as proof and leave plundering to what he'd actually use."
  },
  "Hare Hunt": {
-  "outcome": "Siding with the guards fails Sheep in Wolf's Clothing; Hare escapes the clearing. Hearing him out at his hideout then opens Cherchez la Femme, which closes this quest as intended.",
+  "outcome": "Mutually exclusive with Sheep in Wolf's Clothing — whichever you start first decides. Believing Hanekin leads to Cherchez la Femme either way.",
   "tip": "Ask Blacksmith's Betty what she saw before asking about poachers, or the clearing lead can vanish. Dig the bare patch east of the clearing's fire for the buried carcass.",
-  "immersion": "Question villagers by daylight in plain clothes, as Radzig's man rather than a thug; Henry reports the camp but refuses to lead a massacre himself."
+  "immersion": null
  },
  "Sheep in Wolf's Clothing": {
-  "outcome": "Intended fail: you only infiltrate the poachers. Siding with the guards costs Lukesh's trust and Emergency Supply, but keeps Henry loyal to Talmberg.",
+  "outcome": "Siding with the poachers keeps Emergency Supply and Cherchez la Femme open, but locks out Hare Hunt for good. Siding with the guards costs Lukesh's trust and Emergency Supply.",
   "tip": "Buy antlers from Huntsman Berthold or Konyash in Rattay rather than hunting a buck. Tell Nicholas about the horn plot and he hands it over. Save before the clearing.",
-  "immersion": "Henry joins only to learn what the poachers are up to; treat it as undercover work, not a change of heart."
+  "immersion": null
  },
  "Emergency Supply": {
-  "outcome": "The wiki confirms it only appears if you sided with the poachers. On this route it should never trigger; skip it with no loss to the story.",
+  "outcome": "Only offered if you sided with the poachers in Sheep in Wolf's Clothing. The stash is in the tankard by Lukesh's cooking pot; you have two days.",
   "tip": "If it somehow appears: the stash is in the tankard by Lukesh's cooking pot, and you have two days. Otherwise ignore the guide entry."
  },
  "Cherchez la Femme": {
@@ -628,7 +628,7 @@
  },
  "Night Raid": {
   "outcome": "Scripted. Whatever you say to Hans, the raid ends the same way. Getting spotted early just turns it into a straight escape.",
-  "tip": "Change into dark, quiet gear before talking to Robard. Take down the stairs guard first, because the battlements guard is more passive.",
+  "tip": "Change into dark, quiet gear before talking to Robard. Take down the stairs guard first; follow Hans through the shadows.",
   "immersion": "Follow Hans's route through the shadows and kill only the two gate guards you were sent for."
  },
  "Siege": {
