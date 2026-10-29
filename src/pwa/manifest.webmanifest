@@ -1,0 +1,14 @@
+{
+ "name": "Kingdom Come: Deliverance — Role-Play Quest Guide",
+ "short_name": "KCD Guide",
+ "description": "Chronological role-play quest guide for Kingdom Come: Deliverance (2018) with all story DLCs.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#000000",
+ "theme_color": "#000000",
+ "icons": [
+  {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+ ]
+}

@@ -1,0 +1,668 @@
+{
+ "Unexpected Visit": {
+  "outcome": "Tutorial with no lasting branches. Joining the dung prank earns a scolding from Martin but nothing worse; skipping it costs only some early friendship flavour.",
+  "tip": "Mother's opening questions set starting stats. Answer 'They are not drunks', then 'Give me an example' to unlock Martin's Kuttenberg talk. Buy the ale last – it warms.",
+  "immersion": "Let Henry be a lazy, cocky village lad here: sleep-heavy, eager for fights and pranks. Don't strip the house or steal the charcoal; that's not yet who he is."
+ },
+ "Run!": {
+  "outcome": "Whistling to scare the Cumans off Theresa changes her later dialogue for the better. Asking Lady Stephanie for help is the cleanest escape; pleading with Robard costs reputation.",
+  "tip": "Ride without stopping – the arrow wound kills you if you dawdle. Leaving Talmberg: Stephanie points you to a guard disguise, then talk Radim into opening the gate.",
+  "immersion": "Never draw on the Cumans. At Talmberg, take only the guard kit you need for the disguise rather than raiding every chest a frightened refugee wouldn't touch."
+ },
+ "Homecoming": {
+  "outcome": "Story-driven; the graveside fight plays out the same regardless. Sparing the road looters costs nothing – and the second one counts as a civilian murder if killed.",
+  "tip": "The looters crumble after a hit or two and surrender; sheathe your sword when they yield. Draw on Zbyshek and he bolts, leaving the spade.",
+  "immersion": "Walk, don't sprint, through Rovna and Skalitz and pause at the bodies. Bianca's ring is only available now – keeping it as a keepsake suits Henry; looting strangers doesn't."
+ },
+ "Ordinary Routine": {
+  "outcome": "Finishing every morning chore earns Father's full coin and pocket money; botching them costs reputation and cash. Confirming the dance at the end fails anything unfinished.",
+  "tip": "Do the chickens, Tinker and the weeding before speaking to Father. Wrap up Cry Wolf! and Matchmaker before agreeing to go to the dance.",
+  "immersion": "Play Theresa as a busy miller's daughter: chat with neighbours, don't loot the town. Tell Henry the beer is from you – a small, in-character nudge that also earns reputation."
+ },
+ "Cry Wolf!": {
+  "outcome": "Give the magpie's ring to Bianca to keep her goodwill; keeping it boosts Theresa's charisma but sours Bianca. The wolf must be shot either way.",
+  "tip": "Borrow Adam's bow (with 20 arrows) by promising him a dance. When Bianca starts picking, face west – the wolf comes from that side.",
+  "immersion": "Killing a wolf is fine under the no-kills rule; it's an animal threatening a friend. Keep close to Bianca rather than wandering off to explore."
+ },
+ "Matchmaker": {
+  "outcome": "Telling Matthias that Johanka likes him pleases everyone. Just stealing the dice completes it but leaves Matthias sore; you can still pocket the lucky die for farkle.",
+  "tip": "Ask Fritz about lockpicking – it's the easy way to get Theresa some lockpicks before the day's events.",
+  "immersion": "A friend's favour, not a heist: talk first, and only lift the die if Johanka's plan needs it."
+ },
+ "The Family Silver": {
+  "outcome": "Story-driven DLC errand with no meaningful branches; completing it is required to finish Ordinary Routine.",
+  "tip": "Finish the optional Skalitz errands first; once this is done, the evening dance is the next step and agreeing to it fails anything left over.",
+  "immersion": "Theresa is covering for her family, not getting rich: take only what the task needs and keep it quiet around Janek and Jaroslav."
+ },
+ "Unexpected Visit (Theresa)": {
+  "outcome": "Story-driven; the raid and its outcome are fixed. Doing the optional chores only adds flavour.",
+  "tip": "The trunk by the stove has a bandage for battered Zbyshek. Stop at the tavern – Bianca hands over a Saviour Schnapps before things go wrong.",
+  "immersion": "Do the morning chores properly; it's Theresa's last ordinary morning and the contrast with what follows is the point."
+ },
+ "Thicker than Water": {
+  "outcome": "Story-driven. There's no knockout option for the Cuman in the mill; sneaking past him through the window is the only way to keep the no-kills rule.",
+  "tip": "Crouch, leave the looting Cuman alone and slip out through the window into the barn. A Saviour Schnapps sits in the wheelbarrow outside the collapsed southern shaft.",
+  "immersion": "Theresa is fleeing, not fighting: hug the palisade, use the dark and keep Tinker close. No looting bodies for gear she can't use anyway."
+ },
+ "Ties that Bind": {
+  "outcome": "The ending is fixed – nothing you do changes it, so don't reload to try. Scaring off the looter at the crashed wagon keeps the no-kills rule.",
+  "tip": "Water is right at the first junction inside the mine. The crashed wagon east has five marigolds and linen; pick the rest north on the east side of the road.",
+  "immersion": "Do it at night as the game sets it; move between cover. Franta's plea for mercy is optional – refusing fits a Theresa who isn't a killer."
+ },
+ "Aftermath": {
+  "outcome": "Story-driven ending to Theresa's flashback; its key events can't be avoided. Rescuing every survivor along the way (Angel of Mercy) is the only real variable.",
+  "tip": "Rescue everyone in Angel of Mercy before going through Skalitz's north-east gate – that's where the finale begins.",
+  "immersion": "Pause at the mill when the route passes it; Theresa sees her family there. Walk the ruins rather than sprinting through."
+ },
+ "Angel of Mercy": {
+  "outcome": "Saving all five survivors (Holba, Stanislav, Jarmila, Julian, Marosh) earns the Saviour achievement. Lying to Stanislav's looter avoids a fight; handing over the coin works too.",
+  "tip": "Holba needs two bandages. Julian's axe is on a stump under the lean-to; Stanislav's keys lie by the spilled wood basket, his purse in the pantry's apple basket.",
+  "immersion": "Tell Marosh the truth about Pavlena rather than leaving him searching; that's Theresa's whole character here."
+ },
+ "The Good Thief": {
+  "outcome": "Paying 100 groschen settles it honestly; the ring job opens the millers' fencing network and thief work. Once you've taken the job, paying as well gains nothing.",
+  "tip": "Digging the grave finds nothing – the ring is in an easy chest in Hermann's bedroom. Tell him Peshek owes him flour and he'll hurry off.",
+  "immersion": "Henry should resent this: do it once he's broke, at night, in dark clothes. Bring raw meat for Hermann's dogs rather than hurting them."
+ },
+ "Rob the Rich, Give to the Poor": {
+  "outcome": "The Vagabond ends up in the stocks, so the final seal can't be handed in for pay – sell it to a miller. Earlier jobs split the coin.",
+  "tip": "Needs Pickpocketing first. Rob the rich woman while she sews with her back to the door.",
+  "immersion": "For the first two jobs you may pay the 50 groschen yourself instead of stealing – ideal if Henry still doubts the Vagabond's story."
+ },
+ "Do Me a Favour - Punch Me!": {
+  "outcome": "Beating all three unlocks repeat bouts – small wagers but excellent early strength, agility, unarmed and defence XP.",
+  "tip": "Wear a gambeson and helmet – the brawlers ignore armour, so you take little damage. Fight Milan aggressively to drain his stamina, then clinch.",
+  "immersion": "Fists only, fair play: don't loot your knocked-out opponents, even though the game lets you. Treat it as refugee lads letting off steam."
+ },
+ "Scavenger": {
+  "outcome": "Returning cup and coin to Beran earns a small reward – the honest end. Kunesh can't pay either way; finish this to recruit him for Pribyslavitz later.",
+  "tip": "Skalitz always spawns a skirmish – wait it out, or go while Fritz and Matthew are walking to Ledetchko, when skirmishes are disabled. The other dove-cote holds only rags.",
+  "immersion": "Going back to Skalitz is personal – ride in by day, pause at home, and don't treat the town as a loot run."
+ },
+ "Chumps on the River": {
+  "outcome": "Win to triple your stake; second place returns it. Landing 16 or more hits once earns bow training from Vatzek.",
+  "tip": "Use a light, fast bow, or ride across at the crossing and shoot from the far bank, nearer the logs. Leaving the area or getting hit forfeits the bet."
+ },
+ "A Man of the Cloth": {
+  "outcome": "Fetching Father Simon (this route) settles him in Rovna and makes In God's Hands easier. Father Francis pays the same but stays in Sasau. Both give 250 groschen.",
+  "tip": "Talk the tramps into freeing Simon – the creek terrain is poor for fighting. Then leave the area at once, or Simon may walk into the bandit camp and die.",
+  "immersion": "Visit Mary's parents rather than relying on markers, and follow the comfrey along the creek; Henry tracks him like a local would."
+ },
+ "Pickpocketing": {
+  "outcome": "Simple training; Peshek always takes his dagger back. Repeatable whenever you want practice.",
+  "tip": "Crouch directly behind him and release before the circle turns red. If he wanders off, just talk to him to restart.",
+  "immersion": "Henry learns this reluctantly; it's a skill for later, not a habit. Avoid practising on random townsfolk afterwards."
+ },
+ "Thick as Thieves - Peshek": {
+  "outcome": "Pays roughly 150, 175 and 250 groschen. Hanush's book is the riskiest theft in the game early on; getting caught in the upper castle hurts reputation badly.",
+  "tip": "Rob the bathhouse chest by day while upstairs is empty. The deed is on a table in the bailiff's private chamber behind a Hard door; drink Padfoot first.",
+  "immersion": "Stealing from Hanush, Henry's own patron, is a big line – do it at night in dark clothes, and only once Henry has reasons to resent the town."
+ },
+ "Thick as Thieves - Woyzeck": {
+  "outcome": "Pays around 250 for the waffenrocks and 300 for the horse. Must be finished before the attack on Vranik in The Die is Cast, or it becomes impossible.",
+  "tip": "Stephanie's chest is Very Hard: Lockpicking 15, or 10 with Padfoot. Any Merhojed horse counts. The armoury key can be taken from a sleeping guard in the left tower.",
+  "immersion": "Stephanie once helped Henry – robbing her is a betrayal. Go at night in dark, quiet clothes and keep it out of Henry's later conversations with her."
+ },
+ "A Woman Scorned": {
+  "outcome": "Completing it leads to the farmer and his wife being murdered, and the old whore vanishes. Henry was used; there's no good ending.",
+  "tip": "Ask Andrew at the inn after 2pm the next day to learn the outcome. Afterwards the farmhouse works as a free bed and stash in Neuhof.",
+  "immersion": "Henry doesn't know what he's enabling, so play it straight – then let the news land; avoid bed-sleeping in the dead couple's house if that jars."
+ },
+ "The Horse That Bolted": {
+  "outcome": "Bringing Pie back unharmed pays groschen plus a free horse caparison. If Pie is hurt, the groom attacks you with a scythe.",
+  "tip": "Thistle asks 500 groschen – beat him in a fistfight or talk him round instead. Follow the dung and ask locals. Park Pie carefully: you can't remount him.",
+  "immersion": "Track Pie on foot or at a walk, asking locals as you go; skip the markers. Henry knows horses from Skalitz."
+ },
+ "Mightier than the Sword": {
+  "outcome": "Unlocks reading – needed for Last Will and Testament and Honeyed Words, helps Pestilence, and opens skill books and alchemy recipes.",
+  "tip": "Do it early: 50 groschen and no in-game days pass. Afterwards, flick through lore books cover to cover for quick reading XP.",
+  "immersion": "A blacksmith's son who couldn't read is exactly Henry. Read in the evenings at an inn rather than mid-road."
+ },
+ "Restless Spirit": {
+  "outcome": "Long, multi-day chain ending in Drahomira's confession; telling her to come clean or keep quiet is flavour. Rewards include 375 groschen and her ring.",
+  "tip": "Monks sleep at 11pm. Take only the Necronomicon – leave the torn page (needed for Scattered Pages). The marker wrongly points to Rattay. Meet the Apothecary at 21:00.",
+  "immersion": "Henry is superstitious enough to try the rituals in earnest. Go to graves at dusk and keep to the schedule; don't skip-time through the whole thing."
+ },
+ "Tricks of the Trade": {
+  "outcome": "Either way you get 100 groschen. Asking Mikesh openly works; there's no penalty for honesty.",
+  "tip": "Write the ditty down as he sings it. Mentioning Martin as a blacksmith may win you the full explanation of the tempering secret.",
+  "immersion": "This is Henry's trade – ask Mikesh as one smith's son to another rather than spying."
+ },
+ "Thick as Thieves - Simon": {
+  "outcome": "Pays about 175, 225 and 250 groschen. The cobbler may be punished over the lost spurs.",
+  "tip": "Take the brocade at night – it's folded on a shelf in the tailor's workshop. The beer recipe sits on a shelf in the room with Henry's Uzhitz inn bed.",
+  "immersion": "Steal the recipe while renting that very room, so Henry has a reason to be there. Avoid carrying the stolen spurs past Sasau guards."
+ },
+ "The Queen of Sheba's Sword": {
+  "outcome": "Reward is the chance to buy the reforged sword (around 1,600 groschen). Don't kill Zach in Sasau – he's needed in later quests.",
+  "tip": "Bring lockpicks and 200 groschen. The Rattay blacksmith's piece is on a storeroom shelf even before Aquarius; Ledetchko's smith simply sells his.",
+  "immersion": "Buy where you can and pickpocket where you must; avoid knocking Zach out in front of his son."
+ },
+ "Fat Profits": {
+  "outcome": "Each delivery raises the butcher's opinion but costs a little reputation with the monastery. The final order needs 60 boar, 140 red deer and 150 hare at once.",
+  "tip": "Take the Butcher perk first for offal and liver. One big hunt east of Talmberg with a strong-packed horse covers the final order.",
+  "immersion": "It's poaching: hunt in the early morning away from roads, and don't sell game openly in Sasau the same day."
+ },
+ "A Friend In Need...": {
+  "outcome": "Getting them hired at Ledetchko mill helps old friends and sets up later repayment. Miller Oliver can be convinced, threatened or bribed – convincing is kindest.",
+  "tip": "Pick 'They're basically my neighbours' with Oliver for reputation. While the lads walk to Ledetchko, random skirmishes are off – handy for risky trips like Skalitz.",
+  "immersion": "Henry should be glad to see them alive. Tell Theresa they survived; check back after a week rather than chasing the money."
+ },
+ "Green-Eyed Monster": {
+  "outcome": "The jobs escalate towards framing and arson; the farmhand is later said to have been caught and hanged. The rewards are modest.",
+  "tip": "Lift the draper's tinderbox from him at night while he sleeps; his wife and shop guard are around by day.",
+  "immersion": "Henry can see where this leads by the third job. If you play him strictly, stop after the amulet, which recovers wages actually owed."
+ },
+ "A Costly Brawl": {
+  "outcome": "Persuading Brother Elias wipes the 100-groschen debt for free; paying it yourself works but costs coin.",
+  "tip": "Elias has low Speech and intimidation stats, so either option works without prep. Don't push Fritz too hard – he'll throw a punch.",
+  "immersion": "Ask Johanka about the brawl first; she gives the real story, and it lets Henry argue from fact."
+ },
+ "In God's Hands": {
+  "outcome": "Helping every patient saves them and earns rewards, including Semek's vitality secret. Delay and Hannes dies around day three or four.",
+  "tip": "Find Father Simon first. Bring ten bandages, Lullaby ingredients, comfrey and Artemisia, plus ~150 groschen for the Custodian. His later speech check can be buggy and lead to jail.",
+  "immersion": "Stay at the monastery until it's done – no side trips. Repeat lullabies for the insomniac; it's patient care, and he eventually teaches alchemy."
+ },
+ "Saintly Remains": {
+  "outcome": "The real bowl from Procopius's cave needs no Speech check; fake bones do. Reward is identical either way. Keep the bowl and Urban later picks a fight.",
+  "tip": "Easiest way in: the side hallway off the church nave (by the indulgence box), through the door and down the ladder—no lock, no guards.",
+  "immersion": "Honest Henry brings the genuine bowl, not a grave-robbed bone or the Charlatan's fake, and puts it back in the cave afterwards."
+ },
+ "Weeds": {
+  "outcome": "Pull only dandelions, nettles and thistles for 75 groschen and Nicodemus's goodwill; uproot too much mint, eyebright or comfrey and he pays nothing.",
+  "tip": "Comfrey bed needs weeding too. High Herbalism picks fast, so check the prompt names a weed before pressing—one slip grabs a medicinal herb.",
+  "immersion": "Henry is a novice under obedience: do it in daylight as part of the monastery's work, not at night."
+ },
+ "New Herbarium": {
+  "outcome": "No choices—deliver one of each of fifteen herbs plus an old book.",
+  "tip": "Fresh from Weeds you already hold nettle, dandelion and thistle. Sage, St John's wort and marigold grow just outside the walls; comfrey is in his garden.",
+  "immersion": "Gather specimens yourself in the fields rather than lifting them off Nicodemus's own shelf by his alchemy bench."
+ },
+ "Tough Love": {
+  "outcome": "Telling the truth about the cold in-laws and revealing Hermann's love lets Elishka stay happily (200 groschen). Sending her away pays 125 and leaves her miserable.",
+  "tip": "Carry an Embrocation for the scribe. Bribing the mother-in-law is the surest way through her. Talk to Hermann again afterwards—the reward isn't automatic.",
+  "immersion": "Never take the hidden option of killing the in-laws; Henry settles this with words."
+ },
+ "...Is a Friend Indeed": {
+  "outcome": "The ambush pays 175 and keeps the lads in work. Stealing Martin's scarf and handing it to Jane exposes Thomas properly. Killing Thomas fails the quest.",
+  "tip": "Timed—fails within a few days. When luring Thomas, correct him that Peshek is from Rattay and drop 'The Wren', or he smells a rat.",
+  "immersion": "Fists only. Henry is helping friends teach a bully a lesson, not committing murder in Ledetchko."
+ },
+ "Skin": {
+  "outcome": "70 groschen per batch, 210 in total. Brada's promised hunting lesson appears bugged and gives nothing.",
+  "tip": "Pick it up before becoming Divish's master huntsman in Cherchez la Femme; afterwards it can't be started. Not every hare yields a pelt.",
+  "immersion": "It's poaching on Divish's land: hunt at dawn or dusk in quiet clothes, well away from roads and Talmberg's guards."
+ },
+ "The House of God": {
+  "outcome": "Stopping Zmola clears the Talmberg quarry's name, but since patch 1.9.1 Divish pays nothing. When the stone drops, run straight to the mill—going via the Overseer gets Leshek killed.",
+  "tip": "Timed once clues are gathered. Bring a blunt weapon for the mason on the scaffolding. The 'Fallen block' may stay in your inventory—weightless, harmless.",
+  "immersion": "Henry acts as Divish's investigator: ride the Talmberg–Sasau road, question everyone, and keep the night meeting at the scaffolding as agreed."
+ },
+ "Masquerade": {
+  "outcome": "Real raven feathers, wolf fangs and a dog killed at night earn the Magical Cuman disguise; substitutes give the plain one. Same stats either way.",
+  "tip": "Only face-plated Cuman helmets count; repair damaged armour before Andrew accepts it. Bane in the camp stew at night is the safest raid.",
+  "immersion": "Henry agrees out of grief, not greed: rob only Cumans, and do the dog hunt by moonlight as the superstition demands."
+ },
+ "Besmirched": {
+  "outcome": "Returning everything, cross included, to Adam is the honourable ending; Andrew pays 575 instead. The cross also secures Adam for Pribyslavitz's tavern.",
+  "tip": "Get Tonchek's name from Andrew with Speech, inspect the new kettle by his hut, and find his stash in a rotting tree just north. Andrew sells the cross for 150.",
+  "immersion": "Adam is Bianca's brother and a Skalitz neighbour: hand it all back and refuse his money."
+ },
+ "Lost in Translation": {
+  "outcome": "Stash holds 800 groschen, an antidote and two Saviour Schnapps; the bailiff adds 100 for the live Cuman. Killing him yourself fails the quest.",
+  "tip": "Ask the Vagrant whether he translated everything—pass the check and you dodge the Cuman's ambush. Travel with the Vagrant; alone he often gets lost.",
+  "immersion": "Walk the prisoner to Rattay without fast travel and keep him close, or he bolts. Honest Henry pays the Miller his share."
+ },
+ "Awakening": {
+  "outcome": "Story-driven, no choices. Not timed—you can explore before reporting to Radzig.",
+  "tip": "Fight the Cumans in the fever dream for a little XP. Bow training with Berthold stays locked until after Train Hard, Fight Easy.",
+  "immersion": "Henry's whole aim is Radzig and the sword—head up to Pirkstein once the debt is in hand, not after weeks of wandering."
+ },
+ "Train Hard, Fight Easy": {
+  "outcome": "Beat Hans at both archery and the duel to win his hunting bow; one win each means no exchange; lose both and he takes 2 groschen.",
+  "tip": "Archery: finish first for three bonus points and loose as soon as fully drawn. Duel: aim for Hans's bare head. Afterwards Bernard offers further training—take it.",
+  "immersion": "Show up in your own modest clothes; a blacksmith's son in stolen finery undercuts the scene with Hans."
+ },
+ "Rattay Tourney": {
+  "outcome": "Each win pays 400 groschen and a prize; the first five complete the Lords of Leipa armour. Losing costs only the entry fee.",
+  "tip": "Drink potions before speaking to the herald—there's no break and your inventory is locked. Any crime in Rattay gets you banned. Enrol before 15:00.",
+  "immersion": "Fight fairly under Radzig's name; skip the trick of knocking out rivals the night before."
+ },
+ "Who Do You Like": {
+  "outcome": "A win returns five times your stake, despite Peshek saying double. Lose, or skip the tourney, and the stake is gone. He stops taking bets after about five.",
+  "tip": "The bet only covers the next tourney, so wager when you're ready to fight that day.",
+  "immersion": "Peshek nursed Henry back to health; a modest wager suits Henry better than draining the old man."
+ },
+ "Dead Men Tell No Tales": {
+  "outcome": "Win, beat Black Peter in his ambush and bring his poisoned sword: 85 groschen and the best Samopesh reputation. Sparing or fleeing him pays 70.",
+  "tip": "Ride from Rattay towards Samopesh past Peshek's mill—don't fast-travel or the rope-trap ambush won't trigger. Carry an antidote; his blade is poisoned.",
+  "immersion": "Hear the Samopesh blacksmith's story before your first tourney win, or his dialogue won't make sense."
+ },
+ "Money for Old Rope": {
+  "outcome": "Sabotage all three for 400 groschen, three books (Bane and Lazarus recipes) and the Spoilsport achievement. Killing Heinz voids the reward; betraying Hermann fails it.",
+  "tip": "Bring poison, poisoned meat for the dog and the rotten rope. Henry must be able to read. Dull the sword on Rattay's smithy grindstone, then return it before dawn.",
+  "immersion": "Hermann forbids murder—knock people out, never kill—and watch the 2 p.m. executions from the crowd."
+ },
+ "A Bird in the Hand...": {
+  "outcome": "150 groschen, 40 arrows and a big jump in Berthold's reputation, which means cheaper arrows.",
+  "tip": "Drop a trap where the song is loudest and wait an hour. A bandit camp sits beside the second bird. Pick belladonna while you wait.",
+  "immersion": "Go on foot by day without noisy armour, actually listening for the birds rather than following the map marker."
+ },
+ "Keeping the Peace": {
+  "outcome": "Story-driven. Settle Beggar Jane's dispute with Speech or Charisma; intimidating the armoursmith always fails. The tavern brawl with Hans can't be won.",
+  "tip": "Wear at least a gambeson and helmet or Nightingale scolds you. While on the watch, guards don't search you for stolen goods.",
+  "immersion": "Carry a torch after dark as ordered, and give Jane alms yourself—the blacksmith's son knows charity."
+ },
+ "Courtship": {
+  "outcome": "Committing after the third date (A Woman's Lot) unlocks further dates, the Smitten buff, clothing repairs and gifts. Refusing breaks her heart for good.",
+  "tip": "First date 07:00–12:00, second 16:00–20:00. Avoid the evening date the night before a tourney you've bet on—it can fail the tourney.",
+  "immersion": "Stay faithful: skip bathhouse extras and the Alpha Male perk, which makes Theresa suspect cheating. Wash and wear clean clothes before calling."
+ },
+ "The Prey": {
+  "outcome": "Shoot one hare to win 100 groschen. Rescuing Hans earns Radzig's service and Pebbles.",
+  "tip": "Arrive mounted and Hans is merely dazed—straight fight. On foot you can return at night and take the sleeping Cumans quietly. Keep clear of Hans while hunting or lose 15.",
+  "immersion": "Wear quiet hunting clothes, and cook hares only after Hans has counted them."
+ },
+ "The Hunt Begins": {
+  "outcome": "Riding out at once lets you overhear the bandits naming Ginger—extra dialogue later. Vanishing for over a day angers Bernard.",
+  "tip": "You must mount Pebbles even if you own a horse. Badassness always works on Mark. Search both bandits for the hoof-pick.",
+  "immersion": "Report each finding to Bernard before moving on—Henry is under his command now."
+ },
+ "Ginger in a Pickle": {
+  "outcome": "Clear the bandits hunting Ginger and convince Zora: he returns home, later pays 150 plus Horsemanship XP, and you earn the 'Ginger' achievement.",
+  "tip": "Get Bernard's leave first. At the Talmberg charcoal-burners, follow the twin who slips away—he leads straight to Ginger. Bernard will help with the bandits if asked.",
+  "immersion": "Don't lie to Zora about 'no loose ends'—kill the bandits first so Henry's promise to Ginger is true."
+ },
+ "Mysterious Ways": {
+  "outcome": "Win Godwin's trust and preach well and he names the gang; fail and you need the Rattay scribe and an Embrocation instead.",
+  "tip": "Sermon: open confidently, then answer harshly twice; pick 'God stands at the head', 'To sin is human' and defend Godwin. Never draw steel in the tavern brawl.",
+  "immersion": "Search Lubosh's house properly first, and dress again after the binge before you preach."
+ },
+ "On the Scent": {
+  "outcome": "Reach Reeky in time to hear the full story, then free him, kill him or take him to Rattay for trial. Arrive late and he dies.",
+  "tip": "Talk to the tanner first, then Adela—that order unlocks Raspberry's directions to the cave. Two bandits drink in the Ledetchko inn until 18:00; don't attack them in town.",
+  "immersion": "Handing Reeky over for trial is the lawful choice for one of Radzig's men."
+ },
+ "My Friend Timmy": {
+  "outcome": "Telling Morcock earns 450 groschen and the camp's location; letting his men kill Timmy keeps Mirka recruitable, unlike killing him yourself.",
+  "tip": "Never walk into Pribyslavitz with Morcock—his chief orders you killed. Report to Radzig first and use Morcock's name only to scout.",
+  "immersion": "Don't follow to watch Timmy die; meet Morcock at the Samopesh inn and keep your hands clean."
+ },
+ "Nest of Vipers": {
+  "outcome": "Poison all four pots and burn all four arrow caches to weaken the battle. Answer 'There's quite a few'—asking for every soldier gets Kolben's farm burned.",
+  "tip": "Bring a torch and poisons (five spares lie around camp). The stable north of the Cuman side has a free disguise. Burning arrows alerts anyone nearby—do it last.",
+  "immersion": "This is reconnaissance for Radzig: scout at night in Cuman gear and don't sit down for drinks with Morcock."
+ },
+ "Baptism of Fire": {
+  "outcome": "Story-driven, no choices; earlier sabotage decides how hard it gets.",
+  "tip": "Learn master strikes before Runt; bring several Aqua Vitalis and Buck's Blood. Burn the haystack before the Cuman gate to flush the archers. Don't skip the post-duel cutscene.",
+  "immersion": "Fight alongside Radzig's men in proper armour—no sneaking off. This is Henry's revenge; let it feel earned."
+ },
+ "Ruin": {
+  "outcome": "100 groschen per leader's spurs and 35 per ear across four camps; finishing unlocks Raiders.",
+  "tip": "Kill the leader first. Bane in the pot or wineskin at night clears a camp safely. A horse in camp can be spooked to draw bandits away.",
+  "immersion": "Henry finds ear-cutting barbaric—taking just the spurs still completes it."
+ },
+ "Aquarius": {
+  "outcome": "Best: water—Tonda, Pickman, Vincent; latrines—Rock and Antonia; Kornelius unemployed for later. Vincent on latrines kills himself; Antonia on water loses her husband.",
+  "tip": "Have a marigold decoction at the interview—Rock can't be helped afterwards. Visit Father Francis in Sasau rather than lying to Agnes.",
+  "immersion": "Honour Theresa's plea for Antonia and Vincent; Henry looks after his Skalitz neighbours."
+ },
+ "Beggars' Feast": {
+  "outcome": "Small payments per delivery, but each hand-in costs reputation with Rattay's citizens and soldiers—it's poaching.",
+  "tip": "Hares are everywhere; boar south of Rattay; roe and red deer to the east. Hand meat in raw before it spoils.",
+  "immersion": "Hunt quietly at dusk and carry the meat to Alex discreetly—Henry is breaking Hanush's law to feed his people."
+ },
+ "Waldensians": {
+  "outcome": "If the Bauers flee, the Vicar pays nothing but Hanush gives 225 and St Michael's sword—unless you admit warning them. Killing the Vicar earns nothing.",
+  "tip": "Some arguments with Mistress Bauer need about 15+ Speech; bring a Bard potion. Timed—dawdle and the Vicar finishes the job himself.",
+  "immersion": "Never hand the Bauers to the Vicar; spilling a churchman's blood should be Henry's very last resort."
+ },
+ "Fishy Business in Uzhitz": {
+  "outcome": "Beat all four for small purses and the Agile as a Weasel I book. Repeatable for unarmed practice.",
+  "tip": "Fight Josef, Maple and Mash in that order, then the fisherman. Bets are 5 and 10 groschen; go in rested and fed.",
+  "immersion": "Honest bare-knuckle sport between quests suits Henry well."
+ },
+ "Playing with the Devil": {
+  "outcome": "Someone dies whatever you do; saving the women means killing two 'devils'. Godwin and Gertrude reproach you regardless. Interfering forfeits the Virgin achievement.",
+  "tip": "Strip noisy gear; the women meet at the crossroads west of Uzhitz around 21:00. If they spot you, they try again the next night.",
+  "immersion": "Go on foot after dark and report truthfully to Godwin and Gertrude."
+ },
+ "Raiders": {
+  "outcome": "375 groschen per leader's faceplate and 35 per ear across five camps; finishing unlocks Interlopers.",
+  "tip": "Cumans wear heavier armour than bandits—poison the pot or take sleepers with a dagger. The largest camp sometimes loses its leader underground; reload or wait for respawn.",
+  "immersion": "Henry is avenging Skalitz here; keep the faceplates as proof and leave plundering to what he'd actually use."
+ },
+ "Hare Hunt": {
+  "outcome": "Siding with the guards fails Sheep in Wolf's Clothing; Hare escapes the clearing. Hearing him out at his hideout then opens Cherchez la Femme, which closes this quest as intended.",
+  "tip": "Ask Blacksmith's Betty what she saw before asking about poachers, or the clearing lead can vanish. Dig the bare patch east of the clearing's fire for the buried carcass.",
+  "immersion": "Question villagers by daylight in plain clothes, as Radzig's man rather than a thug; Henry reports the camp but refuses to lead a massacre himself."
+ },
+ "Sheep in Wolf's Clothing": {
+  "outcome": "Intended fail: you only infiltrate the poachers. Siding with the guards costs Lukesh's trust and Emergency Supply, but keeps Henry loyal to Talmberg.",
+  "tip": "Buy antlers from Huntsman Berthold or Konyash in Rattay rather than hunting a buck. Tell Nicholas about the horn plot and he hands it over. Save before the clearing.",
+  "immersion": "Henry joins only to learn what the poachers are up to; treat it as undercover work, not a change of heart."
+ },
+ "Emergency Supply": {
+  "outcome": "The wiki confirms it only appears if you sided with the poachers. On this route it should never trigger; skip it with no loss to the story.",
+  "tip": "If it somehow appears: the stash is in the tankard by Lukesh's cooking pot, and you have two days. Otherwise ignore the guide entry."
+ },
+ "Cherchez la Femme": {
+  "outcome": "Believing Hare gets Nicholas's confession, the Talmberg hunting lodge, huntsman gear and his merchant chest. Killing Margaret, Hare or Nicholas fails it outright.",
+  "tip": "Catch Margaret alone when she fetches water at the river and talk her into coming; no need to break in. Avoid letting the last stage clash with Rattay Tournament day.",
+  "immersion": "Henry persuades rather than abducts by force; ask Hare's full story first so siding with him feels earned, not convenient."
+ },
+ "Henry the Master Huntsman": {
+  "outcome": "Legal hunting around Talmberg plus 250 groschen per delivery. Turning the post down loses the lodge's purpose but nothing story-critical.",
+  "tip": "Get the Butcher perk (Hunting 5) first. Hunt red deer and boar due east of the lodge; the requests are by weight, so big kills fill them fast.",
+  "immersion": "Wear the green huntsman outfit and hazel bow from the lodge chest, hunt at dawn, and carry meat home on horseback rather than fast-travelling."
+ },
+ "Delicacies": {
+  "outcome": "Andrew pays well for game, and as Master Huntsman Henry can legally tell gamekeepers to back off. The training reward is reportedly buggy.",
+  "tip": "Hunt during Master Huntsman runs so one trip fills both orders: hares and boar north of the inn, roe deer in the woods towards Talmberg.",
+  "immersion": "Frame it as repaying Andrew's tip, and hunt only what Talmberg can spare; a huntsman shouldn't strip his own woods for an innkeeper."
+ },
+ "A Rock and a Hard Place": {
+  "outcome": "Both lads survive and the quest completes, so Matthew and Fritz can later work at Pribyslavitz (both must live). Letting the heist go ahead risks one or both dying.",
+  "tip": "The wages sit in a hard chest in a Talmberg guard tower until they're moved; the quarry hut has a sleeping quarryman. Pick 'That makes sense' with Robard.",
+  "immersion": "Henry argues against the robbery first; paying with his own coin keeps his hands clean and his friends alive. Never rob the quarrymen themselves."
+ },
+ "Gallows Brothers": {
+  "outcome": "Leaving it open spares Andrew, Matthew and Fritz; reporting to Robard or framing anyone gets people hanged. It auto-fails at The Die is Cast.",
+  "tip": "Don't tell Matthew about Andrew's plan either; that opens the framing route. Killing Andrew also locks out Delicacies.",
+  "immersion": "Henry listens to Andrew out of courtesy but won't send friends to the gallows; just walk away from the dialogue."
+ },
+ "The Sport of Kings": {
+  "outcome": "Winning earns 250 groschen and the best saddle, and Divish buys from Zora again. Second place pays 175 and only half the custom, not enough to save the stud.",
+  "tip": "Turn up at the Talmberg gate before noon on the grey; missing the start means no reward and a cold Divish.",
+  "immersion": "Ride the grey from Neuhof to Talmberg yourself, don't fast-travel; Henry is vouching for Zora's horse, so show it off on the road."
+ },
+ "Talmberg Horse Race": {
+  "outcome": "A fair win settles The Sport of Kings properly. Pushing or shooting rivals out works but is cheap and can cost a fine.",
+  "tip": "Wear good spurs or drink Aesop. Hang back on the narrow Uzhitz path; after Merhojed, cut left and ford the shallows to the quarry, then climb straight to the castle.",
+  "immersion": "Race honestly on Zora's grey only; swapping to a faster horse undermines the point of proving Neuhof's stock."
+ },
+ "At Your Service, My Lady": {
+  "outcome": "125 groschen, Stephanie's shirt and a romance scene. Accepting her gift rules out the Virgin achievement; replacing the moldavite with a cheap stone shortchanges the crown.",
+  "tip": "Bring a bow for the Rattay archery contest. The moldavite is with two bandits by the river west of Sasau, past the blood-stained cart; easy lock.",
+  "immersion": "Tame the roan Vashek's way by singing to it, then ride it to Talmberg at walking pace; a wedding gift shouldn't arrive lathered."
+ },
+ "Miracles While You Wait": {
+  "outcome": "A small reward and a lot of humour; the quest is about fake relics, so outcomes are mostly comic. Calming the crowd peacefully is the clean finish.",
+  "tip": "Carry a bow for the topping-out branch and 150 groschen (or your favourite dice) for the gambler. Don't bid Mark goodbye; it can make him attack.",
+  "immersion": "Henry sees through the charlatan; play it as amused curiosity, and fetch the tooth by coaxing Procopius to Mikesh rather than beating him."
+ },
+ "Questions and Answers": {
+  "outcome": "Story-driven. Curing the bandit lets you question him properly, opening the better lead for All that Glisters; skipping the cure leaves only a letter from a corpse.",
+  "tip": "Don't break into the barn early; cure Merhojed first. Radzig needs time to reach the Talmberg lookout, so finishing fast may mean waiting for him.",
+  "immersion": "Ride to Merhojed rather than fast-travel, and check on Matthias first; Henry's friend lying hurt there matters more to him than the prisoner."
+ },
+ "The King's Silver": {
+  "outcome": "Getting to the truth about the miners pays up to 900–1,200 groschen; whether to turn in the widow is your conscience. Very buggy quest.",
+  "tip": "Talk to Nemoy at the miners' camp before entering the shaft, or the quest can't finish. Bring a torch; return to the camp yourself afterwards, there's no prompt.",
+  "immersion": "Henry is from Skalitz; walk the ruined mineworks slowly and let the widow's plight weigh on the verdict rather than chasing the bounty."
+ },
+ "Pestilence": {
+  "outcome": "A correct diagnosis saves all of Merhojed and the prisoner. A wrong cure or delay costs villagers' lives and the bandit's testimony.",
+  "tip": "Talk to Matthias and every sick villager. Tell Nicodemus half are ill and all animals died: it's water poisoning (valerian, thistle, charcoal). Treat the bandit too.",
+  "immersion": "Don't loot plague houses or sleep in Merhojed; dig Bedrishka's husband's grave before lifting him, as a neighbour would."
+ },
+ "Last Will and Testament": {
+  "outcome": "Finding Elijah first sends him home to his dying father before the will is lodged. Delivering straight away pays 175 but disinherits him without a word.",
+  "tip": "Elijah sits outside the Tavern on the Green, usually by 17:00, and won't show in heavy rain. Speak to him before handing the will to Father Fabian.",
+  "immersion": "Henry writes the will as faithfully as he can; reconciling father and son is very much the boy Theresa would recognise."
+ },
+ "Band of Bastards": {
+  "outcome": "Beating Dangler earns Kuno's respect and opens the DLC chain. Losing still progresses but leaves Henry at 1 health and bleeding.",
+  "tip": "Dangler has no visor: stab at his face. Bring bandages anyway in case the duel goes badly.",
+  "immersion": "Wear Radzig's colours or your best kit; Henry arrives as his lord's representative, there to keep sellswords in check, not to join them."
+ },
+ "Lost in the Woods": {
+  "outcome": "Freeing Marius makes Henry Bailiff of Pribyslavitz. Claiming you paid a ransom gets 600 groschen from Divish even if you didn't, which Henry shouldn't do.",
+  "tip": "At night two bandits sleep and two sit by the fires; wait for them to split up and take them quietly. Don't say you want to join them.",
+  "immersion": "Finding Marius by chance while revisiting Pribyslavitz fits Henry best, since Divish never briefs him; then tell Divish the truth about the ransom."
+ },
+ "Bad Blood": {
+  "outcome": "Linear: wipe out the raiders and report to Radzig. No meaningful choices, just your first taste of Kuno's band at work.",
+  "tip": "The clue is a note pinned to a shield in the north-east building of the burnt mill; if invisible, look for the dagger. Ask Stephan about the blood trail.",
+  "immersion": "Stay with the column on horseback rather than galloping ahead; Henry is the guide and should look the part."
+ },
+ "The Ring of Bacchus": {
+  "outcome": "Rewards are books; the real value is camp banter. Keeping it unfinished until after What Price Honour? flags any of Kuno's men dying.",
+  "tip": "Stephan's ring is hidden in a nest; if it vanishes on landing it's a known bug. Pickpocket Jan instead of brawling, which costs reputation either way.",
+  "immersion": "Treat it as a camp game between battles: play it in the evenings at Kuno's fire, and don't sleep in camp while carrying the ring."
+ },
+ "Uninvited Guests": {
+  "outcome": "Persuading Kuno to attack at once saves the women and earns Chivalrous Soul, but likely costs a man or two. Waiting is safer for the band.",
+  "tip": "Save before the speech check and the fight. Stick close to Kuno's men so enemies split their attention.",
+  "immersion": "Henry pushes to attack now; he has seen Skalitz burn and won't wait for drunk raiders to finish with the women."
+ },
+ "A Tight Spot": {
+  "outcome": "A linear ambush escape. Survive and regroup — what you learn here drives the rest of the DLC.",
+  "tip": "You don't need to kill everyone; the archers on the west bank stay put. Break out towards Kuno rather than chasing stragglers.",
+  "immersion": "Ride out in daylight with the band and keep your horse close; no fast-travelling off before Kuno's debrief."
+ },
+ "Thirty Pieces": {
+  "outcome": "Untying and freeing Jakey (Pinky Promise) later lets you remind Kuno of his oath. Killing him pleases Kuno; leaving him tied 12 hours earns Torturer.",
+  "tip": "If Jakey is invisible, talk to the tree he's tied to. Andrew may want a favour for the lead if Masquerade isn't done.",
+  "immersion": "Follow the trail of scarf, picnic and trousers on foot. Henry, who knows mercy, lets the frightened lad go once he talks."
+ },
+ "What Price Honour?": {
+  "outcome": "Reminding Kuno of his promise (needs Jakey freed and Kuno warned) keeps him loyal. Silence lets him take Hagen's silver; bribing needs about 15,000 groschen.",
+  "tip": "Don't loot Kuno's camp or his men fight barehanded. Fast-travel away straight after the battle so wounded men don't bleed out on the walk back.",
+  "immersion": "Stand beside Kuno in Radzig's colours and speak for honour, not coin; buying a mercenary's loyalty doesn't suit Henry."
+ },
+ "All that Glisters": {
+  "outcome": "Story-driven investigation with a few side choices (Ulrich, Rattled, Esther). Sparing Ulrich gives an ally for the workshop raid.",
+  "tip": "Show Borya the bloodstained bags behind his shed to force the truth. Catch Zach late at night to make him talk. Stash loot before confronting Rapota.",
+  "immersion": "Ride between Rovna, Rattay and Sasau rather than fast-travel, and dress modestly in Sasau; Henry is investigating quietly, like Feyfar in disguise."
+ },
+ "Interlopers": {
+  "outcome": "1,925 groschen per leader's spurs plus quality loot. The third camp, with four strong bandits and dogs, is the real danger.",
+  "tip": "Poison the cooking pots or bring Bane-coated weapons and a dagger. Save before the third camp; collect spurs from each leader as proof.",
+  "immersion": "Plan raids at night, approach on foot from the treeline, and travel between camps rather than teleporting."
+ },
+ "Rattled": {
+  "outcome": "The bludgeon duel or stealing Ota's armour both pay the same; your side decides who moves to Pribyslavitz. Zach earns far more there than Ota.",
+  "tip": "Win the duel honestly; stealing the armour is easiest during the day when Ota's household stays downstairs.",
+  "immersion": "Fight the duel in the square rather than burgle Ota; an honest bout suits Henry far better than theft."
+ },
+ "Damsel in Distress": {
+  "outcome": "Rescue Esther and Florian helps the investigation. A surrendering kidnapper can reveal an easier back entrance to the counterfeiters' workshop.",
+  "tip": "Loot the kidnappers' keys or you'll trigger a fetch in Rattay. Don't follow Esther home; she walks past skirmish spawns that can kill her.",
+  "immersion": "Go at night for a quiet rescue, or charge in armour; either way Henry is the knight-errant he dreamed of being as a boy."
+ },
+ "The Madonna of Sasau — Ch. 1: Infernal Dream": {
+  "outcome": "Investigating the cave and dealing with the soldier opens Johanka's questline. The wiki advises leaving later chapters until after The Die is Cast.",
+  "tip": "Read the Infernal Justice achievement before fighting the soldier; luring him near the shaft so he falls also keeps a Merciful run clean.",
+  "immersion": "Visit the cave by day, sober and unhurried; Henry knew these hills before Skalitz burned, and the bodies should land hard."
+ },
+ "From the Ashes": {
+  "outcome": "Rebuilding Pribyslavitz gives a growing income, a home and recruits from earlier quests. Neglecting wages unsettles villagers and Divish.",
+  "tip": "Keep plenty of coin in the village chest. Build woodcutters, then bridge and road, then traders; leave the costly church upgrade until income flows.",
+  "immersion": "Return between story beats and walk the village to see progress; recruit people Henry has genuinely helped, like Zach or Matthew and Fritz."
+ },
+ "A Place to Call Home": {
+  "outcome": "Unlocks building, recruits and Supplies. Marius's pay terms appear to be cost only; overspending early can strain an unfinished village.",
+  "tip": "Fund the chest for several days before you leave. Woodcutters' camp costs 2,500 then a daily wage; bridge and road 4,000.",
+  "immersion": "Henry is a smith's son, not a lord; take Marius's advice seriously and spend carefully rather than pouring loot in at once."
+ },
+ "Judgement": {
+  "outcome": "Each ruling shifts reputation, population and income; one judgement per day. Lenient poaching rulings please villagers but may displease Divish.",
+  "tip": "Disputes are random each day; some need specific buildings first. Save before a hearing if you care about a particular result.",
+  "immersion": "Judge as Henry would: fair, a little merciful, and wary of witch accusations. Avoid save-scumming for profit; let verdicts stand."
+ },
+ "Supplies": {
+  "outcome": "Contracts for stone, grain, charcoal and livestock; the quest won't close without livestock. Choice of supplier seems to affect only cost.",
+  "tip": "Haggle Rupert's stone to 2,000–3,000 and save first (buggy). Samopesh grain is cheapest; Ledetchko livestock costs 30. Talmberg burners discount charcoal if you saved Ginger.",
+  "immersion": "Ride to each supplier and negotiate in person; pickpocketing Rupert's payment back is out of character for an honest bailiff."
+ },
+ "The Madonna of Sasau — Ch. 2: Casting Lots": {
+  "outcome": "Cure Ambrose of dice and report back to Guta, who then testifies for Johanka at the Trial. Returning his 600 groschen is the decent close.",
+  "tip": "Hustle him: lose two modest games, then stake everything on the third. Win too much early and he quits. Check the You had one job! achievement first.",
+  "immersion": "Walk to the market with Johanka in plain clothes and keep your promise to Guta. Henry's here as the preacher's helper, not a card sharp."
+ },
+ "The Madonna of Sasau — Ch. 3: Go and Sin No More": {
+  "outcome": "Win Adela over with the healing argument and she becomes a trial witness. Accepting her offer of payment hurts the ending. Killing Henslin costs Ledetchko reputation.",
+  "tip": "Get First Aid II and save before talking to her. If Henslin's men ambush you on the road, you can simply outrun them.",
+  "immersion": "Turn down Adela's offer at the monastery. Henry is on Johanka's errand, and the refusal fits the penitent arc that's coming."
+ },
+ "Next to Godliness": {
+  "outcome": "Beat Archie with fists only, because drawing a weapon fails the quest. Then ask Hans to forgive him, which suits honest Henry better than the pillory. Up to 475 groschen.",
+  "tip": "Take Hans's keys from his trunk in the bathhouse. They open the Rathaus cellar and convince the guard. Failing that check means jail and a failed quest.",
+  "immersion": "Start after 21:00 and walk the dark streets. Klara rejects the bouquet afterwards, so give it to Theresa instead."
+ },
+ "Capon's Champion": {
+  "outcome": "Enter under Hans's name. A win earns 100 groschen and golden spurs, and even a loss still pays 100, so there's nothing to lose.",
+  "tip": "Hans covers the 60-groschen entry. Sign up with the Herald and go in fully repaired and fed, because bouts follow one another quickly.",
+  "immersion": "Wait at the lists and treat it as the same morning. You're showing off the 'training' Hans claims he gave his new page."
+ },
+ "Clothes Make the Man": {
+  "outcome": "No branches or reward. Hanush scolds Hans and sends you both after Wolflin. Hans's cast-offs are free, and he grumbles if you turn up shabby.",
+  "tip": "If you already wear a high-Charisma outfit, Hans skips the offer and his chest never opens. Change first if you want his clothes, and equip them before reporting.",
+  "immersion": "Wear the borrowed finery to the audience. A page dressed by his lord is exactly what Hanush should see."
+ },
+ "Robber Baron": {
+  "outcome": "Best: parley so Wolflin leaves the loot and pays compensation, pleasing Bernard and Hanush. Letting him keep the loot shames Hanush; a duel becomes an ambush.",
+  "tip": "Go unarmed in the Oleshnitz waffenrock. Hear his whole story, then say Hanush knows nothing of Milota's lies. A Bard or Amor potion helps. Give Lumir's wife three bandages.",
+  "immersion": "Ride out with Bernard's column and follow the blood trail from the southern farm on foot. Don't hunt for the marker."
+ },
+ "Honeyed Words": {
+  "outcome": "Feed Hans the right verses and stall the butcher so his night succeeds. Killing the butcher or Karolina fails it, and the DLC needs it to finish the game.",
+  "tip": "Carry a Marigold decoction for Hans's swollen face. Use lines from the first poem, blame the French, then pass the Speech checks and start singing.",
+  "immersion": "Read the poetry book Hans gives you before meeting him (20:00–21:00), then hide in the churchyard bushes like a proper wingman."
+ },
+ "Game of Throws": {
+  "outcome": "Winning the dice tournament gets the whole prize chest and I Can Quit Any Time. Naming Mladota to Anselm earns a hat. Confessing to Erhart gets only the necklace.",
+  "tip": "Mladota rolls Alphonse's loaded dice. Pickpocket them in the small hours before you face him. Bring 1,000 groschen unless you can talk your way in free.",
+  "immersion": "Wear noble clothes and quiz Anselm about Alphonse first, so your disguise holds when Erhart tests you."
+ },
+ "The Madonna of Sasau — Ch. 4: Troublemakers": {
+  "outcome": "Send the gang off by threatening them with the stocks, no blood needed. Paying (about 100, haggled) to learn who sent them is optional.",
+  "tip": "Speak to the Loudmouth before you draw steel. The stocks threat settles it quickly, while a brawl risks reputation outside the monastery.",
+  "immersion": "Invoke the law as Radzig's man rather than starting a street fight near the convent."
+ },
+ "The Madonna of Sasau — Ch. 5: Bonum Commune": {
+  "outcome": "Hand the treasure over honestly and donate in Pavel's name to the bailiff, overseer or Father Fabian. Lying, self-credit or a failed monastery pitch hurts the trial.",
+  "tip": "Search the roadside corpses for the Custodian's orders. Hand them in with your Cuman report for 325 groschen.",
+  "immersion": "Go at dusk in dark clothes and slip past the Cumans rather than butchering them. That fits Like a Ghost and the spirit of Johanka's work."
+ },
+ "No Rest for the Wicked": {
+  "outcome": "Finishing the haunting earns the musk recipe and 675 groschen. If you buy (2,000) or steal the recipe instead, this quest will eventually fail.",
+  "tip": "Stock meat (50 venison, 25 lamb, 4 chickens), 3 charcoal and the fake-blood herbs first. Don't save/load after 'see the Charlatan in the morning', or Felix can bug.",
+  "immersion": "Grave-robbing sits badly with Henry. Make amends by giving Lev's bones a Christian burial in Rattay."
+ },
+ "The Madonna of Sasau — Ch. 6: The Wicket Gate": {
+  "outcome": "Confess honestly to Johanka, because denials cost her trust. Pray at every shrine and at the Uzhitz church, donate to Godwin and tell him her story.",
+  "tip": "Pick up the Matthew of Janow manuscript from Godwin's house. Read it before the Trial and return it afterwards.",
+  "immersion": "Walk the pilgrimage in the penitent's robe instead of riding (about ten in-game hours). It also backs up your 'initiation trial' story for the watching crimps."
+ },
+ "If You Can't Beat 'em": {
+  "outcome": "Win the fight-club tournament (Weed, one more, then Punch) for 375 plus the tanner's 300 and the crimps' lead. It also keeps Revenge of the Cuman King open.",
+  "tip": "The crimps only meet after 22:00. Kneel at the Sasau church altar. Fight all three extra brawlers for more Unarmed experience.",
+  "immersion": "Turn up at the quarry in the evening as a rough commoner looking for work, not in Radzig's colours. You're auditioning as bandit material."
+ },
+ "Poverty, Chastity and Obedience": {
+  "outcome": "Get rid of Manfred without bloodshed, take the writ and purse, and give Karl his whole purse. Killing Manfred loses Karl, and short-changing him sours or starts a fight.",
+  "tip": "Henry must be able to read. Stash your gear in your own chest before speaking to the porter, because anything handed over can come back marked stolen.",
+  "immersion": "Report to Radzig first. His wish to take Pious alive should shape how Henry handles the monastery."
+ },
+ "A Needle in a Haystack": {
+  "outcome": "Faking Pious's death with blood spares him and still fools the bandits. Arresting him pleases Radzig but loses his strange dice. Killing him inside the walls brings the guards.",
+  "tip": "Never reveal your mission or accuse anyone until the side quests confirm it. A wrong accusation can get you thrown out. Write 'blood' on the kitchen order list.",
+  "immersion": "Wear only the habit and slippers and keep every bell of the timetable. Save sneaking for the night hours. Shave beforehand for the pre-rendered scenes."
+ },
+ "In the Cloister": {
+  "outcome": "No lasting effect. Either feed Nevlas dirt for the abbot election or report his forbidden-book scheme to Brother John. Stay friendly with everyone until Pious is found.",
+  "tip": "The Cockerel recipe and herbs are given to you, so brew several for long nights. Spare potions from the bench buy lockpicks from Cellarius.",
+  "immersion": "Read Everyday Labours and obey the bells: 4th-hour mass, meals, fratery, scriptorium, bed. Sneak about only while the Circators are drinking."
+ },
+ "Libri Prohibiti": {
+  "outcome": "Delivering the book wins Nevlas's gratitude and opens The Abbot's List. Reporting him fails the quest and makes him furious.",
+  "tip": "Finish Scattered Pages first and the librarian hands you the cabinet key. If you took Avicenna during Restless Spirit, you'll have to sneak out to fetch it.",
+  "immersion": "Henry tells himself it's medicine for a dying abbot. Take the book at night, after the copyist has left the library."
+ },
+ "Scattered Pages": {
+  "outcome": "Returning all ten pages wins the librarian's trust and the key to the forbidden-books cabinet, which makes Libri Prohibiti trivial.",
+  "tip": "Four pages sit in locked chests or cabinets and one is in the Abbot's bedroom. Collect that one while doing The Abbot's List.",
+  "immersion": "Pick pages up as you go about your chores rather than ransacking the cloister in one go."
+ },
+ "Nasty Habits": {
+  "outcome": "Bringing the Custodian's cask makes the Circators friendly, and that covers you on later night prowls. Reporting them to the Prior fails the quest.",
+  "tip": "There's a spare key on a shelf in the far kitchen storeroom, so you can skip Cellarius's 200 groschen. Wait at the door for Jodok and be back before sunrise.",
+  "immersion": "Sit and drink when the Circators invite you. Refusing would blow Brother Gregor's cover."
+ },
+ "The Abbot's List": {
+  "outcome": "The records clear up several novices' stories and narrow down who Pious could be. It's key evidence before your Pious decision.",
+  "tip": "Use the Prior's keys or pick the locks during the Circators' cellar hours. Grab the torn page by the Abbot's bed while you're there.",
+  "immersion": "Read in place and leave everything as you found it. Brother Gregor was never here."
+ },
+ "Worldly Goods": {
+  "outcome": "The stash is Siskin's escape money, his father's dagger and a book, which rules him out as Pious. Handing it to the Circators or Prior only punishes a harmless lad.",
+  "tip": "After morning mass, follow Siskin to the north dormitory room and catch him at the paver. Speaking to him first completes it on discovery.",
+  "immersion": "Henry steals only for the mission. Leave the novice his savings and keep his secret."
+ },
+ "The Trials of a Novice": {
+  "outcome": "Talk a Circator round with a Speech check. Lucas then trusts you and shares what he knows about Pious. Going to the Prior instead fails Nasty Habits.",
+  "tip": "Finish Nasty Habits first. Friendly Circators are much easier to persuade.",
+  "immersion": "Henry has no love for bullies. Settle it quietly, brother to brother, rather than causing a scandal."
+ },
+ "The Madonna of Sasau — The Trial": {
+  "outcome": "Do every preparation step, call every witness and challenge every charge. The best verdict frees Johanka, and Sebastian then gives you his vom Berg sword.",
+  "tip": "Steal the Inquisitor's retinue papers to get past the jail guard. Take Matthias's lucky dice to Johanka. Never try to bribe Hashek.",
+  "immersion": "Return the Janow manuscript to Father Godwin afterwards, a good penitent's last act."
+ },
+ "The Die is Cast": {
+  "outcome": "Story-driven point of no return. Bring Pious's dice (or 3,000 groschen). Keeping your bargain with Zbyshek honours your word, while denouncing him gets him hanged.",
+  "tip": "Free lockpicks are in the shack left of the barn door, and Erik's trunk key is under the small barrel by his desk. Clear any guard in the office first.",
+  "immersion": "Finish side quests before you go, and leave your horse and dog behind. Henry walks in alone as a recruit."
+ },
+ "Payback": {
+  "outcome": "Story battle, no choices. You must reach Talmberg by 15:00 or it's game over.",
+  "tip": "If your gear is still at Vranik, ask Bernard for the Pirkstein armoury chest. Take a polearm from the first inner-wall wave. It stays equipped for the next quest.",
+  "immersion": "Ride straight to Talmberg with the army. No detours or errands while the lords wait."
+ },
+ "Out of the Frying Pan": {
+  "outcome": "Story-driven, no choices. The ending plays the same whatever you do.",
+  "tip": "Killing every bandit in the outer bailey completes the quest even if you never touch the portcullis winch."
+ },
+ "Night Raid": {
+  "outcome": "Scripted. Whatever you say to Hans, the raid ends the same way. Getting spotted early just turns it into a straight escape.",
+  "tip": "Change into dark, quiet gear before talking to Robard. Take down the stairs guard first, because the battlements guard is more passive.",
+  "immersion": "Follow Hans's route through the shadows and kill only the two gate guards you were sent for."
+ },
+ "Siege": {
+  "outcome": "Finish every optional task (meat, beer, priest, physician, Cockerel potions) to buff your allies in the coming battles and earn Talmberger.",
+  "tip": "Andrew at the Inn in the Glade is the only beer source. Herbalists brew only at high reputation, so otherwise brew 60 yourself. Nicodemus comes readily after In God's Hands.",
+  "immersion": "Play the camp's errand-runner on horseback. Visiting each supplier in person makes the siege feel lived-in."
+ },
+ "Rocketeer": {
+  "outcome": "Forge the commission, return the original and stop Peychar before Konrad leaves: 1,075 groschen and Feyfar's trunk key. Punching Konrad costs goodwill; freeing Peychar invites attack.",
+  "tip": "Konrad's 'password' is a joke, and the scribe needs an hour. Peychar starts picking the lock at about 00:45.",
+  "immersion": "Keep the midnight watch in the monastery garden yourself, in dark clothes, rather than skipping time."
+ },
+ "Revenge of the Cuman King": {
+  "outcome": "Beat Lam, Asch and the King, then all four together when Odd Bird refuses to pay. Fists only. A death breaks the quest and the money is lost.",
+  "tip": "Strip each beaten fighter's armour between rounds and loot the books. If Odd Bird won't start the next bout, reload and decline his first offer.",
+  "immersion": "Fighting in Skalitz's old sheep pen makes it a fitting homecoming. Come sober and armoured."
+ },
+ "Cold Steel, Hot Blood": {
+  "outcome": "Story battle, no choices. The ford holds whatever you do.",
+  "tip": "Havel's men go for the Skalitz militia before you. Flank them or shoot them from behind.",
+  "immersion": "Stay with the Skalitz men you're leading instead of charging ahead alone."
+ },
+ "Family Values": {
+  "outcome": "Story-driven. Passing all four persuasion checks earns the Freud achievement; the story beats stay the same.",
+  "tip": "Erik's persuasion stats are high. Wear your best clean armour for the Charisma and Badassness checks."
+ },
+ "An Oath is an Oath": {
+  "outcome": "Story-driven, no choices. The finale plays out after the storming.",
+  "tip": "The two-day bombardment is free time for errands such as the encampment scouting. Make a hard save before you tell Robard you're ready to attack.",
+  "immersion": "Ride beside Hans to Skalitz rather than fast-travelling. It's Henry's road home."
+ },
+ "Epilogue": {
+  "outcome": "The game ends when you speak to Sir Hans at the camp. You can free-roam until then.",
+  "tip": "Meet Jobst in daylight. Drink a Saviour Schnapps before the final talk with Hans so you can come back to free roam.",
+  "immersion": "Use the 'couple of days' to say farewells in Rattay and Skalitz before riding out."
+ }
+}

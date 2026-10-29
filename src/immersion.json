@@ -1,0 +1,75 @@
+{
+ "intro": "Self-imposed habits that keep Henry feeling like Henry. Pick the ones you like — none are required.",
+ "source": "Collected from long-standing r/kingdomcome role-play advice and the KCD1 wiki. Reddit blocked live access while this guide was built, so treat these as community conventions, not hard rules.",
+ "groups": [
+  {
+   "title": "Before you start",
+   "rules": [
+    "Hardcore Mode (new game only): no compass, no player marker on the map, and negative perks you pick. It's the biggest immersion boost, and it's harder.",
+    "Learn to read the map by landmarks — roads, rivers, church towers — instead of following the quest marker."
+   ]
+  },
+  {
+   "title": "Living as Henry",
+   "rules": [
+    "Sleep at night in a bed you own or have rented. Eat proper meals instead of waiting for the hunger warning.",
+    "Wash and mend your clothes before meeting nobles. Charisma changes how people react, and a bloody Henry at Radzig's table makes no sense.",
+    "Save sparingly: sleep in your own bed or drink Saviour Schnapps only before genuinely risky moments.",
+    "Walk inside towns, carry a torch at night, and only draw a weapon when there's a reason to."
+   ]
+  },
+  {
+   "title": "Gear that fits the story",
+   "rules": [
+    "Before Awakening, Henry is a penniless refugee: plain clothes and a cheap weapon, no shining plate.",
+    "Upgrade to real armour once Radzig takes you into service — bought, earned or taken from bandits, not stripped from honest townsfolk.",
+    "Keep Cuman gear for Masquerade and Nest of Vipers. Wearing it around villages otherwise makes no sense.",
+    "Dress for the occasion: noble clothes for Capon's errands, a habit in the monastery, hunting gear in the woods."
+   ]
+  },
+  {
+   "title": "Travel",
+   "rules": [
+    "Fast travel is fair game, since time passes and ambushes happen. Still, ride the road for the big moments: the flight to Talmberg, Pribyslavitz, Vranik.",
+    "Don't climb cliffs on horseback or jump walls to skip a gate."
+   ]
+  },
+  {
+   "title": "Crime & conscience",
+   "rules": [
+    "Steal only when Henry has a reason: the Peshek arc, charity for the refugees, or a quest. Never rob friends who helped him.",
+    "Let surrendering enemies flee. Don't strip unconscious townsfolk.",
+    "Henry is a blacksmith's son, not a killer. Keep early fights to fists and knock-outs where you can."
+   ]
+  },
+  {
+   "title": "Pacing",
+   "rules": [
+    "Don't rush the main story after Awakening. The route deliberately spreads side jobs between main beats.",
+    "Finish timed quests in one go. They're written as urgent, so play them that way.",
+    "Respect NPC routines: shops in the day, nobles in the morning, rest at night.",
+    "Don't skip cutscenes or dialogue — that's where Henry's growth happens."
+   ]
+  }
+ ],
+ "visits": {
+  "2": [
+   "Henry arrives with nothing: no armour, no sword of his own, no gold. Keep it that way until he earns it."
+  ],
+  "17": [
+   "From the moment the scribe's lessons end, Henry can read — that's when to start using skill books."
+  ],
+  "45": [
+   "Henry is finally in Radzig's service. Now is the time to equip proper armour and a real sword."
+  ],
+  "50": [
+   "Rest, eat and bathe the night before. Henry rides into his first real battle at dawn."
+  ],
+  "104": [
+   "Live by the bell: mass, meals, work, sleep. Skipping the timetable gets you punished, and it breaks the illusion."
+  ],
+  "112": [
+   "Before leaving, take a farewell tour: Theresa, Matthew and Fritz, Peshek, and your parents' graves in Skalitz."
+  ]
+ }
+}
